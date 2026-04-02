@@ -2,69 +2,125 @@
 <html lang="pl">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>songwebbook</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <title>SongWebBook</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <nav class="navbar">
     <div class="container navbar-inner">
-      <a class="brand" href="index.html">🎵 SongWebBook</a>
-      <div class="nav-actions">
-        <button id="reloadDataBtn" class="btn btn-outline" type="button" style="display:none">Wczytaj plik danych</button>
-        <button id="exportPdfBtn" class="btn btn-outline" type="button">Eksportuj PDF</button>
-        <button id="exportBtn" class="btn btn-outline" type="button">Eksportuj JSON</button>
-        <button id="reloadJsonBtn" class="btn btn-outline hidden" type="button">🔄 Reload JSON</button>
-        <button id="importBtn" class="btn btn-outline hidden" type="button">Importuj JSON</button>
-        <a id="newEntryBtn" class="btn btn-primary hidden" href="form.html">+ Nowy wpis</a>
-      </div>
+      <a class="brand" href="javascript:void(0)" id="brandLink">🎵 SongWebBook</a>
+      <div class="nav-actions" id="navActions"></div>
     </div>
   </nav>
 
   <main class="container">
-    <div class="page-header">
-      <h1>Piosenki i wiersze</h1>
-      <p class="subtitle" id="resultsLabel">Ładowanie piosenek...</p>
-    </div>
 
-    <div class="toolbar">
-      <div class="toolbar-left search-wrap">
-        <input id="searchInput" class="search-input" type="text" placeholder="Szukaj po tytule lub autorze...">
+    <!-- ===== WIDOK: LISTA ===== -->
+    <section id="page-list" style="display:none">
+      <div class="page-header">
+        <h1>Piosenki i wiersze</h1>
+        <p class="subtitle" id="resultsLabel">Ładowanie piosenek...</p>
       </div>
-      <div class="toolbar-right filter-group">
-        <button class="btn btn-outline btn-filter active" data-filter="all" type="button">Wszystkie</button>
-        <button class="btn btn-outline btn-filter" data-filter="piosenka" type="button">🎵 Piosenki</button>
-        <button class="btn btn-outline btn-filter" data-filter="wiersz" type="button">📖 Wiersze</button>
-        <select id="perPageSelect" class="per-page-select" title="Liczba na stronie">
-          <option value="5" selected>5</option>
-          <option value="8">8</option>
-          <option value="10">10</option>
-          <option value="15">15</option>
-          <option value="20">20</option>
-          <option value="all">Wszystkie</option>
-        </select>
+      <div class="toolbar">
+        <div class="toolbar-left search-wrap">
+          <input id="searchInput" class="search-input" type="text" placeholder="Szukaj po tytule lub autorze...">
+        </div>
+        <div class="toolbar-right filter-group">
+          <button class="btn btn-outline btn-filter active" data-filter="all" type="button">Wszystkie</button>
+          <button class="btn btn-outline btn-filter" data-filter="piosenka" type="button">🎵 Piosenki</button>
+          <button class="btn btn-outline btn-filter" data-filter="wiersz" type="button">📖 Wiersze</button>
+          <select id="perPageSelect" class="per-page-select" title="Liczba na stronie">
+            <option value="5" selected>5</option>
+            <option value="8">8</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="all">Wszystkie</option>
+          </select>
+        </div>
       </div>
-    </div>
+      <div id="listRoot" class="list">
+        <div class="loading">Ladowanie...</div>
+      </div>
+      <div id="pagination" class="pagination-wrap"></div>
+    </section>
 
-    <div id="listRoot" class="list">
-      <div class="loading">Ladowanie...</div>
-    </div>
-    <div id="pagination" class="pagination-wrap"></div>
+    <!-- ===== WIDOK: PODGLĄD WPISU ===== -->
+    <section id="page-view" style="display:none">
+      <a href="javascript:void(0)" id="backToListBtn" class="back-link">← Do listy</a>
+      <div id="viewRoot" class="loading">Ladowanie wpisu...</div>
+    </section>
+
+    <!-- ===== WIDOK: FORMULARZ ===== -->
+    <section id="page-form" style="display:none">
+      <a href="javascript:void(0)" id="backFromFormBtn" class="back-link">← Powrót</a>
+      <div class="page-header">
+        <h1 id="formPageTitle">Nowy wpis</h1>
+        <p class="subtitle" id="formSubtitle">Dodaj piosenkę albo wiersz. Formatowanie treści zostanie zachowane.</p>
+      </div>
+      <div class="form-card">
+        <div id="formAlert" class="alert alert-error" style="display:none"></div>
+        <form id="entryForm">
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="titleInput">Tytuł *</label>
+              <input id="titleInput" class="text-input" type="text" required>
+            </div>
+            <div class="form-group">
+              <label for="authorInput">Autor</label>
+              <input id="authorInput" class="text-input" type="text">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="categoryInput">Kategoria</label>
+            <select id="categoryInput" class="select-input">
+              <option value="piosenka">🎵 Piosenka</option>
+              <option value="wiersz">📖 Wiersz</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="contentInput">Treść *</label>
+            <textarea id="contentInput" class="textarea-input" placeholder="Tutaj wpisz tekst. Spacje, wcięcia i łamanie linii zostaną zachowane."></textarea>
+          </div>
+          <div class="form-actions">
+            <button id="cancelFormBtn" class="btn btn-outline" type="button">Anuluj</button>
+            <button id="saveBtn" class="btn btn-primary" type="submit">💾 Zapisz wpis</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
   </main>
 
   <footer class="footer">
-    <div class="container"><a href="javascript:void(0)" onClick="setClear()" style="text-decoration: none;">song</a>-<a href="javascript:void(0)" onClick="setMode()" style="text-decoration: none;">web</a>-<a href="javascript:void(0)" onClick="setModeOff()" style="text-decoration: none;">book</a></div>
+    <div class="container">
+      <a href="javascript:void(0)" onclick="setClear()" style="text-decoration:none">song</a>-<a href="javascript:void(0)" onclick="setMode()" style="text-decoration:none">web</a>-<a href="javascript:void(0)" onclick="setModeOff()" style="text-decoration:none">book</a>
+    </div>
   </footer>
 
   <input id="fileInput" class="hidden" type="file" accept="application/json">
 
+  <!-- Modal: usuń wpis -->
+  <div id="deleteModal" class="modal-overlay">
+    <div class="modal">
+      <h3>Usunąć wpis?</h3>
+      <p>Tej operacji nie można cofnąć.</p>
+      <div class="modal-actions">
+        <button id="cancelDeleteBtn" class="btn btn-outline" type="button">Anuluj</button>
+        <button id="confirmDeleteBtn" class="btn btn-danger" type="button">Kasuj</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: import JSON -->
   <div id="importModal" class="modal-overlay">
     <div class="modal">
       <h3>Import JSON</h3>
       <p>Wybierz sposób importu danych.</p>
       <div class="modal-actions">
         <button id="cancelImportModal" class="btn btn-outline" type="button">Anuluj</button>
-        <button id="replaceImportBtn" class="btn btn-danger" type="button">Zastap dane</button>
+        <button id="replaceImportBtn" class="btn btn-danger" type="button">Zastąp dane</button>
         <button id="mergeImportBtn" class="btn btn-primary" type="button">Scal dane</button>
       </div>
     </div>
@@ -75,18 +131,69 @@
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="js/app.js"></script>
   <script>
-    let allItems = [];
+    // ===== STAN APLIKACJI =====
+    let allItems     = [];
     let activeFilter = 'all';
-    let pendingFile = null;
-    let currentPage = 1;
-    let perPage = 5;
+    let pendingFile  = null;
+    let currentPage  = 1;
+    let perPage      = 5;
+    let currentViewId = null; // id aktualnie oglądanego/edytowanego wpisu
+
+    // ===== NAWIGACJA =====
+    function showPage(name) {
+      $('#page-list, #page-view, #page-form').hide();
+      $('#page-' + name).show();
+      buildNavbar(name);
+      window.scrollTo(0, 0);
+    }
+
+    function buildNavbar(page) {
+      const $nav = $('#navActions');
+      $nav.empty();
+
+      if (page === 'list') {
+        $nav.append('<button id="exportPdfBtn" class="btn btn-outline" type="button">Eksportuj PDF</button>');
+        $nav.append('<button id="exportBtn"    class="btn btn-outline" type="button">Eksportuj JSON</button>');
+        if (isAdminMode()) {
+          $nav.append('<button id="reloadJsonBtn" class="btn btn-outline" type="button">🔄 Reload JSON</button>');
+          $nav.append('<button id="importBtn"     class="btn btn-outline" type="button">Importuj JSON</button>');
+          $nav.append('<button id="newEntryBtn"   class="btn btn-primary"  type="button">+ Nowy wpis</button>');
+        }
+        $('#exportBtn').on('click', exportToJson);
+        $('#exportPdfBtn').on('click', function () { exportAllToPdf(allItems); });
+        $('#reloadJsonBtn').on('click', function () {
+          reloadFromDataFile(
+            function ()    { showToast('Dane przeładowane z data/songs.json.', 'success'); refreshData(); },
+            function (err) { showToast(err.message || 'Nie udało się wczytać pliku danych.', 'error'); }
+          );
+        });
+        $('#importBtn').on('click', function () { $('#fileInput').trigger('click'); });
+        $('#newEntryBtn').on('click', function () { showForm(null); });
+
+      } else if (page === 'view') {
+        if (isAdminMode()) {
+          $nav.append('<button id="newEntryBtn" class="btn btn-primary" type="button">+ Nowy wpis</button>');
+          $('#newEntryBtn').on('click', function () { showForm(null); });
+        }
+
+      } else if (page === 'form') {
+        $nav.append('<button id="navListBtn" class="btn btn-outline" type="button">← Lista</button>');
+        $('#navListBtn').on('click', function () {
+          currentViewId ? showView(currentViewId) : showList();
+        });
+      }
+    }
+
+    // ===== WIDOK: LISTA =====
+    function showList() {
+      showPage('list');
+      refreshData();
+      document.title = 'SongWebBook';
+    }
 
     function renderPagination(totalPages, totalItems, start, end) {
-      if (perPage === 'all' || totalPages <= 1) {
-        $('#pagination').html('');
-        return;
-      }
-      const info = `<div class="pagination-info">Pokazano ${start + 1}-${end} z ${totalItems}</div>`;
+      if (perPage === 'all' || totalPages <= 1) { $('#pagination').html(''); return; }
+      const info = `<div class="pagination-info">Pokazano ${start + 1}–${end} z ${totalItems}</div>`;
       let btns = '<div class="pagination-controls">';
       btns += `<button class="btn btn-outline btn-page" data-page="1" ${currentPage === 1 ? 'disabled' : ''}>«</button>`;
       btns += `<button class="btn btn-outline btn-page" data-page="${currentPage - 1}" ${currentPage === 1 ? 'disabled' : ''}>‹</button>`;
@@ -117,73 +224,156 @@
       }
 
       const totalItems = filtered.length;
-      const isAll = perPage === 'all';
-      const pageSize = isAll ? totalItems : parseInt(perPage);
+      const isAll      = perPage === 'all';
+      const pageSize   = isAll ? totalItems : parseInt(perPage);
       const totalPages = isAll ? 1 : Math.ceil(totalItems / pageSize);
       if (currentPage > totalPages) currentPage = totalPages;
       if (currentPage < 1) currentPage = 1;
-      const start = isAll ? 0 : (currentPage - 1) * pageSize;
-      const end = isAll ? totalItems : Math.min(start + pageSize, totalItems);
+      const start     = isAll ? 0 : (currentPage - 1) * pageSize;
+      const end       = isAll ? totalItems : Math.min(start + pageSize, totalItems);
       const pageItems = filtered.slice(start, end);
 
-      const html = pageItems.map((item) => {
-        return `
-          <article class="card">
-            <div class="card-title">
-                <a style="display:none" href="view.html?id=${encodeURIComponent(item.id)}">${escapeHtml(item.title)}</a>
-                <a class="btn btn-secondary" style="width:100%;text-align:left!important;justify-content:left;padding:5px 10px 5px 10px;border-radius:12px;border:1px #8b8bb0 solid" href="view.html?id=${encodeURIComponent(item.id)}">
-                  ${escapeHtml(item.title)}
-                  <span>👤 ${escapeHtml(item.author || 'Nieznany autor')}</span>
-                </a>  
-              <div style="position:relative;top:-29px;right:5px;display:inline;float: right">${categoryBadge(item.category)}</div>                
-            </div>
-            
-            <p class="card-excerpt">${escapeHtml(getExcerpt(item.content))}</p>
-            <div style="display:none" class="card-footer">
-              <a class="btn btn-secondary" href="view.html?id=${encodeURIComponent(item.id)}">Otwórz</a>
-            </div>
-          </article>
-        `;
-      }).join('');
+      const html = pageItems.map((item) => `
+        <article class="card">
+          <div class="card-title">
+            <a class="btn btn-secondary card-open-btn"
+               style="width:100%;text-align:left!important;justify-content:left;padding:5px 10px;border-radius:12px;border:1px #8b8bb0 solid"
+               href="javascript:void(0)" data-id="${item.id}">
+              ${escapeHtml(item.title)}
+              <span>👤 ${escapeHtml(item.author || 'Nieznany autor')}</span>
+            </a>
+            <div style="position:relative;top:-29px;right:5px;display:inline;float:right">${categoryBadge(item.category)}</div>
+          </div>
+          <p class="card-excerpt">${escapeHtml(getExcerpt(item.content))}</p>
+        </article>
+      `).join('');
 
       $('#listRoot').html(html);
       renderPagination(totalPages, totalItems, start, end);
     }
 
-    function setMode() {
-      const newMode = isAdminMode() ? 'user' : 'admin';
-      localStorage.setItem('mode', newMode);
-      location.reload();
-    }
-
-    function setModeOff() {
-      localStorage.removeItem('mode');
-      location.reload();
-    }
-
-    function setClear() {
-      localStorage.removeItem('songs_library_data');
-      location.reload();
-    }
-
     function refreshData() {
-      apiGetAll((items) => {
-        allItems = items;
-        renderList();
+      apiGetAll((items) => { allItems = items; renderList(); });
+    }
+
+    // ===== WIDOK: PODGLĄD =====
+    function showView(id) {
+      currentViewId = id;
+      showPage('view');
+      $('#viewRoot').addClass('loading').html('Ladowanie wpisu...');
+      ensureDataReady(function () {
+        apiGetOne(id,
+          function (item) {
+            document.title = item.title + ' • Śpiewnik';
+            renderItem(item);
+          },
+          function () {
+            $('#viewRoot').removeClass('loading').html('<div class="empty">Nie znaleziono wpisu.</div>');
+          }
+        );
       });
     }
 
-    $(function () {
+    function renderItem(item) {
+      const editedLabel = item.updatedAt && item.updatedAt !== item.createdAt
+        ? `<span>✏️ Edycja: ${formatDate(item.updatedAt)}</span>` : '';
+      const adminActions = isAdminMode()
+        ? `<div>
+             <button class="btn btn-secondary" id="editItemBtn">✏️ Edytuj</button>
+             <button class="btn btn-danger"    id="deleteBtn"  type="button">🗑️ Kasuj</button>
+           </div>` : '';
+
+      $('#viewRoot').removeClass('loading').html(`
+        <article class="article">
+          <h1>${escapeHtml(item.title)}</h1>
+          <div class="article-meta">
+            ${categoryBadge(item.category)}
+            <span>👤 ${escapeHtml(item.author || 'Nieznany autor')}</span>
+            <span>📅 Dodano: ${formatDate(item.createdAt)}</span>
+            ${editedLabel}
+          </div>
+          <pre class="poem-content">${escapeHtml(item.content)}</pre>
+          <div class="article-actions">
+            <button class="btn btn-outline" id="backToListFromArticleBtn">← Wszystkie wpisy</button>
+            ${adminActions}
+          </div>
+        </article>
+      `);
+
+      $('#backToListFromArticleBtn').on('click', showList);
       if (isAdminMode()) {
-        $('#importBtn, #newEntryBtn, #reloadJsonBtn').removeClass('hidden');
+        $('#editItemBtn').on('click', function () { showForm(item.id); });
+        $('#deleteBtn').on('click', function () { $('#deleteModal').css('display', 'flex'); });
+      }
+    }
+
+    // ===== WIDOK: FORMULARZ =====
+    function showForm(id) {
+      currentViewId = id;
+      showPage('form');
+      hideFormError();
+      $('#entryForm')[0].reset();
+      $('#saveBtn').prop('disabled', false).text('💾 Zapisz wpis');
+      $('#entryForm').show();
+      $('#formSubtitle').text('Dodaj piosenkę albo wiersz. Formatowanie treści zostanie zachowane.');
+
+      if (!isAdminMode()) {
+        $('#formPageTitle').text('Brak dostępu');
+        $('#formSubtitle').text('Edycja i dodawanie wpisów są dostępne tylko w trybie admin.');
+        $('#entryForm').hide();
+        showFormError('Ta strona jest dostępna tylko wtedy, gdy localStorage zawiera mode=admin.');
+        return;
       }
 
-      ensureDataReady(function () {
-        refreshData();
+      if (id) {
+        $('#formPageTitle').text('Edytuj wpis');
+        document.title = 'Edytuj wpis • Śpiewnik';
+        ensureDataReady(function () {
+          apiGetOne(id, function (item) {
+            $('#titleInput').val(item.title);
+            $('#authorInput').val(item.author || '');
+            $('#categoryInput').val(item.category || 'piosenka');
+            $('#contentInput').val(item.content || '');
+          }, function () {
+            showFormError('Nie udało się załadować wpisu do edycji.');
+          });
+        });
+      } else {
+        $('#formPageTitle').text('Nowy wpis');
+        document.title = 'Nowy wpis • Śpiewnik';
+      }
+    }
+
+    function showFormError(message) { $('#formAlert').text(message).show(); }
+    function hideFormError()        { $('#formAlert').hide().text(''); }
+
+    // ===== HELPERS TRYB =====
+    function setMode()    { localStorage.setItem('mode', isAdminMode() ? 'user' : 'admin'); location.reload(); }
+    function setModeOff() { localStorage.removeItem('mode'); location.reload(); }
+    function setClear()   { localStorage.removeItem('songs_library_data'); location.reload(); }
+
+    // ===== INIT =====
+    $(function () {
+      // Nawigacja globalna
+      $('#brandLink').on('click', showList);
+      $('#backToListBtn').on('click', showList);
+      $('#backFromFormBtn').on('click', function () { currentViewId ? showView(currentViewId) : showList(); });
+      $('#cancelFormBtn').on('click',   function () { currentViewId ? showView(currentViewId) : showList(); });
+
+      // Kliknięcie karty (delegowane)
+      $(document).on('click', '.card-open-btn', function () {
+        showView($(this).data('id'));
       });
 
-      $('#searchInput').on('input', function () { currentPage = 1; renderList(); });
+      // Paginacja (delegowana)
+      $(document).on('click', '.btn-page:not(:disabled)', function () {
+        currentPage = parseInt($(this).data('page'));
+        renderList();
+        $('html, body').animate({ scrollTop: $('#listRoot').offset().top - 20 }, 200);
+      });
 
+      // Filtry i wyszukiwanie
+      $('#searchInput').on('input', function () { currentPage = 1; renderList(); });
       $(document).on('click', '.btn-filter', function () {
         $('.btn-filter').removeClass('active');
         $(this).addClass('active');
@@ -191,82 +381,92 @@
         currentPage = 1;
         renderList();
       });
-
       $('#perPageSelect').on('change', function () {
         perPage = $(this).val() === 'all' ? 'all' : parseInt($(this).val());
         currentPage = 1;
         renderList();
       });
 
-      $(document).on('click', '.btn-page:not(:disabled)', function () {
-        currentPage = parseInt($(this).data('page'));
-        renderList();
-        $('html, body').animate({ scrollTop: $('#listRoot').offset().top - 20 }, 200);
+      // Modal: usuń wpis
+      $('#cancelDeleteBtn').on('click', function () { $('#deleteModal').hide(); });
+      $('#confirmDeleteBtn').on('click', function () {
+        if (!isAdminMode()) { $('#deleteModal').hide(); return; }
+        apiDelete(currentViewId,
+          function () {
+            $('#deleteModal').hide();
+            showToast('Wpis został usunięty.', 'success');
+            setTimeout(showList, 700);
+          },
+          function () {
+            $('#deleteModal').hide();
+            showToast('Nie udało się usunąć wpisu.', 'error');
+          }
+        );
       });
 
-      $('#exportBtn').on('click', exportToJson);
-      $('#reloadJsonBtn').on('click', function () {
-        reloadFromDataFile(function () {
-          showToast('Dane przeladowane z data/songs.json.', 'success');
-          refreshData();
-        }, function (err) {
-          showToast(err.message || 'Nie udalo sie wczytac pliku danych.', 'error');
-        });
-      });
-      $('#exportPdfBtn').on('click', function () {
-        exportAllToPdf(allItems);
-      });
-      $('#reloadDataBtn').on('click', function () {
-        reloadFromDataFile(function () {
-          showToast('Wczytano dane z pliku data/songs.json.', 'success');
-          refreshData();
-        }, function (err) {
-          showToast(err.message || 'Nie udało się wczytać pliku danych.', 'error');
-        });
-      });
-      $('#importBtn').on('click', function () { $('#fileInput').trigger('click'); });
+      // Zapis formularza
+      $('#entryForm').on('submit', function (event) {
+        event.preventDefault();
+        hideFormError();
+        if (!isAdminMode()) { showFormError('Brak uprawnień do zapisu.'); return; }
 
-      $('#fileInput').on('change', function (event) {
-        pendingFile = event.target.files && event.target.files[0] ? event.target.files[0] : null;
-        if (pendingFile) {
-          $('#importModal').css('display', 'flex');
+        const payload = {
+          title:    $('#titleInput').val(),
+          author:   $('#authorInput').val(),
+          category: $('#categoryInput').val(),
+          content:  $('#contentInput').val()
+        };
+        if (!payload.title.trim())   { showFormError('Pole „Tytuł" jest wymagane.');  return; }
+        if (!payload.content.trim()) { showFormError('Pole „Treść" jest wymagane.'); return; }
+
+        $('#saveBtn').prop('disabled', true).text('Zapisywanie...');
+
+        const onSuccess = function (item) {
+          showToast(currentViewId ? 'Zapisano zmiany.' : 'Dodano nowy wpis.', 'success');
+          setTimeout(function () { showView(item.id); }, 700);
+        };
+        const onError = function (xhr) {
+          $('#saveBtn').prop('disabled', false).text('💾 Zapisz wpis');
+          showFormError(xhr.responseJSON?.error || 'Wystąpił błąd zapisu.');
+        };
+
+        if (currentViewId) {
+          apiUpdate(currentViewId, payload, onSuccess, onError);
+        } else {
+          apiCreate(payload, onSuccess, onError);
         }
       });
 
-      $('#cancelImportModal').on('click', function () {
-        pendingFile = null;
-        $('#fileInput').val('');
-        $('#importModal').hide();
+      // Modal: import JSON
+      $('#fileInput').on('change', function (event) {
+        pendingFile = event.target.files && event.target.files[0] ? event.target.files[0] : null;
+        if (pendingFile) { $('#importModal').css('display', 'flex'); }
       });
-
+      $('#cancelImportModal').on('click', function () {
+        pendingFile = null; $('#fileInput').val(''); $('#importModal').hide();
+      });
       $('#replaceImportBtn').on('click', function () {
         if (!pendingFile) return;
         importFromJson(pendingFile, false, function (error, count) {
-          $('#importModal').hide();
-          $('#fileInput').val('');
-          pendingFile = null;
-          if (error) {
-            showToast(error, 'error');
-            return;
-          }
+          $('#importModal').hide(); $('#fileInput').val(''); pendingFile = null;
+          if (error) { showToast(error, 'error'); return; }
           showToast('Zaimportowano ' + count + ' piosenek.', 'success');
           refreshData();
         });
       });
-
       $('#mergeImportBtn').on('click', function () {
         if (!pendingFile) return;
         importFromJson(pendingFile, true, function (error, count) {
-          $('#importModal').hide();
-          $('#fileInput').val('');
-          pendingFile = null;
-          if (error) {
-            showToast(error, 'error');
-            return;
-          }
+          $('#importModal').hide(); $('#fileInput').val(''); pendingFile = null;
+          if (error) { showToast(error, 'error'); return; }
           showToast('Scalono ' + count + ' piosenek.', 'success');
           refreshData();
         });
+      });
+
+      // Start — załaduj dane i pokaż listę
+      ensureDataReady(function () {
+        showList();
       });
     });
   </script>

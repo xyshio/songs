@@ -1,7 +1,7 @@
 Add-Type -AssemblyName System.Web
 
-$path    = 'C:\work\songs\js\spiewnik.txt'
-$outPath = 'C:\work\songs\data\songs.json'
+$path    = 'C:\work\spiewnik\js\spiewnik.txt'
+$outPath = 'C:\work\spiewnik\data\songs.json'
 $sep     = '= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ='
 $lines   = Get-Content -Path $path -Encoding UTF8
 

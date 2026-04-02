@@ -469,6 +469,15 @@
     },
   {
     "id": "seed-53",
+    "title": "Na stacji Jerzego z Podebrad",
+    "author": "Jaromir Nohavica (Zbigniew Zamachowski)",
+    "category": "piosenka",
+    "content": "E----5----2----3----2----2----------------- III/III p. 0 p.\nH---------------------------------3-----5---3\nWidzimy się co dzień na schodach w metrze   /D G A F B C\nGdy ona jedzie na dół a ja na powierzchnię  /D G A F B C\nJa wracam z nocnej zmiany                   /h d\nTy pracujesz rano                           /fis a\nJa jestem niewyspany                        /G A B C\nTy z twarzą zatroskaną                      /h D d F\nA schody jadą choć mogłyby stać             /G A D B C F\nNa stacji Jerzego z Podebrad                /G A D B C F\n\nPraga o szóstej sennie jeszcze ziewa\nI tylko my naiwni – robimy co trzeba\nJa spieszę się z kliniki\nGna do kiosku ona\nZmęczone dwa trybiki\nDwie wyspy wśród miliona\nChoć o tej samej porze – randki są ruchome\nBo w tym tandemie każdy jedzie w swoją stronę\nJa w lewo ona w prawo\nNie ma odwrotu\nJą czeka Rude pravo\nA na mnie pusty pokój\n\nNa czarodziejskich schodach czuję w sercu drżenie\nGdy kioskareczka Ewa śle mi swe spojrzenie\nW pospiechu ledwie zdążę\nSzepnąć – \"witam z rana\"\nBo całowania w biegu\nSurowo się zabrania\nA Praga drzemie i nic jeszcze nie wie\nO dwojgu zakochanych zapatrzonych w siebie\nJuż tęsknią nasze włosy\nPędem rozwiane\nDo tego co nas czeka\nDo tego co nieznane",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-54",
     "title": "Naprawdę nie dzieję sie nic",
     "author": "Grzegorz Turnau",
     "category": "piosenka",
@@ -477,7 +486,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-54",
+    "id": "seed-55",
     "title": "Nie sprzedawajcie swych marzeń",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -486,7 +495,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-55",
+    "id": "seed-56",
     "title": "Niebieskooki sen",
     "author": "Słodki Całus od Buby, muz., sł.: K. Jurkiewicz",
     "category": "piosenka",
@@ -495,7 +504,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-56",
+    "id": "seed-57",
     "title": "Niebo do wynajęcia",
     "author": "Roberty Kasprzycki",
     "category": "piosenka",
@@ -504,7 +513,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-57",
+    "id": "seed-58",
     "title": "North West Passage",
     "author": "Ryczące Dwudziestki",
     "category": "piosenka",
@@ -513,7 +522,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-58",
+    "id": "seed-59",
     "title": "Obława",
     "author": "Jacek Kaczmarski",
     "category": "piosenka",
@@ -522,7 +531,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-59",
+    "id": "seed-60",
     "title": "Ocean",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -531,7 +540,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-60",
+    "id": "seed-61",
     "title": "Oczekiwanie",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -540,7 +549,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-61",
+    "id": "seed-62",
     "title": "Opadły mgły wstaje nowy dzień",
     "author": "Stare Dobre Małżeństwo, sł: Edward Stachura",
     "category": "piosenka",
@@ -549,7 +558,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-62",
+    "id": "seed-63",
     "title": "Pejzaże Harasymowiczowskie",
     "author": "Autor / Wykonawca: WGB",
     "category": "piosenka",
@@ -558,7 +567,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-63",
+    "id": "seed-64",
     "title": "Pejzaż Horyznotalny",
     "author": "Andrzej Sikorowski, Grzegorz Turnau",
     "category": "piosenka",
@@ -567,7 +576,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-64",
+    "id": "seed-65",
     "title": "Pieśń Wielorybników",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -576,7 +585,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-65",
+    "id": "seed-66",
     "title": "Piosenka dla Dośki",
     "author": "Majstrowie Gór",
     "category": "piosenka",
@@ -585,7 +594,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-66",
+    "id": "seed-67",
     "title": "Piosenka dla Wojtka Bellona",
     "author": "WGB",
     "category": "piosenka",
@@ -594,7 +603,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-67",
+    "id": "seed-68",
     "title": "Piosenka Wiosenna",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -603,7 +612,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-68",
+    "id": "seed-69",
     "title": "Pocztówka z Beskidu",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -612,7 +621,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-69",
+    "id": "seed-70",
     "title": "Pod kątem ostrym",
     "author": "SDM, sł. Adam Ziemianin",
     "category": "piosenka",
@@ -621,7 +630,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-70",
+    "id": "seed-71",
     "title": "Polanka",
     "author": "słowa i muzyka: Zbigniew Stefański (z repertuaru zespołu „Bez Jacka”)",
     "category": "piosenka",
@@ -630,7 +639,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-71",
+    "id": "seed-72",
     "title": "Połoniny Niebieskie",
     "author": "Adam Drąg",
     "category": "piosenka",
@@ -639,7 +648,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-72",
+    "id": "seed-73",
     "title": "Posiedzimy jeszcze trochę",
     "author": "Piotr Bakal",
     "category": "piosenka",
@@ -648,7 +657,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-73",
+    "id": "seed-74",
     "title": "Powroty",
     "author": "Słodki Całus od Buby, muz., sł.: K. Jurkiewicz",
     "category": "piosenka",
@@ -657,7 +666,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-74",
+    "id": "seed-75",
     "title": "Powroty",
     "author": "Szanty",
     "category": "piosenka",
@@ -666,7 +675,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-75",
+    "id": "seed-76",
     "title": "Powrót",
     "author": "Krążek -  sł., muz. Maciej Służała kap. II",
     "category": "piosenka",
@@ -675,7 +684,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-76",
+    "id": "seed-77",
     "title": "Pożegnalny ton",
     "author": "Autor / Wykonawca: muz.sł.S.Klupś",
     "category": "piosenka",
@@ -684,7 +693,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-77",
+    "id": "seed-78",
     "title": "Pożegnanie",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -693,7 +702,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-78",
+    "id": "seed-79",
     "title": "Pożegnanie Liverpoolu",
     "author": "",
     "category": "piosenka",
@@ -702,7 +711,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-79",
+    "id": "seed-80",
     "title": "Przypowieść",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -711,7 +720,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-80",
+    "id": "seed-81",
     "title": "Przypowieść II",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -720,7 +729,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-81",
+    "id": "seed-82",
     "title": "Rzeka",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -729,7 +738,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-82",
+    "id": "seed-83",
     "title": "Sanctus",
     "author": "SDM. Stare Dobre Małżeństwo. sł: Edward Stachura",
     "category": "piosenka",
@@ -738,7 +747,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-83",
+    "id": "seed-84",
     "title": "Scarborough Fair",
     "author": "Chords by Simon \u0026 Garfunkel",
     "category": "piosenka",
@@ -747,7 +756,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-84",
+    "id": "seed-85",
     "title": "Sielanka o Domu",
     "author": "Wolna Grupa Bukowina, muz. W. Juszczyszyn; sł. W. Belon",
     "category": "piosenka",
@@ -756,7 +765,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-85",
+    "id": "seed-86",
     "title": "Śniegowice",
     "author": "Tomasz Wachnowski",
     "category": "piosenka",
@@ -765,7 +774,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-86",
+    "id": "seed-87",
     "title": "Taradajka",
     "author": "Wszystkiego Najlepszgo",
     "category": "piosenka",
@@ -774,7 +783,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-87",
+    "id": "seed-88",
     "title": "Tawerna Pod Pijaną Zgrają",
     "author": "",
     "category": "piosenka",
@@ -783,7 +792,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-88",
+    "id": "seed-89",
     "title": "U Pana Boga za piecem (Kipiatok)",
     "author": "Słodki Całus od Buby",
     "category": "piosenka",
@@ -792,7 +801,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-89",
+    "id": "seed-90",
     "title": "We wtorek w schronisku",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -801,7 +810,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-90",
+    "id": "seed-91",
     "title": "Wędrowiec",
     "author": "Autor: Jarosław Zajączkowski Wykonawca : Krewni i Znajomi Królika",
     "category": "piosenka",
@@ -810,7 +819,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-91",
+    "id": "seed-92",
     "title": "Wędrują ludzie",
     "author": "Saskia",
     "category": "piosenka",
@@ -819,7 +828,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-92",
+    "id": "seed-93",
     "title": "Wędrujemy",
     "author": "Na Bani",
     "category": "piosenka",
@@ -828,7 +837,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-93",
+    "id": "seed-94",
     "title": "Wieczorna Piosenka o domu",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -837,7 +846,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-94",
+    "id": "seed-95",
     "title": "Wielorybnicy Grenlandzcy",
     "author": "wyk. Ryczące Dwudziestki",
     "category": "piosenka",
@@ -846,7 +855,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-95",
+    "id": "seed-96",
     "title": "Wiewiórka",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -855,7 +864,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-96",
+    "id": "seed-97",
     "title": "Wiosna",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -864,7 +873,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-97",
+    "id": "seed-98",
     "title": "W marcu nad ranem",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -873,7 +882,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-98",
+    "id": "seed-99",
     "title": "W górach",
     "author": "sł. W. Benkoff-Czarnocki, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -882,7 +891,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-99",
+    "id": "seed-100",
     "title": "Krążek",
     "author": "Wiatr i Strzyga. Maciej Służała",
     "category": "piosenka",
@@ -891,7 +900,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-100",
+    "id": "seed-101",
     "title": "Wracanie",
     "author": "Na Bani",
     "category": "piosenka",
@@ -900,7 +909,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-101",
+    "id": "seed-102",
     "title": "W liniach losu zapisane",
     "author": "Michał Langowski, Martin Kac, słowa Wiesława Kwinto Koczan",
     "category": "piosenka",
@@ -909,7 +918,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-102",
+    "id": "seed-103",
     "title": "Zabierz mnie wielka rzeko",
     "author": "Wykonawca: Atlantyda, Słowa i muzyka: Sławomir Klupś",
     "category": "piosenka",
@@ -918,7 +927,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-103",
+    "id": "seed-104",
     "title": "Zamieszkamy pod wspólnym dachem",
     "author": "Pod Budą, Andrzej Sikorowski",
     "category": "piosenka",
@@ -927,7 +936,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-104",
+    "id": "seed-105",
     "title": "Zapiszę śniegiem w kominie",
     "author": "Robert Kasprzycki",
     "category": "piosenka",
@@ -936,7 +945,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-105",
+    "id": "seed-106",
     "title": "Zawirował świat",
     "author": "K. Myszkowski, SDM",
     "category": "piosenka",
@@ -945,7 +954,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-106",
+    "id": "seed-107",
     "title": "Zima",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -954,7 +963,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-107",
+    "id": "seed-108",
     "title": "Złockie  niebo cerkiewne",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -963,7 +972,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-108",
+    "id": "seed-109",
     "title": "Znów wędrujemy",
     "author": "Grzegorz Turnau",
     "category": "piosenka",
@@ -972,7 +981,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-109",
+    "id": "seed-110",
     "title": "Zwiewność",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -981,7 +990,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-110",
+    "id": "seed-111",
     "title": "Życzenia powrotu",
     "author": "Wykonawca: EKT-Gdynia, Słowa: Ireneusz Wójcicki, Muzyka: Jan Wydra",
     "category": "piosenka",
