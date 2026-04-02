@@ -393,6 +393,9 @@ main { padding: 28px 0 48px; }
 }
 
 @media (max-width: 600px) {
+  /* baza — większa czcionka dla całego widoku mobilnego */
+  body { font-size: 1rem; }
+
   /* navbar */
   .navbar-inner {
     flex-direction: column;
@@ -401,6 +404,7 @@ main { padding: 28px 0 48px; }
     padding: 10px 0;
     min-height: unset;
   }
+  .brand { font-size: 1.3rem; }
   .nav-actions {
     width: 100%;
     flex-wrap: wrap;
@@ -408,51 +412,100 @@ main { padding: 28px 0 48px; }
   }
   .nav-actions .btn {
     flex: 1 1 auto;
-    font-size: .78rem;
-    padding: 8px 10px;
+    font-size: .95rem;
+    padding: 10px 12px;
   }
 
   /* page header */
-  .page-header h1 { font-size: 1.4rem; }
+  .page-header h1 { font-size: 1.6rem; }
+  .subtitle { font-size: 1rem; }
 
   /* toolbar */
   .toolbar { flex-direction: column; gap: 10px; }
   .toolbar-left, .toolbar-right { width: 100%; }
   .search-wrap { min-width: unset; }
+  .search-input { font-size: 1rem; padding: 13px 14px; }
   .filter-group { flex-wrap: wrap; gap: 6px; }
-  .btn-filter { flex: 1 1 auto; font-size: .78rem; padding: 8px 8px; }
-  .per-page-select { width: 100%; }
+  .btn-filter { flex: 1 1 auto; font-size: .95rem; padding: 10px 8px; }
+  .per-page-select { width: 100%; font-size: 1rem; padding: 10px 12px; }
 
-  /* cards */
-  .card { padding: 8px 10px; }
-  .card-title { font-size: .88rem !important; }
+  /* cards — lista mobilna */
+  .card { padding: 12px 14px; }
+
+  /* resetuj hacky float+top dla badge w karcie */
+  .card-title {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 1rem !important;
+  }
+  .card-title > div {
+    position: static !important;
+    float: none !important;
+    top: auto !important;
+    right: auto !important;
+    display: block !important;
+    align-self: flex-start;
+  }
+
+  /* przycisk-link do otwierania wpisu */
+  .card-open-btn {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    height: auto !important;
+    white-space: normal !important;
+    gap: 4px !important;
+    line-height: 1.5 !important;
+    font-size: 1rem !important;
+  }
+  .card-open-btn span {
+    font-size: .9rem;
+    opacity: .75;
+    font-weight: 400;
+  }
+
+  /* skrót treści */
+  .card-excerpt { font-size: .95rem; margin-top: 6px; line-height: 1.6; }
+
+  /* badge */
+  .badge { font-size: .88rem; padding: 5px 12px; }
 
   /* article / view page */
-  .article { padding: 14px; }
-  .article h1 { font-size: 1.25rem; }
+  .article { padding: 16px; }
+  .article h1 { font-size: 1.4rem; }
+  .article-meta { font-size: .95rem; }
   .poem-content {
-    font-size: .85rem;
-    padding: 12px;
+    font-size: 1rem;
+    padding: 14px;
     border-left-width: 3px;
+    line-height: 1.8;
   }
   .article-actions {
     flex-direction: column;
     align-items: stretch;
   }
-  .article-actions .btn { text-align: center; justify-content: center; }
+  .article-actions .btn { text-align: center; justify-content: center; font-size: 1rem; padding: 12px; }
 
   /* form */
   .form-grid { grid-template-columns: 1fr; }
-  .form-card { padding: 14px; }
+  .form-card { padding: 16px; }
+  .form-group label { font-size: 1rem; }
+  .text-input, .select-input, .textarea-input { font-size: 1rem; padding: 13px 14px; }
   .form-actions { flex-direction: column; align-items: stretch; }
-  .form-actions .btn { text-align: center; justify-content: center; }
+  .form-actions .btn { text-align: center; justify-content: center; font-size: 1rem; padding: 12px; }
 
   /* pagination */
   .pagination-wrap { flex-direction: column; align-items: center; }
-  .btn-page { min-width: 30px; padding: 5px 6px; font-size: .8rem; }
+  .pagination-info { font-size: .95rem; }
+  .btn-page { min-width: 36px; padding: 8px 10px; font-size: .95rem; }
 
   /* modal */
-  .modal { padding: 16px; }
+  .modal { padding: 18px; }
+  .modal h3 { font-size: 1.1rem; }
+  .modal p { font-size: 1rem; }
   .modal-actions { flex-direction: column; }
-  .modal-actions .btn { width: 100%; justify-content: center; }
+  .modal-actions .btn { width: 100%; justify-content: center; font-size: 1rem; padding: 12px; }
+
+  /* back link */
+  .back-link { font-size: 1rem; }
 }
