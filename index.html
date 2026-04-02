@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>songwebbook</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container navbar-inner">
+      <a class="brand" href="index.html">🎵 SongWebBook</a>
+      <div class="nav-actions">
+        <button id="reloadDataBtn" class="btn btn-outline" type="button" style="display:none">Wczytaj plik danych</button>
+        <button id="exportPdfBtn" class="btn btn-outline" type="button">Eksportuj PDF</button>
+        <button id="exportBtn" class="btn btn-outline" type="button">Eksportuj JSON</button>
+        <button id="reloadJsonBtn" class="btn btn-outline hidden" type="button">🔄 Reload JSON</button>
+        <button id="importBtn" class="btn btn-outline hidden" type="button">Importuj JSON</button>
+        <a id="newEntryBtn" class="btn btn-primary hidden" href="form.html">+ Nowy wpis</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container">
+    <div class="page-header">
+      <h1>Piosenki i wiersze</h1>
+      <p class="subtitle" id="resultsLabel">Ładowanie piosenek...</p>
+    </div>
+
+    <div class="toolbar">
+      <div class="toolbar-left search-wrap">
+        <input id="searchInput" class="search-input" type="text" placeholder="Szukaj po tytule lub autorze...">
+      </div>
+      <div class="toolbar-right filter-group">
+        <button class="btn btn-outline btn-filter active" data-filter="all" type="button">Wszystkie</button>
+        <button class="btn btn-outline btn-filter" data-filter="piosenka" type="button">🎵 Piosenki</button>
+        <button class="btn btn-outline btn-filter" data-filter="wiersz" type="button">📖 Wiersze</button>
+        <select id="perPageSelect" class="per-page-select" title="Liczba na stronie">
+          <option value="5" selected>5</option>
+          <option value="8">8</option>
+          <option value="10">10</option>
+          <option value="15">15</option>
+          <option value="20">20</option>
+          <option value="all">Wszystkie</option>
+        </select>
+      </div>
+    </div>
+
+    <div id="listRoot" class="list">
+      <div class="loading">Ladowanie...</div>
+    </div>
+    <div id="pagination" class="pagination-wrap"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="container"><a href="javascript:void(0)" onClick="setClear()" style="text-decoration: none;">song</a>-<a href="javascript:void(0)" onClick="setMode()" style="text-decoration: none;">web</a>-<a href="javascript:void(0)" onClick="setModeOff()" style="text-decoration: none;">book</a></div>
+  </footer>
+
+  <input id="fileInput" class="hidden" type="file" accept="application/json">
+
+  <div id="importModal" class="modal-overlay">
+    <div class="modal">
+      <h3>Import JSON</h3>
+      <p>Wybierz sposób importu danych.</p>
+      <div class="modal-actions">
+        <button id="cancelImportModal" class="btn btn-outline" type="button">Anuluj</button>
+        <button id="replaceImportBtn" class="btn btn-danger" type="button">Zastap dane</button>
+        <button id="mergeImportBtn" class="btn btn-primary" type="button">Scal dane</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast"></div>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    let allItems = [];
+    let activeFilter = 'all';
+    let pendingFile = null;
+    let currentPage = 1;
+    let perPage = 5;
+
+    function renderPagination(totalPages, totalItems, start, end) {
+      if (perPage === 'all' || totalPages <= 1) {
+        $('#pagination').html('');
+        return;
+      }
+      const info = `<div class="pagination-info">Pokazano ${start + 1}-${end} z ${totalItems}</div>`;
+      let btns = '<div class="pagination-controls">';
+      btns += `<button class="btn btn-outline btn-page" data-page="1" ${currentPage === 1 ? 'disabled' : ''}>«</button>`;
+      btns += `<button class="btn btn-outline btn-page" data-page="${currentPage - 1}" ${currentPage === 1 ? 'disabled' : ''}>‹</button>`;
+      const win = 2;
+      for (let i = Math.max(1, currentPage - win); i <= Math.min(totalPages, currentPage + win); i++) {
+        btns += `<button class="btn btn-outline btn-page ${i === currentPage ? 'active' : ''}" data-page="${i}">${i}</button>`;
+      }
+      btns += `<button class="btn btn-outline btn-page" data-page="${currentPage + 1}" ${currentPage === totalPages ? 'disabled' : ''}>›</button>`;
+      btns += `<button class="btn btn-outline btn-page" data-page="${totalPages}" ${currentPage === totalPages ? 'disabled' : ''}>»</button>`;
+      btns += '</div>';
+      $('#pagination').html(info + btns);
+    }
+
+    function renderList() {
+      const query = ($('#searchInput').val() || '').toLowerCase().trim();
+      const filtered = allItems.filter((item) => {
+        const matchFilter = activeFilter === 'all' || item.category === activeFilter;
+        const haystack = (item.title + ' ' + (item.author || '') + ' ' + (item.content || '')).toLowerCase();
+        return matchFilter && (!query || haystack.includes(query));
+      });
+
+      $('#resultsLabel').text(pluralPL(filtered.length, 'piosenka', 'piosenki', 'piosenek'));
+
+      if (!filtered.length) {
+        $('#listRoot').html('<div class="empty">Brak pasujących piosenek. Dodaj nowy albo zmień filtry.</div>');
+        $('#pagination').html('');
+        return;
+      }
+
+      const totalItems = filtered.length;
+      const isAll = perPage === 'all';
+      const pageSize = isAll ? totalItems : parseInt(perPage);
+      const totalPages = isAll ? 1 : Math.ceil(totalItems / pageSize);
+      if (currentPage > totalPages) currentPage = totalPages;
+      if (currentPage < 1) currentPage = 1;
+      const start = isAll ? 0 : (currentPage - 1) * pageSize;
+      const end = isAll ? totalItems : Math.min(start + pageSize, totalItems);
+      const pageItems = filtered.slice(start, end);
+
+      const html = pageItems.map((item) => {
+        return `
+          <article class="card">
+            <div class="card-title">
+                <a style="display:none" href="view.html?id=${encodeURIComponent(item.id)}">${escapeHtml(item.title)}</a>
+                <a class="btn btn-secondary" style="width:100%;text-align:left!important;justify-content:left;padding:5px 10px 5px 10px;border-radius:12px;border:1px #8b8bb0 solid" href="view.html?id=${encodeURIComponent(item.id)}">
+                  ${escapeHtml(item.title)}
+                  <span>👤 ${escapeHtml(item.author || 'Nieznany autor')}</span>
+                </a>  
+              <div style="position:relative;top:-29px;right:5px;display:inline;float: right">${categoryBadge(item.category)}</div>                
+            </div>
+            
+            <p class="card-excerpt">${escapeHtml(getExcerpt(item.content))}</p>
+            <div style="display:none" class="card-footer">
+              <a class="btn btn-secondary" href="view.html?id=${encodeURIComponent(item.id)}">Otwórz</a>
+            </div>
+          </article>
+        `;
+      }).join('');
+
+      $('#listRoot').html(html);
+      renderPagination(totalPages, totalItems, start, end);
+    }
+
+    function setMode() {
+      const newMode = isAdminMode() ? 'user' : 'admin';
+      localStorage.setItem('mode', newMode);
+      location.reload();
+    }
+
+    function setModeOff() {
+      localStorage.removeItem('mode');
+      location.reload();
+    }
+
+    function setClear() {
+      localStorage.removeItem('songs_library_data');
+      location.reload();
+    }
+
+    function refreshData() {
+      apiGetAll((items) => {
+        allItems = items;
+        renderList();
+      });
+    }
+
+    $(function () {
+      if (isAdminMode()) {
+        $('#importBtn, #newEntryBtn, #reloadJsonBtn').removeClass('hidden');
+      }
+
+      ensureDataReady(function () {
+        refreshData();
+      });
+
+      $('#searchInput').on('input', function () { currentPage = 1; renderList(); });
+
+      $(document).on('click', '.btn-filter', function () {
+        $('.btn-filter').removeClass('active');
+        $(this).addClass('active');
+        activeFilter = $(this).data('filter');
+        currentPage = 1;
+        renderList();
+      });
+
+      $('#perPageSelect').on('change', function () {
+        perPage = $(this).val() === 'all' ? 'all' : parseInt($(this).val());
+        currentPage = 1;
+        renderList();
+      });
+
+      $(document).on('click', '.btn-page:not(:disabled)', function () {
+        currentPage = parseInt($(this).data('page'));
+        renderList();
+        $('html, body').animate({ scrollTop: $('#listRoot').offset().top - 20 }, 200);
+      });
+
+      $('#exportBtn').on('click', exportToJson);
+      $('#reloadJsonBtn').on('click', function () {
+        reloadFromDataFile(function () {
+          showToast('Dane przeladowane z data/songs.json.', 'success');
+          refreshData();
+        }, function (err) {
+          showToast(err.message || 'Nie udalo sie wczytac pliku danych.', 'error');
+        });
+      });
+      $('#exportPdfBtn').on('click', function () {
+        exportAllToPdf(allItems);
+      });
+      $('#reloadDataBtn').on('click', function () {
+        reloadFromDataFile(function () {
+          showToast('Wczytano dane z pliku data/songs.json.', 'success');
+          refreshData();
+        }, function (err) {
+          showToast(err.message || 'Nie udało się wczytać pliku danych.', 'error');
+        });
+      });
+      $('#importBtn').on('click', function () { $('#fileInput').trigger('click'); });
+
+      $('#fileInput').on('change', function (event) {
+        pendingFile = event.target.files && event.target.files[0] ? event.target.files[0] : null;
+        if (pendingFile) {
+          $('#importModal').css('display', 'flex');
+        }
+      });
+
+      $('#cancelImportModal').on('click', function () {
+        pendingFile = null;
+        $('#fileInput').val('');
+        $('#importModal').hide();
+      });
+
+      $('#replaceImportBtn').on('click', function () {
+        if (!pendingFile) return;
+        importFromJson(pendingFile, false, function (error, count) {
+          $('#importModal').hide();
+          $('#fileInput').val('');
+          pendingFile = null;
+          if (error) {
+            showToast(error, 'error');
+            return;
+          }
+          showToast('Zaimportowano ' + count + ' piosenek.', 'success');
+          refreshData();
+        });
+      });
+
+      $('#mergeImportBtn').on('click', function () {
+        if (!pendingFile) return;
+        importFromJson(pendingFile, true, function (error, count) {
+          $('#importModal').hide();
+          $('#fileInput').val('');
+          pendingFile = null;
+          if (error) {
+            showToast(error, 'error');
+            return;
+          }
+          showToast('Scalono ' + count + ' piosenek.', 'success');
+          refreshData();
+        });
+      });
+    });
+  </script>
+</body>
+</html>

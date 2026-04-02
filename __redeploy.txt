@@ -1,0 +1,4 @@
+>> convert
+powershell -ExecutionPolicy Bypass -File ./js/convert_spiewnikWithPl.ps1
+>> run local server:
+npx --registry https://registry.npmjs.org serve . -p 3002
