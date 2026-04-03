@@ -28,6 +28,24 @@
     },
   {
     "id": "seed-4",
+    "title": "Ballada o krzyżowcu",
+    "author": "słowa i muzyka: Mirosław Hrynkiewicz",
+    "category": "piosenka",
+    "content": "    e                                                 A\nWolniej, wolniej, wstrzymaj konia, dokąd pędzisz w stal odziany,\nC                                                 D\nPewnie tam gzie błyszczą w dali, Jeruzalem białe ściany.\n e                                             A\nPewnie myślisz, że w świątyni zniewolony Pan twój czeka,\n  C                                      D\nŻebyś przyszedł Go ocalić, żebyś przyszedł doń z daleka.\n \nWolniej, wolniej, wstrzymaj konia, byłem dzisiaj w Jeruzalem,\nPrzemierzałem puste sale, pana twego nie widziałem.\nPan opuścił Święte Miasto przed minutą, przed godziną,\nW chłodnym gaju na pustyni z Mahometem pije wino.\n\nWolniej, wolniej, wstrzymaj konia, chcesz oblegać Jeruzalem,\nStrzegą go wysokie wieże, strzegą go Mahometanie.\nPan opuścił święte miasto, na nic poświęcenie twoje,\nPo cóż niszczyć białe wieże, po cóż ludzi niepokoić.\n\nWolniej, wolniej, wstrzymaj konia, porzuć walkę niepotrzebną,\nPorzuć miecz i włócznie swoją i jedź ze mną, i jedź ze mną.\nBo gdy szlakiem na południe ciągną hufce nieskończone, \nJa podnoszę dumnie głowę i odjeżdżam w drugą stronę.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-5",
+    "title": "Ballada o Żeglarzu",
+    "author": "EKT",
+    "category": "piosenka",
+    "content": "Taki był od wiatrów stu ogorzały,                   /C a d C\nTylko z sobą w pokera grał.                         /C\nŁódkę miał z jednym żaglem cerowanym,               /C a d C\nCzasami dziewczyny miał.                            /C\n\nWypływał sam, kiedy noc rozchełstana             /F G C\nLeżała w wodzie w koszuli z pian.                /F G C\nW zmarzniętych rękach trzymał ster drewniany,    /F G C\nCzekał na wiatr, czekał na wiatr.                /G\n\nA woda się śmiała za burtami,                    /C a\nKiedy podnosił do ust                            /F G C\nStary talizman na dobre wiatry -\nUschniętą różę z piór.\nWoda się śmiała coraz dalej,\nKiedy podnosił do ust\nStary talizman na dobre wiatry -\nUschniętą różę z piór.\n\nZnał porty, gdzie diabli piwo sprzedają,\nZ niejednym takim piwo pił.\nDo ludzi wracał w jesień zardzewiałą,\nZ samego środka mgły.\nWyciągał łódź na swój brzeg, żagiel chował,\nWieczorem białe portki prał.\nOwijał różę w podarty celofan,\nOdchodził sam, odchodził sam.\n\nW czas zimowy, kiedy wiatr hulał w drzewach,\nZ dziewczyną z jednej szklanki pił,\nSłone ballady o piratach śpiewał,\nZ pamięci liczył dni.\nTaki był od wiatrów stu ogorzały,\nTylko z sobą w pokera grał,\nŁódkę miał z jednym żaglem cerowanym,\nCzekał na wiatr, czekał na wiatr.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-6",
     "title": "Bar w Beskidzie",
     "author": "EKT",
     "category": "piosenka",
@@ -36,7 +54,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-5",
+    "id": "seed-7",
     "title": "Bardzo smutna piosenka retro",
     "author": "Pod Budą",
     "category": "piosenka",
@@ -45,7 +63,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-6",
+    "id": "seed-8",
     "title": "Bartne",
     "author": "Ostatnia wieczerza w karczmie przeznaczonej do rozbiórki",
     "category": "piosenka",
@@ -54,7 +72,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-7",
+    "id": "seed-9",
     "title": "Ballada o świętym Mikołaju",
     "author": "sł. i muz. A. Wierzbicki, Orkiestra pw. Świętego Mikołaja",
     "category": "piosenka",
@@ -63,7 +81,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-8",
+    "id": "seed-10",
     "title": "Baśń",
     "author": "Krążek. Maciej Służała",
     "category": "piosenka",
@@ -72,7 +90,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-9",
+    "id": "seed-11",
     "title": "Bellonika z miastem",
     "author": "Słodki Całus od Buby, muz., sł.: K. Jurkiewicz",
     "category": "piosenka",
@@ -81,7 +99,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-10",
+    "id": "seed-12",
     "title": "Beskid",
     "author": "Andrzej Wierzbicki",
     "category": "piosenka",
@@ -90,7 +108,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-11",
+    "id": "seed-13",
     "title": "Bez słów",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -99,7 +117,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-12",
+    "id": "seed-14",
     "title": "Bedzie Lepiej",
     "author": "slowa: W. Kwinto-Koczan, muz. W. Szymański",
     "category": "piosenka",
@@ -108,16 +126,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-13",
+    "id": "seed-15",
     "title": "Bitwa",
-    "author": "",
+    "author": "Mechanicy Szanty",
     "category": "piosenka",
-    "content": "Okręt nasz wpłynął w mgłę i fregaty dwie,   e D C a\nPopłynęły naszym kursem by nie zgubić się.  e D G H\nPotem szkwał wypchnął nas poza mleczny pas  e D C a\nI nikt wtedy nie przypuszczał, że fregaty śmierć nam niosą. e D G H\nRef:\nCiepła krew poleje się strugami,    G D e h\nWygra ten, kto utrzyma ship.    C D e\nW huku dział ktoś przykryje się falami, G D e h\nJak da Bóg, ocalimy bryg.   C D e\n\nNagły huk w uszach grał i już atak trwał,   e D C a\nTo fregaty uzbrojone rzędem w setkę dział.  e D G H\nCzarny dym spowił nas, przyszedł śmierci czas,  e D C a\nKrzyk i lament mych kamratów, przerywany ogniem katów.  e D G H\n\nCiepła krew poleje się strugami,    G D e h\nWygra ten, kto utrzyma ship.    C D e\nW huku dział ktoś przykryje się falami, G D e h\nJak da Bóg, ocalimy bryg.   C D e\n\nPocisk nasz trafił w maszt, usłyszałem trzask,  e D C a\nTo sterburtę rozwaliła jedna z naszych salw.    e D G H\n\"Żagiel staw\" krzyknął ktoś, znów piratów złość,    e D C a\nBo od rufy nam powiało, a fregatom w mordę wiało.   e D G H\n\nCiepła krew poleje się strugami,    G D e h\nWygra ten, kto utrzyma ship.    C D e\nW huku dział ktoś przykryje się falami, G D e h\nJak da Bóg, ocalimy bryg.   C D e\n\nZ fregat dwóch tylko ta pierwsza w pogoń szła,  e D C a\nWnet abordaż rozpoczęli, gdy dopadli nas.   e D G H\nSzyper ich dziury dwie zrobił w swoim dnie, e D C a\nNie pomogło to psubratom, reszta z rei zwisa za to. e D G H\n\nCiepła krew poleje się strugami,    G D e h\nWygra ten, kto utrzyma ship.    C D e\nW huku dział ktoś przykryje się falami, G D e h\nJak da Bóg, ocalimy bryg.   C D e\n\nPo dziś dzień tamtą mgłę i fregaty dwie,    e D C a\nKiedy noc zamyka oczy, widzę w moim śnie.   e D G H\nTamci, co śpią na dnie, uśmiechają się, e D C a\nŻe ich straszną śmierć pomścili bracia, którzy zwyciężyli.  e D G H\n\nCiepła krew poleje się strugami,    G D e h\nWygra ten, kto utrzyma ship.    C D e\nW huku dział ktoś przykryje się falami, G D e h\nJak da Bóg, ocalimy bryg.   C D e",
+    "content": "Okręt nasz wpłynął w mgłę i fregaty dwie,                   /e D C a\nPopłynęły naszym kursem by nie zgubić się.                  /e D G H\nPotem szkwał wypchnął nas poza mleczny pas                  /e D C a\nI nikt wtedy nie przypuszczał, że fregaty śmierć nam niosą. /e D G H\nRef:\nCiepła krew poleje się strugami,            /G D e h\nWygra ten, kto utrzyma ship.                /C D e\nW huku dział ktoś przykryje się falami,     /G D e h\nJak da Bóg, ocalimy bryg.                   /C D e\n\nNagły huk w uszach grał i już atak trwał,               /e D C a\nTo fregaty uzbrojone rzędem w setkę dział.              /e D G H\nCzarny dym spowił nas, przyszedł śmierci czas,          /e D C a\nKrzyk i lament mych kamratów, przerywany ogniem katów.  /e D G H\n\nCiepła krew poleje się strugami,        /G D e h\nWygra ten, kto utrzyma ship.            /C D e\nW huku dział ktoś przykryje się falami, /G D e h\nJak da Bóg, ocalimy bryg.               /C D e\n\nPocisk nasz trafił w maszt, usłyszałem trzask,      /e D C a\nTo sterburtę rozwaliła jedna z naszych salw.        /e D G H\n\"Żagiel staw\" krzyknął ktoś, znów piratów złość,    /e D C a\nBo od rufy nam powiało, a fregatom w mordę wiało.   /e D G H\n\nCiepła krew poleje się strugami,        /G D e h\nWygra ten, kto utrzyma ship.            /C D e\nW huku dział ktoś przykryje się falami, /G D e h\nJak da Bóg, ocalimy bryg.               /C D e\n\nZ fregat dwóch tylko ta pierwsza w pogoń szła,      /e D C a\nWnet abordaż rozpoczęli, gdy dopadli nas.           /e D G H\nSzyper ich dziury dwie zrobił w swoim dnie,         /e D C a\nNie pomogło to psubratom, reszta z rei zwisa za to. /e D G H\n\nCiepła krew poleje się strugami,        /G D e h\nWygra ten, kto utrzyma ship.            /C D e\nW huku dział ktoś przykryje się falami, /G D e h\nJak da Bóg, ocalimy bryg.               /C D e\n\nPo dziś dzień tamtą mgłę i fregaty dwie,                    /e D C a\nKiedy noc zamyka oczy, widzę w moim śnie.                   /e D G H\nTamci, co śpią na dnie, uśmiechają się,                     /e D C a\nŻe ich straszną śmierć pomścili bracia, którzy zwyciężyli.  /e D G H\n\nCiepła krew poleje się strugami,        /G D e h\nWygra ten, kto utrzyma ship.            /C D e\nW huku dział ktoś przykryje się falami, /G D e h\nJak da Bóg, ocalimy bryg.               /C D e",
     "createdAt": "2026-04-01T08:00:00.000Z",
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-14",
+    "id": "seed-16",
     "title": "Biedny ktoś, smutny nikt",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -126,7 +144,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-15",
+    "id": "seed-17",
+    "title": "Bieszczadzki trakt",
+    "author": "Wołosatki",
+    "category": "piosenka",
+    "content": "       G          D        C        G\nKiedy nadejdzie czas, bawi nas ognia blask\n      D       C        G\nNa polanie gdzie króluje zły\n      D       C     G\nGwiezdny pył w ogniu tym\n      D       C  G\nŁzy wyciśnie nam dym\n   D    C          G\nTańczą iskry z gwiazdami a my...\n\n(G7..x2)\n\n           C       D             G\nŚpiewajmy wszyscy w ten radosny czas\n           C        D       G\nŚpiewajmy wszyscy ilu jest tu nas\nChoć lata szybko młode płyną wiemy, że\nNigdy nie starzejemy się.\n\nW lesie gdzie licho śpi, przygoda ma swe drzwi\nChodźmy tam gdzie na ścianie lasu lśnią\nOczy sów, wilcze kły, rykiem powietrze drży\nTylko gwiazdy przyjazne nam są\n\nŚpiewajmy wszyscy w ten radosny czas\nŚpiewajmy wszyscy ilu jest tu nas\nChoć lata szybko młode płyną wiemy, że\nNigdy nie starzejemy się.\n\nDorzuć do ognia drew, w górę niech płanie śpiew\nWiatr poniesie go w wilgotny świat\nKażdy z nas o tym wie, że znowu spotkamy się\nA połączy nas bieszczadzki trakt\n\nŚpiewajmy wszyscy w ten radosny czas\nŚpiewajmy wszyscy ilu jest tu nas\nChoć lata szybko młode płyną wiemy, że\nNigdy nie starzejemy się.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-18",
     "title": "Bieszczady",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -135,7 +162,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-16",
+    "id": "seed-19",
+    "title": "Blues Dla małej",
+    "author": "SDM",
+    "category": "piosenka",
+    "content": "Wystukaj po torach do mnie list      /C G\nWtedy naprawdę nie wyjedziesz cała   /a G\nNiech będzie w nim lokomotywy gwizd  /F C\nTylko zrób to jeszcze dla mnie mała  /d E a\n\nWystukaj po torach do mnie list\nChoćby w alfabecie Morse`a\nMoja ulica jeszcze twardo śpi\nJeśli tak chcesz to w liście zostań\n\nRef:\nA mogliśmy Mała razem łąką iść      /E\nŚwit witać po kolana w rosie        /a\nA mogliśmy Mała razem piwo pić      /G\nDom nasz zamienić na 100 pociech    /E\nA mogliśmy Mała konie kraść         /F\nZ niebieskiego boskiego pastwiska   /C\nA mogliśmy mała w środku lata       /d\nZbudować słoneczną przystań         /E a\n\nNapisz od serca do mnie list\nI zamieszkaj w tym liście cała\nNiech śmiechu dużo będzie w nim\nObiecaj mi to dzisiaj Mała\n\nNapisz od serca do mnie list\nLecz proszę nie wysyłaj go nigdy\nW szufladzie zamknij go na klucz\nNiech czeka wciąż lepszych dni",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-20",
     "title": "Bukowina I",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -144,7 +180,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-17",
+    "id": "seed-21",
     "title": "Bukowina II",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -153,7 +189,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-18",
+    "id": "seed-22",
     "title": "Burza",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -162,7 +198,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-19",
+    "id": "seed-23",
     "title": "Byle dalej",
     "author": "Andrzej Korycki \u0026 Dominika Żukowska",
     "category": "piosenka",
@@ -171,7 +207,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-20",
+    "id": "seed-24",
     "title": "Chatka II",
     "author": "sł. Bochenek, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -180,7 +216,34 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-21",
+    "id": "seed-25",
+    "title": "Chory na wyobraźnie",
+    "author": "Mariusz Zadura",
+    "category": "piosenka",
+    "content": "Dawno już w mieście drwił z niego każdy\t    /a d\nPośmiewiskiem był ludziom na co dzień\t    /a d\n\"Ot wariat chory na wyobraźnię\t            /F C F\nWiecznie w drodze spóźniony przechodzień\t/d E\n\n\"Dokąd idziesz?\" - pytali go bliscy\n\"Z tego bracie to trzeba się leczyć\"\nA on brał tekturową walizkę\nI wychodził swym obrazom naprzeciw, mówiąc:\n\nRef:\n\"Idę tam, gdzie bezmiar błękitu,\t/C G d a\nŚwiatłocienie cyprysów przy drodze\t/C G d a\nSerią barw każdy ranek rozkwita\t    /F C F C\nChociaż wiem że do celu nie dojdę\"\t/d E\n\nGdy malował, świat milkł jak zaklęty\nKurczył się w skrawek płótna na ramach\nA on pieścił je jak pierś kobiety\nW siedmiobarwnych tęcz kreskach i plamach.\n\nKiedy skończył - wpatrywał się w ciszy\nBy natchnieniem nasycić znów duszę\nA gdy już dał się marszandom wykpić\nPił noc całą by z brzaskiem wyruszyć, mówiąc:",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-26",
+    "title": "Chudobnom",
+    "author": "Dom o Zielonych Progach",
+    "category": "piosenka",
+    "content": "Chudobnom mnie mama miała   /a a G G\nChudobnom mnie wychowała    /G G a a\nW nocy wstała i śpiewała    /C G C C |\nDo rania mnie kołysała      /C G a a | x2\n\nZ rania kładła mnie w ogrodzie\nPsy potocku, het psy wodzie\nTej słowiki mnie śpiewały\nI do snu mnie kołysały\n\nHej Janicku nie bij ze mnie\nW kołysecce kołys ze mnie\nBo mnie mama nie bijała\nW kołysecce kołysała\n\nA jak nie masz kołysecki\nIdź do lasu na zerdecki\nWystrugaj je cieniusieńko\nKołysz ze mnie lekusieńko",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-27",
+    "title": "County Road",
+    "author": "John Denver",
+    "category": "piosenka",
+    "content": "Almost heaven, West Virginia        /G e\nBlue Ridge Mountains                /D \nShenandoah River -                  /C G\nLife is old there                   /G e\nOlder than the trees                /D\nYounger than the mountains          /C G\nGrowin like a breeze\n\nCountry Roads, take me home     /G D\nTo the place I belong           /e C\nWest Virginia, mountain momma   /G D\nTake me home, country roads     /C G\n\nAll my memories gathered round her\nMiners lady, stranger to blue water\nDark and dusty, painted on the sky\nMisty taste of moonshine\nTeardrops in my eye\n\nCountry Roads, take me home\nTo the place I belong\nWest Virginia, mountain momma\nTake me home, country roads\n\nI hear her voice                                    /e D\nIn the mornin hour she calls me                     /G\nThe radio reminds me of my home far away            /C G D\nDrivin\u0027 down the road, I get a feelin\u0027              /e F C\nThat I should have been home yesterday, yesterday   /G D D\n\nCountry Roads, take me home\nTo the place I belong\nWest Virginia, mountain momma\nTake me home, country roads\n\nCountry Roads, take me home\nTo the place I belong\nWest Virginia, mountain momma\nTake me home, country roads\nTake me home, now country roads\nTake me home, now country roads",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-28",
     "title": "Czarny blues o czwartej nad ranem",
     "author": "SDM",
     "category": "piosenka",
@@ -189,7 +252,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-22",
+    "id": "seed-29",
     "title": "CZAR",
     "author": "M. Służała",
     "category": "piosenka",
@@ -198,7 +261,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-23",
+    "id": "seed-30",
     "title": "Czardasz na Połoninie",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -207,7 +270,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-24",
+    "id": "seed-31",
     "title": "Czas",
     "author": "Maciej Służała - Krążek/Tak czy owak",
     "category": "piosenka",
@@ -216,7 +279,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-25",
+    "id": "seed-32",
     "title": "Czom ty ne pryjszoł",
     "author": "Muzyka Łemkowska - DOZP",
     "category": "piosenka",
@@ -225,16 +288,25 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-26",
+    "id": "seed-33",
     "title": "Dama kier i pikowy król",
     "author": "sł. Wojtek Bellon, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
-    "content": "C C* C C*\nC                 G\nNa palcach jak w walcu\n     a        e\nZ muzyką pod pachą\n    F         G\nTo dołem, to lot ich\n   C         G    \nWynosi do chmur\n        a         e\nOt, z wiatrem na bal\n    F              C    \nPodskokiem przez dachy\n    F        G         C\nZ kierową damą pikowy król\n       F       G     C\nDama kier i pikowy król\n\nNa palcach jak w walcu\nPomiędzy domami\nNad parkiem zielonym\nPrzez rzekę na skrót\nNie starcza im dnia\nDo zmierzchu, do rana\nZ kierową damą pikowy król\nDama kier i pikowy król\n\nNa palcach jak w walcu\nMuzyka ustaje\nGdy cały się świat\nUkłada do snu\nW ostatnim już pas\nMrok nocy witają\nZ kierową damą pikowy król\nDama kier i pikowy król\n\na              e\nTańczą walca licząc na trzy\nF                C\nTańczą walca aż niebo drży\nF              G      C\nDama kier i pikowy król",
+    "content": "C C* C C*\nC                 G\nNa palcach jak w walcu\n     a        e\nZ muzyką pod pachą\n    F         G\nTo dołem, to lot ich\n   C         G    \nWynosi do chmur\n        a         e\nOt, z wiatrem na bal\n    F              C    \nPodskokiem przez dachy\n    F        G         C\nZ kierową damą pikowy król\n       F       G     C\nDama kier i pikowy król\n\nNa palcach jak w walcu\nPomiędzy domami\nNad parkiem zielonym\nPrzez rzekę na skrót\nNie starcza im dnia\nDo zmierzchu, do rana\nZ kierową damą pikowy król\nDama kier i pikowy król\n\nNa palcach jak w walcu\nMuzyka ustaje\nGdy cały się świat\nUkłada do snu\nW ostatnim już pas\nMrok nocy witają\nZ kierową damą pikowy król\nDama kier i pikowy król\n\na              e\nTańczą walca licząc na trzy\nF                C\nTańczą walca aż niebo drży\nF              G      C\nDama kier i pikowy król\n\nRef.:",
     "createdAt": "2026-04-01T08:00:00.000Z",
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-27",
+    "id": "seed-34",
+    "title": "Do Calais",
+    "author": "Banana Boat",
+    "category": "piosenka",
+    "content": "Do Calais, wino i moulé,\nTam dziewczyny i ciągły bal.\nTeraz sztorm, no i wiatry złe -\nZatańczymy pośród groźnych fal.\n\nDzisiaj znów potargane żagle -\nBosman wściekły, bo trzeba szyć.\nKot Ci spadnie na plecy nagle,\nJakże długo tak można żyć?\n\nA w Calais słodki zapach drzew\nI tawerna mała gdzieś w porcie starym.\nTutaj ciągnie od zęzy wiew, a Ty\nBrasuj reje i ciągaj fały!\n\nZnów podwachta i nie ma spania,\nMorze ryczy i wicher dmie.\nCiemność, chłód - i tak aż do rana,\nGłupcem ten, kto nie boi się!\n\nLecz w Calais zabawimy się,\nChyba każdy puści tę forsę małą -\nBo kto wie, może skończysz źle\nI nie wrócisz już z tego rejsu cało!\n\nDziś walczymy ze wściekłym morzem,\nWciąż na fali, a nie na dnie!\nNad głowami jak morski orzeł\nStatek nasz dumnie żagle pnie!\n\nDo Calais, gdzie leniwe dnie\nI gorące noce nas czekają!\nHands on deck - no i praca wre,\nChociaż fale na łeb się zwalają!\n\nJuż niedługo Angielski Kanał,\nCo w Calais zowie się La Manche,\nZmieni rejs w najzwyklejszy banał.\nŻagle precz, teraz vive la France!\n\nGdy w Calais wreszcie znajdziesz się,\nSpotkasz tą, która niegdyś Cię kochała,\nLecz gdy z nią jakiś Paul czy Pierre -\nInne dziewki nie poskąpią ciała!\n\nCo za mąż byłby z marynarza,\nLepszy chłop, co ma dom i sklep!\nJednak o tym bez przerwy marzy\nMorski, twardy, zawiany łeb!",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-35",
     "title": "Droga przez las",
     "author": "sł. Jerzy Harasymowicz muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -243,7 +315,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-28",
+    "id": "seed-36",
     "title": "Drogowskaz",
     "author": "Jan Rybowicz, Muzyka SDM",
     "category": "piosenka",
@@ -252,7 +324,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-29",
+    "id": "seed-37",
+    "title": "Dziękuję Ci lesie",
+    "author": "sł. Cicha Droga, muz. Wojciech Szymański",
+    "category": "piosenka",
+    "content": "Pozbieraj mnie lesie\t/a\ndzisiaj od nowa\t\t\t/F7+\nBo po staremu\t\t\t/C\nsię rozsypało\t\t\t/G\n\nPomóż po drodze\nodnaleźć słowa\nktórych tak bardzo\nbyło za mało\n\nF G a\n\npozbieraj mnie lesie\nswoim spokojem\nbo w niepokoju\nidę do ciebie\n\nciszą nadzieją\nzielonych strojem\nodkryj od nowa\npowrót do siebie\n\ndziękuję Ci lesie za dobrą rozmowę\t    /a F7+\nuczuć i myśli tak czułą wymianę\t\t    /C G\nza twoje porządki w sercu i w głowie\t/a F7+\nza drogi do siebie wciąż odkrywane...\t/C G\n\nF G a",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-38",
     "title": "Ech, muzyka, muzyka",
     "author": "A.Drąg",
     "category": "piosenka",
@@ -261,7 +342,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-30",
+    "id": "seed-39",
     "title": "Emeryt",
     "author": "ETK Gdynia",
     "category": "piosenka",
@@ -270,7 +351,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-31",
+    "id": "seed-40",
     "title": "Epitafium dla Leonarda",
     "author": "Leonard Luther",
     "category": "piosenka",
@@ -279,7 +360,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-32",
+    "id": "seed-41",
     "title": "Gór mi mało",
     "author": "sł. Tomasz Borkowski, muz. Wojtek Szymański",
     "category": "piosenka",
@@ -288,7 +369,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-33",
+    "id": "seed-42",
     "title": "Góry i ludzie",
     "author": "sł. J. Harasymowicz, muz. tradycyjna",
     "category": "piosenka",
@@ -297,7 +378,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-34",
+    "id": "seed-43",
     "title": "Hej, Gronicku Beskidzie",
     "author": "słowa i muzyka: Sylwek Szweda",
     "category": "piosenka",
@@ -306,7 +387,25 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-35",
+    "id": "seed-44",
+    "title": "Hej, przyjaciele, zostańcie ze mną",
+    "author": "Paweł Kasperczyk, Babsztyl",
+    "category": "piosenka",
+    "content": "       C                                     G                        F                    C\nTam dokąd chciałem już nie dojdę, szkoda zdzierać nóg\n  C                     G                        F                C\nJuż wędrówki naszej wspólnej nadchodzi kres\n   C                  G                F                    C\nWy pójdziecie inną drogą, zostawicie mnie\n        C                      G                   F                 C\nOdejdziecie, sam zostanę na rozstaju dróg\n   C             G    F               C\nHej przyjaciele zostańcie ze mną\n      C                       G                 F               C\nPrzecież wszystko to co miałem oddałem wam\n   C             G       F                  C\nHej przyjaciele – choć chwilę jedną\n     C                   G                  F                    C\nZnowu w życiu mi nie wyszło, znowu będę sam\n\nZnów spóźniłem się na pociąg i odjechał już\nTylko jego mglisty koniec zamajaczył mi\nStoję smutny na peronie z tą walizką jedną\nTak jak człowiek, który zgubił do domu swego klucz\n\nTam dokąd chciałem, już nie dojdę – szkoda zdzierać nóg\nJuż wędrówki naszej wspólnej nadchodzi kres\nWy pójdziecie inną drogą, zostawicie mnie\nZamazanych drogowskazów nie odczytam już",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-45",
+    "title": "Hiszpańskie Dziewczyny",
+    "author": "Ryczące Dwudziestki",
+    "category": "piosenka",
+    "content": "Żegnajcie nam dziś hiszpańskie dziewczyny       /e C H7\nŻegnajcie nam dziś marzenia ze snów             /e C H7\nKu brzegom angielskim już ruszać nam pora,      /e D e H7\nLecz kiedyś na pewno wrócimy tu znów.           /e C H7 e H7 e\n\nRef. \nI smak waszych ust, hiszpańskie dziewczyny,\nW noc ciemną i złą nam będzie się śnił.\nLeniwie popłyną znów rejsu godziny,\nWspomnienie ust waszych przysporzy nam sił.\n\nNiedługo ujrzymy znów w dali Cap Deadman\nI głowę baranią sterczącą wśród wzgórz,\nI statki stojące na redzie przy Plymouth.\nKlarować kotwicę najwyższy czas już.\n\nA potem znów żagle na masztach rozkwitną,\nKurs szyper wyznaczy do Portland i Wight.\nI znów stara łajba potoczy się ciężko\nPrzez fale w kierunku na Beachie Fairlie Land.\n\nZabłysną nam bielą skał zęby pod Dover.\nI znów noc w kubryku, wśród legend i bajd.\nPowoli i znojnie tak płynie nam życie\nNa wodach i w portach South Foreland Light.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-46",
     "title": "Irlandzki Żeglarz",
     "author": "muz.sł. Sławomir Klupś",
     "category": "piosenka",
@@ -315,7 +414,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-36",
+    "id": "seed-47",
     "title": "Jajecznica",
     "author": "Pod Strzechą, muz. i sł. W. Belon",
     "category": "piosenka",
@@ -324,7 +423,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-37",
+    "id": "seed-48",
+    "title": "Jak",
+    "author": "SDM, sł. Edward Stachura",
+    "category": "piosenka",
+    "content": "D                    A\nJak po nocnym niebie sunące\n        G          D\nBiałe obłoki nad lasem,\n        e              G                D\nJak na szyi wędrowca apaszka szamotana wiatrem,\n                    A\nJak wyciągnięte tam powyżej\n                G     D\nGwieździste ramiona wasze,\n    e              G     D\nA tu są nasze, a tu są nasze.\n\nJak suchy szloch w tę dżdżystą noc,\nJak winny - li - niewinny sumienia wyrzut,\nŻe się żyje, gdy umarło tylu, tylu, tylu.\n\nJak suchy szloch w tę dżdżystą noc,\nJak lizać rany celnie zadane,\nJak lepić serce w proch potrzaskane.\n\nJak suchy szloch w tę dżdżystą noc.\nPudowy kamień, pudowy kamień.\nJak na nim stanę, on na mnie stanie,\nOn na mnie stanie, spod niego wstanę.\n\nJak suchy szloch w tę dżdżystą noc,\nJak złota kula nad wodami,\nJak świt pod spuchniętymi powiekami\n\nJak zorze miłe, śliczne polany,\nJak słońca pierś, jak garb swój nieść,\nJak do was, siostry mgławicowe ten zawodzący\nśpiew.\n\nJak biec do końca, potem odpoczniesz,\nPotem odpoczniesz, cudne manowce,\nCudne manowce, cudne, cudne manowce.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-49",
     "title": "Jaka jesteś (Kartka z kalendarza)",
     "author": "Tomasz Lewandowski",
     "category": "piosenka",
@@ -333,16 +441,61 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-38",
-    "title": "Jesienne wino",
+    "id": "seed-50",
+    "title": "Jam (Wiosenny)- Dom o Zielonych Progach, sł. i muz. Andrzej Gniady \u0026 Marcin Lewoń",
     "author": "",
+    "category": "piosenka",
+    "content": "Jam jest ziemia, co podpiera stopy C G\nJam jest wiatr, co rozwiewa włosy a F G\nJam jest deszcz, co obmywa twarz\nJam jest słońce, co wysusza skórę\nJam jest nic i wiele\nJam jest ten, co płacze\ni ten co się śmieje\n\nOn jest ciepłem, co rozgrzewa ciało\nOn jest chmurą, co osłania mnie\nOn jest mgłą, co łagodzi ranek\nOn jest ciepłem, które mieszka we mnie\nOn jest nic i wiele\nOn jest ten, co płacze\ni ten co się śmieje",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-51",
+    "title": "Jaki był ten dzień",
+    "author": "Turbo",
+    "category": "piosenka",
+    "content": "Późno już, otwiera się noc,                 /e C D h\nSen podchodzi pod drzwi na palcach jak kot, /C G a H7\nNadchodzi czas ucieczki na aut,             /e C D h\nBy kolejny mój dzień wspomnieniem się stał.\t/C G a H7\n\nRef:\nJak był ten dzień,\t        /e C\nCo darował, co wziął.       /D h\nCzy mnie wyniósł pod niebo, /C G\nCzy zrzucił na dno.\t        /a H7\nJaki był ten dzień,\t        /e C\nCzy coś zmienił, czy nie,\t/D h\nCzy był tylko nadzieją na dobre i złe.\t/C G a H7\n\nŁagodny mrok zasłania mu twarz\t                e C D h\nJakby przeczuł, że chcę być sobą choć raz.\t    C G a H7\nNie skarżę się, że mam to co mam,\t            e C D h\nŻe przegrałem coś znowu, i że jestem tu sam.\tC G a H7\n\nRef:\nJak był ten dzień,\t            /e C\nCo darował, co wziął.\t        /D h\nCzy mnie wyniósł pod niebo,\t    /C G\nCzy zrzucił na dno.\t            /a H7\nJaki był ten dzień,\t            /e C\nCzy coś zmienił, czy nie,\t    /D h\nCzy był tylko nadzieją na dobre i złe.\t/C G a H7\n\nMiliony gwiazd do snu tulą cię\t            /e C D h\nSwe promienie ci ślą więc chciej przyjąć je\t/C G a H7\nMiniony dzień złóż u nieba wrót\t            /e C D h\nNiech popłynie melodia z księżycowych nut\t/C G a H7",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-52",
+    "title": "Jasnowłosa",
+    "author": "B. Kuśka",
+    "category": "piosenka",
+    "content": "      D                         G     D\n1. Na tańcach ją poznałem, długowłosą blond,\n                                   G     A\n   Dziewczynę moich marzeń. Nie wiadomo, skąd\n   D                          G      C  A\n   Ona się tam wzięła, piękna niczym kwiat.\n             D             G             A        D\n   Czy jak syrena wyszła z morza, czy ją przywiał wiatr?\n                             G        D\nRef. Żegnaj Irlandio, czas w drogę mi już.\n                          G    A\n     W porcie gotowa stoi moja łódź.\n        D                      G        C A\n     Na wielki ocean przyjdzie mi zaraz wyjść\n         D                 G        A        D\n     I pożegnać się z dziewczyną na Lough Sholin.\n\n2. Ująłem ją za rękę delikatną, jak\n   Latem mały motyl albo róży kwiat.\n   Poszedłem z nią na plażę wsłuchać się w szum fal.\n   Pokazałem jasnowłosej wielki morza czar.\n\nRef. Żegnaj Irlandio...\n\n3. Za moment wypływamy w długi, trudny rejs\n   I z piękną mą dziewczyną przyjdzie rozstać się.\n   Żagle pójdą w górę, wiatr mnie pogna w przód\n   I przez morza mnie powiedzie. Ty zostaniesz tu.\n\nRef. Żegnaj Irlandio...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-53",
+    "title": "Jaworzyna",
+    "author": "słowa i muzyka: Jerzy Reiser, (z repertuaru zespołu „Browar Żywiec”)",
+    "category": "piosenka",
+    "content": "a\nLetni deszcz po dachówkach szumi,         \ne                                                       G\nSpać się kładzie każdy, kto umie zasnąć;  \n                                a               F7+ G\nZasnąć, gdy pada letni deszcz.           \na\nRzeki się pod mostami cisną,\ne                                                            G\nTysiące kropel drążą swe pismo na szybach;\n                                   a                    F G\nNa szybach kładzie cienie zmierzch.\nC                   F               C\nJaworzyna górom się kłania,      \n    C                         F         C\nSpod obłoków szczyt odsłania.\n      G                                       C            F G\nPogoda będzie jutro, będzie ładny świt. \nC                        F            C\nRozchmurzyła się Jaworzyna,\n   C                        F               C\nJuż nie płacze, śmiać się zaczyna.\n      G                                                C            F G\nPogoda będzie jutro, nie będzie smutny nikt.\n\nNoc się ściele na lasach mokrych,\nGasną światła w oknach domów samotnych;\nW nocy samotność gorsza jest.\nLudzie się kryją w swoich myślach,\nZamknięte drzwi, zamknięte oczy, sen blisko;\nBlisko za oknem szczeka pies.\n\nJaworzyna...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-54",
+    "title": "Jesienne wino",
+    "author": "Andrzej Koczewski i Zbigniew Bogdański",
     "category": "piosenka",
     "content": "Z brzękiem ostróg wjechałem do miasta   e D e D\nPod jesień było, czas złotych liści nastał  e D G\nW kieszeni worek srebra, czas do domu   a G D e\nWtem za plecami woła głos   D D D e\nRef:\nUsiądź razem ze mną, spróbuj mego wina  e G D G\nZ czereśni, wiśni, resztek lata, choć jesień się zaczyna    a G D C\nTyle tej jesieni jeszcze jest przed nami    e G D G\nZdążysz wrócić do domu, nim noc zawita nad drogami  a G D C\ne D e D\nSłońce stało w zenicie, bił południowy żar  e D e D\nA w gardle kurz przebytych dróg e D G\nCo tam - spocznę chwilę, przecież nie zaszkodzi a G D e\nDo przejścia niedaleką drogę jeszcze mam    D D D e\nA ona kusi  D e\nRef:\nUsiądź razem ze mną, spróbuj mego wina  e G D G\nZ czereśni, wiśni, resztek lata, choć jesień się zaczyna    a G D C\nTyle tej jesieni jeszcze jest przed nami    e G D G\nZdążysz wrócić do domu, nim noc zawita nad drogami  a G D C\ne D e D\nZbudziłem się w czerwieniach zachodu    e D e D\nPod starą karczmą, co rynek zamyka  e D G\nZabrała moje srebro, duszę i ostrogi    a G D E\nZostało pragnienie i tępy głowy ból D D D e\nI pamięć jej słów   D e\nRef:\nUsiądź razem ze mną, spróbuj mego wina  e G D G\nZ czereśni, wiśni, resztek lata, choć jesień się zaczyna    a G D C\nTyle tej jesieni jeszcze jest przed nami    e G D G\nZdążysz wrócić do domu, nim noc zawita nad drogami  a G D C\ne D e D",
     "createdAt": "2026-04-01T08:00:00.000Z",
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-39",
+    "id": "seed-55",
+    "title": "Jesienne Zwierzenia",
+    "author": "Ryszard Muzaj",
+    "category": "piosenka",
+    "content": "Szary dzień jak co dzień,   /D7+ A7+\nMoknie w mokrym deszczu.    /D7+ A7+\nMorze tuż za naszym oknem   /D7+ cis\nFalą liże piach żałośnie.   /h7 E7\n\nJesień nam nastała,\nTaka herbaciana\nI choć ciepło w naszym domu,\nTo umykam po kryjomu.\n\nTam, gdzie wciąż pachnie wiatr,         /h7\nDruga w nocy, zimna mgła,               /E7\nFajka w zębach, portu gwar,             /A7+ D7+\nNieprzespanej nocy cierpki smak         /h7\nI tęsknota, co gdzieś serce gna,        /A7+\nGdzieś tam, gdzie świat nie ten sam.    /h7 E7 A7+\n\nJuż gdzieś odpłynęły\nNasze białe żagle.\nZima stąpa cichym krokiem,\nA tyś śliczna rok za rokiem.\n\nWiem, że moc spraw dokoła,\nWybacz mi, kochana moja,\nŻe poszedłem znowu na noc\nTam, gdzie wcześnie widać rano.\n\nWczoraj znów byłem tam,\nDruga w nocy, zimna mgła,\nFajka w zębach, portu gwar\nI nieprzespanej nocy cierpki smak,\nI tęsknota, co gdzieś serce gna,\nGdzieś tam, gdzie świat w końcu taki sam.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-56",
     "title": "Jeszcze nie czas",
     "author": "słowa i muzyka: Andrzej Koczewski",
     "category": "piosenka",
@@ -351,7 +504,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-40",
+    "id": "seed-57",
     "title": "Karczma",
     "author": "sł. Bolesław Leśmian muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -360,7 +513,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-41",
+    "id": "seed-58",
     "title": "Karjobraz z karczmą",
     "author": "M. Służała",
     "category": "piosenka",
@@ -369,7 +522,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-42",
+    "id": "seed-59",
     "title": "Kubański Szlak",
     "author": "Autor / Wykonawca: muz. J. Liszewski, sł. G. Waszkiewicz. EKT Gdynia",
     "category": "piosenka",
@@ -378,7 +531,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-43",
+    "id": "seed-60",
     "title": "Kulawy Kowal",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -387,7 +540,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-44",
+    "id": "seed-61",
     "title": "Leemon tree",
     "author": "Fools Garden",
     "category": "piosenka",
@@ -396,7 +549,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-45",
+    "id": "seed-62",
+    "title": "Leluchów",
+    "author": "SDM, sł. Adam Ziemianin",
+    "category": "piosenka",
+    "content": "a      C            G\nWyjedź ze mną dziś jeszcze\na          C           G\nPrzecież blisko jest dworzec\na       C        G\nWyjedź ze mną natychmiast\na      C        D7\nTylko to nam pomoże\n\nG\nW  Leluchowie - miła\n    C              G\nCzereśnie dziko krwawią\n        C\nTam granicy pilnuje\n G       a     D7\nCałkiem wesoły anioł\n\nG\nW Leluchowie - miła\n    C                 G\nZaczyna się koniec świata\n    C             G   a\nTam anioł traci głowę\nC                G\nZ brzozami się brata\n\nWyjedź ze mną do lata\nPrzecież jeszcze nie koniec\nSchowaj trochę uśmiechu\nNa naszą wspólną drogę\n\nKiedy będziesz już ze mną\nTo nikomu nie powiem\nŻe szczęśliwi byliśmy\nKiedyś w Leluchowie",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-63",
     "title": "Linoskoczek",
     "author": "Jan Kanty Pawluskiewicz, Antologia vol.1 - Andrzej Zaucha",
     "category": "piosenka",
@@ -405,7 +567,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-46",
+    "id": "seed-64",
     "title": "Love in Vein",
     "author": "sl: Slodki Calus od Buby, Org. Bob Dylan",
     "category": "piosenka",
@@ -414,7 +576,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-47",
+    "id": "seed-65",
     "title": "Łemata (Rozmyślania nad wodospadem)",
     "author": "sł. i muz. Wojtek \"Neron\" Warchoł",
     "category": "piosenka",
@@ -423,7 +585,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-48",
+    "id": "seed-66",
+    "title": "Majka",
+    "author": "SDM",
+    "category": "piosenka",
+    "content": "Gdy jestem sam myślami biegnę           /G e C D \nDo mej najdroższej jak rzeka wiernej    /G e C D \n\nRef.\nO Majka, nie jestem Ciebie wart         /G e C D \nMajka, zmieniłbym dla Ciebie cały świat /G e C D \n\nChoć dni mijaja i czas ucieka\nTy jesteś wierna, wierna jak rzeka\n\nByłaś mą gwiazdą, byłaś mą wiosną\nSennym marzeniem, myślą radosną\n\nOddałbym wszystko bo jesteś inna \nZa jeden uśmiech jedno spojrzenie",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-67",
     "title": "Marzę",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -432,7 +603,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-49",
+    "id": "seed-68",
     "title": "Majster Bieda",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -441,7 +612,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-50",
+    "id": "seed-69",
+    "title": "Mewy",
+    "author": "Andrzej Korycki",
+    "category": "piosenka",
+    "content": "wstęp: e9 D C7+ D e9 D C7+ D e e e e\n\n e C7+ D e\nMewy, białe mewy, wiatrem rzeźbione z pian\n e C7+ D e\nskrzydlate, białe muzy okrętów odchodzących w dal\nprzejście: e9 D C7+ D e9 D C7+ D\n e C7+ D e\nkto wam szybować każe za horyzontu kres\n e C7+ H7 e e\nw bezmierne oceany, przez sztormów święty gniew\n \n C D e\nŻeglarzom wracającym z morza\n C H7 e9\nna pamięć przywodzicie dom\n G D e\nrozbitkom wasze skrzydła niosą\n C H7 e\nnadzieję na zbawienny ląd\nprzejście: e9 D C7+ D e9 D C7+ D e e e e\n\nPtaki zapamiętane jeszcze z dziecięcych lat\ndrapieżnie spadające ze skał na szary Skagerrak\nWiatr czesał w grzywy morze, po falach skacząc lekko biegł\nPamiętam tamte mewy – przestworzy słonych zew\n\nŻeglarzom wracającym z morza\nna pamięć przywodzicie dom\nrozbitkom wasze skrzydła niosą\nnadzieję na zbawienny ląd\ncoda: e9 D C7+ D e9 D C7+ D e e ",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-70",
     "title": "Modlitwa",
     "author": "Kazimierz Wegrzyn",
     "category": "piosenka",
@@ -450,7 +630,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-51",
+    "id": "seed-71",
     "title": "Modlitwa mojego wieku",
     "author": "sł. Adam Ziemianin, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -459,7 +639,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-52",
+    "id": "seed-72",
     "title": "Mona",
     "author": "Peegy Seeger",
     "category": "piosenka",
@@ -468,7 +648,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-53",
+    "id": "seed-73",
     "title": "Morskie Opowieści",
     "author": "",
     "category": "piosenka",
@@ -477,7 +657,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-54",
+    "id": "seed-74",
     "title": "Na stacji Jerzego z Podebrad",
     "author": "Jaromir Nohavica (Zbigniew Zamachowski)",
     "category": "piosenka",
@@ -486,7 +666,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-55",
+    "id": "seed-75",
     "title": "Naprawdę nie dzieję sie nic",
     "author": "Grzegorz Turnau",
     "category": "piosenka",
@@ -495,7 +675,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-56",
+    "id": "seed-76",
     "title": "Nie przenoście nam stolicy do Krakowa",
     "author": "Pod Budą",
     "category": "piosenka",
@@ -504,7 +684,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-57",
+    "id": "seed-77",
+    "title": "Nie rozdziobią nas kruki",
+    "author": "SDM, sł. Edward Stuachura",
+    "category": "piosenka",
+    "content": "Nie rozdziobią nas kruki \t/D G0 h G\nNi wrony, ani nic! \t        /Fis e A74\nNie rozszarpią na sztuki \t/D G0 h G\nPoezji wściekłe kły! \t    /D A G\n\t\nRuszaj się Bruno, idziemy na piwo; \t        /Fis h\nNiechybnie brakuje tam nas! \t            /G D A\nOd stania w miejscu nie jeden już zginął, \t/Fis h\nNiejeden zginął już kwiat! \t                /G D A D\n\t\nNie omami nas forsa\t    /D G0 h G\nNi sławy pusty dźwięk!\t/Fis e A74\nInną ścigamy postać:\t/D G0 h G\nRealnej zjawy tren!\t    /D A G\n\t\nRuszaj się Bruno, idziemy na piwo; \t        /Fis h\nNiechybnie brakuje tam nas! \t            /G D A\nOd stania w miejscu nie jeden już zginął, \t/Fis h\nNiejeden zginął już kwiat! \t                /G D A D\n\t\nNie zdechniemy tak szybko,\t/D G0 h G\nJak sobie roi śmierć!\t    /Fis e A74\nZiemia dla nas za płytka,\t/D G0 h G\nFruniemy w góry gdzieś!\t    /D A G\n\t\nRuszaj się Bruno, idziemy na piwo; \t        /Fis h\nNiechybnie brakuje tam nas! \t            /G D A\nOd stania w miejscu nie jeden już zginął, \t/Fis h\nNiejeden zginął już kwiat! \t                /G D A D",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-78",
     "title": "Nie sprzedawajcie swych marzeń",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -513,7 +702,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-58",
+    "id": "seed-79",
     "title": "Niebieskooki sen",
     "author": "Słodki Całus od Buby, muz., sł.: K. Jurkiewicz",
     "category": "piosenka",
@@ -522,7 +711,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-59",
+    "id": "seed-80",
     "title": "Niebo do wynajęcia",
     "author": "Roberty Kasprzycki",
     "category": "piosenka",
@@ -531,7 +720,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-60",
+    "id": "seed-81",
+    "title": "Kim właściwie była ta piękna pani?",
+    "author": "SDM, sł. Edward Stachura",
+    "category": "piosenka",
+    "content": "Nikt nie zna ścieżek gwiazd;\t    /a G\nWybrańcem kto wśród nas?\t        /e a\nZapukał ktoś...\t                    /d\nTo do mnie gość?!\t                /C G\n\nWłóczyłem się jak cień,\t            /a G\nCzekałem na ten dzień;\t            /e a\nI stoisz w drzwiach...\t            /d\nJak dziwny ptak.\t                /C G\n\nRef:\nWięc bardzo proszę, wejdź,\t        /F G\nTu siadaj, rozgość się\t            /e a\nI zdradź mi, kim tyś jest, Madame?\t/F G\nAlbo nie zdradzaj mi,\t            /e a\nLepiej nie mówmy nic.\t            /G\nLepiej nie mówmy nic.\t            /F G\n\nNieśmiało sunie brzask,\t            /a G\nZatrzymać chciałbym czas.\t        /e a\nInaczej jest...\t                    /d\nCzas musi biec.\t                    /C G\n\nGdzieś w dali zapiał kur,\t        /a G\nNiemodny wdziewasz strój,\t        /e a\nJuż stoisz w drwiach...\t            /d\nJak dziwny ptak.\t                /C G\n\nRef:\nWięc jednak musisz pójść,\t        /F G\nPosyłasz mi przez próg\t            /e a\nUlotny uśmiech Twój, Madame.\t    /F G\nLecz będę czekać, przyjdź!\t        /e a\nGdy tylko zechcesz, przyjdź!\t    /G\nBędziemy razem żyć!\t                /F G\n\nJa będę czekać, przyjdź!\t        /e a\nGdy tylko zechcesz, przyjdź!\t    /G\nBędziemy razem żyć!\t                /F G",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-82",
     "title": "North West Passage",
     "author": "Ryczące Dwudziestki",
     "category": "piosenka",
@@ -540,7 +738,25 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-61",
+    "id": "seed-83",
+    "title": "November Rain",
+    "author": "Axel Rose, Guns N\u0027Roses",
+    "category": "piosenka",
+    "content": "F7M                       Dm7\n    When I look into your eyes\n                      C\nI can see a love restrained\nF7M                     Dm7\n    But darling when I hold you\n                           C\nDon\u0027t you know I feel the same\n\nDm                  G\n   Nothing lasts forever\n                              C\nAnd we both know hearts can change\nDm                          G\n   And it\u0027s hard to hold a candle\n                      C\nIn the cold november rain\n\nF7M\n    We\u0027ve been through this\n        Dm7\nSuch a long, long time\n                         C\nJust trying to kill the pain, oh yeah\n\n     F7M\nBut lovers always come\n\nAnd lovers always go\n     Dm7\nAnd no one\u0027s really sure\n                    C\nWho\u0027s letting go today, walking away\n\n       F7M\nIf we could take the time to\n\nlay it on the line\n         Dm7\nI could rest my head just knowing\n               C\nthat you were mine, all mine\n\nDm                    G\n   So if you want to love me\n                       C\nThen darling don\u0027t refrain\nDm                         G\n   Or I\u0027ll just end up walking\n                      C\nIn the cold november rain\n\n[Primeiro Refrão]\n\n        F                      G\nDo you need some time, on your own\n        F                    G\nDo you need some time, all alone\n           F                        G\nEverybody needs some time, on their own\n                    F                    G\nDon\u0027t you know you need some time, all alone\n\nE5              F5             C5\n   I know it\u0027s hard to keep an open heart\nE5              F5                D5   \n   When even friends seem out to harm you\nE5         F5                C5\n   But if you could heal a broken heart\nE5           F5              G5\n   Wouldn\u0027t time be out to charm you\n\n             F                    G\nSometimes I need some time, on my own\n             F                    G\nSometimes I need some time, all alone\n           F                        G\nEverybody needs some time, on their own\n                    F                    G\nDon\u0027t you know you need some time, all alone\n\nF7M                         Dm7\n    And when your fears subside\n                     C\nAnd shadows still remain\n\nF7M                      Dm7\n    I know that you can love me\n                              C\nWhen there\u0027s no one left to blame\n\nDm                   G\n   So nevermind the darkness\n                     C\nWe still can find a way\n\nDm                          G\n   \u0027Cause nothing lasts forever\n                    \nEven cold november rain\n\nC5\n(You\u0027re not the only one)\n(You\u0027re not the only one)",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-84",
+    "title": "Nuta z Ponidzia",
+    "author": "WGB, sł. Wojciech Bellon",
+    "category": "piosenka",
+    "content": "a F7+ G C7+ d7 G C h7 E74 a G6 F7+ G6 a G6 e E\n\nPolami polami po miedzach po miedzach           /a F G C7+\nPo błocku skisłym w mgłę i wiatr                /d7 G C7+\nNie za szybko kroki drobiąc                     /h7 E\nIdzie wiosna, idzie nam                         /a G6 F7+ G\nIdzie wiosna - idzie nam                        /a G e E  a F E a F E\n\nRozłożyła wiosna spódnicę zieloną\nPrzykryła błota bury błam\nPachnie ziemia ciałem młodym\nPóki wiosna, póki trwa   x2\n\nRozpuściła wiosna warkocze kwieciste    /a F G C7+\nZbarwniały łąki niczym kram             /d7 G C7+\nBędzie odpust pod Wiślicą               /h7  E7\nPóki wiosna póki trwa                   /a G6 F7+ G\nPóki wiosna póki trwa    x2\n\nPonidzie wiosenne, Ponidzie leniwe      /a F G C7+\nPrężysz się jak do słońca kot           /d7 G C7+\nRozciągnięte na tych polach             /h E7\nLichych lasach pstrych łozinach         /h E7\nSkałkach słońcem rozognionych           /h7 E7\nNida w łąkach roziskrzona               /h7 E\nNa Ponidziu wiosna trwa x2              /a G6 F7+ G\nNa Ponidziu                             /a G F a",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-85",
     "title": "Obława",
     "author": "Jacek Kaczmarski",
     "category": "piosenka",
@@ -549,7 +765,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-62",
+    "id": "seed-86",
     "title": "Ocean",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -558,7 +774,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-63",
+    "id": "seed-87",
     "title": "Oczekiwanie",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -567,7 +783,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-64",
+    "id": "seed-88",
     "title": "Opadły mgły wstaje nowy dzień",
     "author": "Stare Dobre Małżeństwo, sł: Edward Stachura",
     "category": "piosenka",
@@ -576,7 +792,34 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-65",
+    "id": "seed-89",
+    "title": "Paddy West",
+    "author": "Szanty",
+    "category": "piosenka",
+    "content": "Gdy pierwszy szedłem do London Rose         /G C\ngdzie Paddy West miał swój dom              /a7 D7 G\nchoć nie dał mi grogu a żarcie miał psie    /C G e\nzostałem u niego dzień                      /a7 D7\npowiedział- Stary, potrzeba rąk             /G C G e\nna statek zaciągnij się                     /a7 D7\nchoć trumną wszyscy żeglarze go zwą         /G C\ntam znajdziesz swój własny dom .            /a7 D7 C\n\nWięc załóż bracie drelichy                  /G C G\nz uśmiechem na pokład wejdź                 /e A7 D7\ni powiedz żeś dobrym żeglarzem              /G C\njest bo przysłał cię Paddy West.            /A7 D7 G\n\nA kiedy już dobrze napchałem brzuch to Paddy powiada tak-\nNa górę szoruj i zrefuj grot bo porwie go ostry wiatr\npognałem biegiem jak kazał West po schodach tupiąc jak wół\nnie było żagli więc z głupia frant firany ściągnąłem w dół.\n\nMiał Paddy szturwał przed domem swym na słupie wbitym na sztorc\nsterować kazał kursantom swym na wachcie stać dzień i noc\nczasami krzyczał -  All hand\u0027s on deck!  i wodą  z wiadra nas lał\ni to znaczyło że przyszedł sztorm i silny kładzie nas szkwał.\n\nPowiadał Paddy -  Ostatnią rzecz co ją uczynić ci trza\ntrzy razy musisz okrążyć stół gdzie bycze tkwią rogi dwa\ni wtedy brachu tak możesz rzec że zejman z ciebie i chwat\ntrzykrotnie już okrążyłeś Horn i pływasz od wielu lat.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-90",
+    "title": "Październik, Jesień",
+    "author": "sł. Andrzej Bursa",
+    "category": "piosenka",
+    "content": "//Przez złoty park mój pies kosmaty goni\n//Wiewiórka w liściach rudy orzech chowa\n//Opowiadaj mi moja mała żono\n//O srebrnych trąbkach wołających w dąbrowach\n\nPaździernik z trudem wiąże koniec z końcem\nPurpurowa kurteczka nie okryje biedy\nUsiadł sobie w przydrożnej gospodzie\nŻółte piwo popija na kredyt\n\nIdzie zima w kożuchu na wozie\nNasze palta ostrą igłą wiatr podszywa\nBędziemy patrzeć wieczorami w ogień\nJak nastroszył czerwoną grzywę\n\nA gdy ostatnią przepije kapotę\nWymknie się z wiatrem i liść przez okno rzuci\nAch opowiadaj, opowiadaj mi o tym\nJak oszwabiony szynkarz się zasmucił",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-91",
+    "title": "Październik",
+    "author": "Wolna Grupa Bukowina",
+    "category": "piosenka",
+    "content": "Burzą się dróg wymiary porudziałym wiatrem      /a D a C F G C7+\nStaje się październik w kapocie podartej        /D7 G F G\nŚcichają dni bezdrożne pogrążone w ciszy        /d C e d\n\nRef:\nStaje się październik w czapie nędznolisiej     /G F G C7+\nStaje się na oczach i w nozdrzach               /a C F C a\nPochylony kroczy                                /e\nDogląda co jego gdy liście i drzewa             /a C F C a\nRozłącza                                        /e\n\nTili tili liści szumem wypełnione rowy          /a D a C F G C7+\nStaje się październik z kaletą dziadową         /D7 G F G\nToczą się i klekocą kasztanowe kule             /d C e d\n\nRef:\nStaje się październik w złotawej koszuli        /G F G C7+\nStaje się na oczach i w nozdrzach               /a C F C a\nPochylony kroczy                                /e\nDogląda co jego gdy liście i drzewa             /a C F C a\nRozłącza                                        /e\n\nMieniąc się w stawie słońcem pozostałym z lata  /a D a C F G C7+\nStaje się październik jesiennie bogaty          /D7 G F G\nA potem trop znalazłszy na niebnych rozstajach  /d C e d\nOdchodzi październik listopad się staje         /G F G C7+\nMmm mmmm...                                     /a C F C a e",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-92",
     "title": "Pejzaże Harasymowiczowskie",
     "author": "Autor / Wykonawca: WGB",
     "category": "piosenka",
@@ -585,7 +828,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-66",
+    "id": "seed-93",
     "title": "Pejzaż Horyznotalny",
     "author": "Andrzej Sikorowski, Grzegorz Turnau",
     "category": "piosenka",
@@ -594,7 +837,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-67",
+    "id": "seed-94",
+    "title": "Pieśń XXIX",
+    "author": "Dom o Zielonych Progach, sł. Jerzy Harasymowicz, muz. Wojtek Szymański",
+    "category": "piosenka",
+    "content": "Całe życie w niebo idzie    /D2\nMój połoniński pochód       /C9\nI buki - srebrni jeźdźcy    /G6 /H\nNad nimi wiosny sokół       /D2\n\nI nadał tamtej połoniny wiatr\nI chmur wiosennych grzywy\nI na chorągwi wspomnień twarz\nZ włosami wiejącymi\n\nRef:\nJak ciała nasze w mrocznym rytmie   /D\nWznosiły się góry opadały           /e\nTak dzieje się gdy wiosna przyjdzie /G\nWypala miłość stare trawy           /D\n\nCałe życie w niebo idzie\nMój połoniński pochód\nI buki - srebrni jeźdźcy\nNad nimi wiosny sokół\n\nJak popiół rozwiały się grzechy\nW ciszy ktoś zawilce zasiał\nI tylko grzmią włosy przestrzeni\nW wielkich oknach mego świata\n\nRef:\nJak ciała nasze w mrocznym rytmie...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-95",
     "title": "Pieśń Wielorybników",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -603,7 +855,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-68",
+    "id": "seed-96",
     "title": "Piosenka dla Dośki",
     "author": "Majstrowie Gór",
     "category": "piosenka",
@@ -612,7 +864,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-69",
+    "id": "seed-97",
     "title": "Piosenka dla Wojtka Bellona",
     "author": "WGB",
     "category": "piosenka",
@@ -621,7 +873,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-70",
+    "id": "seed-98",
+    "title": "Piosenka Na Nowy Rok",
+    "author": "Nasza Basia Kochana, sł. Jacek Cygan",
+    "category": "piosenka",
+    "content": "Siedzę kiedy słońce lśni.           /C e\nBędę siedział, gdy zapadnie noc.    /F G\nCzekam nowych lepszych dni,         /C e\nKiedy Stary z Nowym wznoszą toast.  /F G C\n\nSiedzę sobie grzeję kości,\nSam na sam ze samotnością\nI nie czekam wcale gości\nW purpurowej filiżance piję wino.\n\nNic do marzeń, nic do żalu,         /C d F C\nKiedy Stary z Nowym wznoszą toast.  /F e G C\nNic do marzeń, nic do żalu,         /C d F C\nKiedy Stary z Nowym wznoszą toast.  /F e G C\n\nSiedzę sobie grzeję kości\nSam na sam ze samotnością\nI nie czekam wcale gości\nW purpurowej filiżance czekam wiosny.\n\nNic do marzeń...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-99",
     "title": "Piosenka Wiosenna",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -630,7 +891,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-71",
+    "id": "seed-100",
     "title": "Pocztówka z Beskidu",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -639,7 +900,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-72",
+    "id": "seed-101",
     "title": "Pod kątem ostrym",
     "author": "SDM, sł. Adam Ziemianin",
     "category": "piosenka",
@@ -648,7 +909,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-73",
+    "id": "seed-102",
     "title": "Polanka",
     "author": "słowa i muzyka: Zbigniew Stefański (z repertuaru zespołu „Bez Jacka”)",
     "category": "piosenka",
@@ -657,7 +918,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-74",
+    "id": "seed-103",
     "title": "Połoniny Niebieskie",
     "author": "Adam Drąg",
     "category": "piosenka",
@@ -666,7 +927,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-75",
+    "id": "seed-104",
     "title": "Posiedzimy jeszcze trochę",
     "author": "Piotr Bakal",
     "category": "piosenka",
@@ -675,7 +936,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-76",
+    "id": "seed-105",
     "title": "Powroty",
     "author": "Słodki Całus od Buby, muz., sł.: K. Jurkiewicz",
     "category": "piosenka",
@@ -684,7 +945,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-77",
+    "id": "seed-106",
     "title": "Powroty",
     "author": "Szanty",
     "category": "piosenka",
@@ -693,7 +954,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-78",
+    "id": "seed-107",
     "title": "Powrót",
     "author": "Krążek -  sł., muz. Maciej Służała kap. II",
     "category": "piosenka",
@@ -702,7 +963,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-79",
+    "id": "seed-108",
     "title": "Pożegnalny ton",
     "author": "Autor / Wykonawca: muz.sł.S.Klupś",
     "category": "piosenka",
@@ -711,7 +972,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-80",
+    "id": "seed-109",
     "title": "Pożegnanie",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -720,7 +981,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-81",
+    "id": "seed-110",
     "title": "Pożegnanie Liverpoolu",
     "author": "",
     "category": "piosenka",
@@ -729,7 +990,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-82",
+    "id": "seed-111",
+    "title": "Proud Mary",
+    "author": "Proud Mary - tekst piosenki",
+    "category": "piosenka",
+    "content": "1.\nLeft a good job in the city,                  /D\nWorkin\u0027 for The Man ev\u0027ry night and day,      /D\nAnd I never lost one minute of sleepin\u0027,      /D \nWorryin\u0027 \u0027bout the way things might have been./D\n\nCHORUS:\nBig wheel keep on turnin\u0027,                  /A\nProud Mary keep on burnin\u0027,                 /h\nRollin\u0027, rollin\u0027, rollin\u0027 on the river.     /D\n2.\nCleaned a lot of plates in Memphis,         /D\nPumped a lot of pain down in New Orleans,\nBut I never saw the good side of the city,\n\u0027Til I hitched a ride on a river boat queen.\n\nCHORUS\nRollin\u0027, rollin\u0027, rollin\u0027 on the river.\n\n3.\nIf you come down to the river,\nBet you gonna find some people who live.\nYou don\u0027t have to worry \u0027cause you have no money,\nPeople on the river are happy to give.\n\nCHORUS\nRollin\u0027, rollin\u0027, rollin\u0027 on the river.\nRollin\u0027, rollin\u0027, rollin\u0027 on the river.\nRollin\u0027, rollin\u0027, rollin\u0027 on the river.",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-112",
     "title": "Przypowieść",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -738,7 +1008,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-83",
+    "id": "seed-113",
     "title": "Przypowieść II",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -747,7 +1017,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-84",
+    "id": "seed-114",
+    "title": "Requiem dla Majstra Biedy",
+    "author": "Maciej Służała",
+    "category": "piosenka",
+    "content": "  h                              e\nOdciśnięty wibramu ślad w śniegu co napadał wczoraj\n    A7                                 h\nRozmoknięty deszczowy świat, pochmurny dzień\n  h                               e\nMonotonny kroków plask, ptasi trakt wydeptany w niebie\n       A7                                 h \nSzarej mgły wystrzępiony łat targa zimny wiatr\n\n[Refren]\n        G                    A\nJeszcze tyle niewidzianych dróg\n        h                  E7 \nJeszcze tyle zapomnianych stron\n    e\nNiewitanych drzew, roześmianych słońc\n       Fis                           h\nTrzeba wracać. Trzeba znaleźć własny dom\n\nNawet psa przegonił ktoś kijem porzuconym w rowie koło drogi    /h e\nPłatkiem sera przełożony chleb zjesz dzisiaj sam                /A7 h\nOgrzać się w kręgu ognia - próżny sen,                          /h \npopiół z wiatrem gdzieś uleciał w ciemną zamieć                 /e\nPusty worek wstyd na grzbiecie nieść - wracać czas              /A7 h\n\n[Refren]\nJeszcze tyle niewidzianych dróg             /G A\nJeszcze tyle zapomnianych stron             /h E7\nNiewitanych drzew, roześmianych słońc       /e\nTrzeba wracać. Trzeba znaleźć własny dom    /Fis h\n\nNie ma nawet przed kim czapki zdjąć, \nsztywno stoją dziś bezlistne zmarzłe drzewa\nNie ma z kim pogadać - jak, gdzie, dokąd, skąd? \nBłotnisty trakt\nCzy wystarczy sił, by wrócić tu za rok, \nczy wystarczy aby dotrzeć dokądkolwiek?\nPrzecież musisz z wiatrem za pan brat wyjść na szlak\n\n[Refren]\nJeszcze tyle niewidzianych dróg             /G A\nJeszcze tyle zapomnianych stron             /h E7\nNiewitanych drzew, roześmianych słońc       /e\nTrzeba wracać. Trzeba znaleźć własny dom    /Fis h",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-115",
     "title": "Rzeka",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -756,7 +1035,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-85",
+    "id": "seed-116",
     "title": "Sanctus",
     "author": "SDM. Stare Dobre Małżeństwo. sł: Edward Stachura",
     "category": "piosenka",
@@ -765,7 +1044,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-86",
+    "id": "seed-117",
+    "title": "Saskia",
+    "author": "Bez Jacka, sł. K. I. Gałczyński, muz. J.H. Chrząstek, Z. Stefański",
+    "category": "piosenka",
+    "content": "e a e a C G D\nOjczyzną moją jest muzyka, e a\na Ty jesteś jak nuta rzewna z którą na ustach, e a C\npo latach wraca się w muzykę jak do domu D e\ni tylko nie trwóż się, Saskia, bo możesz mi być e a e\ntak bardzo potrzebna, że chyba tylko śmierci, a C\nale już Cię nie oddam nikomu. D e\nJeżeli wszystkie niebiosa i wszystkie w nich Serafiny C D e e\nkrzykiem tęsknoty wybłagam, by się spełniła twa chwała, C D e e\njeżeli powiem Ci więcej, że jesteś ponad rubiny, C D e e\no jedno proszę cię Saskia, nie bądź zarozumiała. C D e e\n\ne a e a C G D\nSaskia cokolwiek się stanie, e a\nzłotą chmurą zostaniesz w legendzie, e a\nbo wypisane jest ogniem na ścianie, C\nże cię nikt tak jak ja kochał nie będzie. D e\nSięgnij po nieśmiertelność, Saskia, C\ntak jak się sięga po szmaragd, gitarę, D C\nczy jabłko rumiane ogromne. D e\nJabłko szmaragd przeminą, e a\njak komar brzęczy gitara, e a\nlecz ja to w książkę zamknę. C\nSaskia, uśmiechnij się do mnie. D e\ne a e a C G D",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-118",
     "title": "Scarborough Fair",
     "author": "Chords by Simon \u0026 Garfunkel",
     "category": "piosenka",
@@ -774,7 +1062,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-87",
+    "id": "seed-119",
+    "title": "Scarlett",
+    "author": "Leonard Luther",
+    "category": "piosenka",
+    "content": "1861 W Atlancie szał tysięcy młodych nóg  eCD/C a F G\nGenerał Lee podnosi w górę rękę           GDeC/CGCD\nJankesom śmierć - tak nam dopomóż Bóg     GCD/CG\n\nNa dworcu tłok, sztandary i kobiety\nPociągi pełne chłopców żądnych krwi\nW kwietniowym słońcu błyszczą epolety\nWiwat południe! Wiwat stary Lee!\n\nScarlet, czemu słowa takie zimne          GD/CG\nJakby w gardle okruch lodu stał           aCD/FG\nScarlet, wojna nie jest dla dziewczynek   GD/CG\nKtóre nie potrafią grać vabank            aCD/dFG\n\n1862 Jesienne słońce w epoletach lśni\nGenerał Lee dochodzi do Missouri\nDo Pensylwanii wkracza stary Lee\n\nArtyleryjski ogień wkrótce zdławi\nJankeskie szczury w górach Tenesse\nZwycięstwa Bóg Atlantę błogosławi\nWiwat południe! Wiwat stary Lee!\n\n1864 W krwi południowej tonie miasta próg\nJankeskie psy nie wejdą do Atlanty\nJankesom śmierć - tak nam dopomóż Bóg\n\nPłonie Atlanta w ogniu oszalałym\nSztandar obłażą wygłodniałe wszy\nGwardia opuszcza miasto osłupiałe\nZnak krzyża szablą kreśli stary Lee",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-120",
     "title": "Sielanka o Domu",
     "author": "Wolna Grupa Bukowina, muz. W. Juszczyszyn; sł. W. Belon",
     "category": "piosenka",
@@ -783,7 +1080,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-88",
+    "id": "seed-121",
+    "title": "Stavanger",
+    "author": "Banana Boat",
+    "category": "piosenka",
+    "content": "Rolling, rolling to Stavanger – rolling to Stavanger, rolling\nRolling, rolling to Stavanger – rolling to Stavanger, roll and go\nRolling, rolling to Stavanger – rolling to Stavanger, rolling\nRolling, rolling to Stavanger – rolling to Stavanger, roll and go\n\nMagnetized by mystic lore\nSentinels of stone ashore\nGuard the entrance to the land of dreams\nWrapped in silent reveries\nI am crossing stormy seas\nNorway calls upon me, all a-gleam\nI set sail to cross the ocean wide\nOn the salty wave I ride\nLike mediaeval champions long ago\nI will never, never turn around\nTill I find my promised land\nAnd I’ll go on...\n\nRolling, rolling to Stavanger – rolling to Stavanger, rolling\nRolling, rolling to Stavanger – rolling to Stavanger, roll and go\nRolling, rolling to Stavanger – rolling to Stavanger, rolling\nRolling, rolling to Stavanger – rolling to Stavanger, roll and go\n\nThrough the clouds my Nordic sky\nShining bluest as I fly\nOver playful crests of silver foam\nOrnamental stars above\nLead my way and drive my life\nSoon I’ll set my eye on rocky shores\nAnd the monumental royal fjord\nCrowned in ice and ermine-robed\nOpens up its gate to welcome me\nI will clear the decks and I will see\nViking ghosts surrounding me...\nMy reverie…\n\nRolling, rolling to Stavanger – rolling to Stavanger, rolling\nRolling, rolling to Stavanger – rolling to Stavanger, roll and go\nRolling, rolling to Stavanger – rolling to Stavanger, rolling\nRolling, rolling to Stavanger – rolling to Stavanger, roll and go",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-122",
     "title": "Śniegowice",
     "author": "Tomasz Wachnowski",
     "category": "piosenka",
@@ -792,7 +1098,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-89",
+    "id": "seed-123",
     "title": "Taradajka",
     "author": "Wszystkiego Najlepszgo",
     "category": "piosenka",
@@ -801,7 +1107,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-90",
+    "id": "seed-124",
     "title": "Tawerna Pod Pijaną Zgrają",
     "author": "",
     "category": "piosenka",
@@ -810,7 +1116,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-91",
+    "id": "seed-125",
+    "title": "Trawa",
+    "author": "Dom o zielonych progach, sł/ Julian Tuwim",
+    "category": "piosenka",
+    "content": "                         /G* aC\nTrawo, trawo do kolan    /G* aC\nPodnieś mi się do czoła        \nŻeby myślom nie było\nAni mnie, ani pola\n\nŻebym ja się uzielił         /D e\nPrzekwiecił do rdzenia kości /C G\nI już się nie oddzielił      /D e\nSłowami o twej świeżości     /C G\n                        /G* aC\nAbym tobie i sobie\nJednym imieniem mówił\nAlbo obojgu trawa\nAlbo obojgu tuwim",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-126",
     "title": "U Pana Boga za piecem (Kipiatok)",
     "author": "Słodki Całus od Buby",
     "category": "piosenka",
@@ -819,7 +1134,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-92",
+    "id": "seed-127",
     "title": "We wtorek w schronisku",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -828,7 +1143,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-93",
+    "id": "seed-128",
     "title": "Wędrowiec",
     "author": "Autor: Jarosław Zajączkowski Wykonawca : Krewni i Znajomi Królika",
     "category": "piosenka",
@@ -837,7 +1152,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-94",
+    "id": "seed-129",
     "title": "Wędrują ludzie",
     "author": "Saskia",
     "category": "piosenka",
@@ -846,7 +1161,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-95",
+    "id": "seed-130",
     "title": "Wędrujemy",
     "author": "Na Bani",
     "category": "piosenka",
@@ -855,7 +1170,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-96",
+    "id": "seed-131",
     "title": "Wieczorna Piosenka o domu",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -864,7 +1179,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-97",
+    "id": "seed-132",
     "title": "Wielorybnicy Grenlandzcy",
     "author": "wyk. Ryczące Dwudziestki",
     "category": "piosenka",
@@ -873,7 +1188,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-98",
+    "id": "seed-133",
     "title": "Wiewiórka",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -882,7 +1197,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-99",
+    "id": "seed-134",
     "title": "Wiosna",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -891,7 +1206,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-100",
+    "id": "seed-135",
     "title": "W marcu nad ranem",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -900,7 +1215,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-101",
+    "id": "seed-136",
     "title": "W górach",
     "author": "sł. W. Benkoff-Czarnocki, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -909,7 +1224,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-102",
+    "id": "seed-137",
     "title": "Krążek",
     "author": "Wiatr i Strzyga. Maciej Służała",
     "category": "piosenka",
@@ -918,7 +1233,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-103",
+    "id": "seed-138",
     "title": "Wracanie",
     "author": "Na Bani",
     "category": "piosenka",
@@ -927,7 +1242,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-104",
+    "id": "seed-139",
     "title": "W liniach losu zapisane",
     "author": "Michał Langowski, Martin Kac, słowa Wiesława Kwinto Koczan",
     "category": "piosenka",
@@ -936,7 +1251,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-105",
+    "id": "seed-140",
+    "title": "W zakątku cmentarza",
+    "author": "SDM, sł. Bolesław Leśmian",
+    "category": "piosenka",
+    "content": "Mają zmarli w niedzielę ten pośmiertny kłopot           /DG.DG.DG.A.\nŻe w obczyźnie cmentarza czują się bezdomni             /DG.DG.A.A.\nA lubią noc tę spędzać po pod mgłą lub po pod           /DG.DG.DG.A.\nWiecznością co się w jarach gęstwi nieprzytomnie        /fis.G.A.A.\n\nMaria z Bzówka wygody wspomina izdebne                  /G.A.DG.De.\nSłońce w łóżku, wiatr w sieni i ogród macierzyn         /G.A.\nGdzie było tyle w radości uchodzących ścieżyn           /DG.DG.DG.A.\nA wszystkie takie trafne i drzewom potrzebne            /G.A.\n\nTatata...                                               /DG.DG.DG.A.\n\nŻebrak co się zadławił na śmierć krztyną chleba\nKijem niegdyś wędrownym obłędnie się babrze\nW nieodgadle błękitnym, pełnym Boga chabrze\nBy zeń dla snu wiecznego wydłubać źdźbło nieba\n\nTatata...\n\nMnich co po to byt ziemski tłumił bez szemrania\nBy pędzić żywot wieczny w sposób nienaganny\nKreśli palcem na próchnie list do panny Anny\nŻycząc rychłego w kwiatach zmartwychwstania\n\nTatata...\n\nPanna Anna udaje, że jest w bez żałobie\nI biorąc na kolana młodą mgłę pieszczochę\nUkradkiem z pajęczyny tka zwiewną pończochę\nDla brzozy co tkwi boso na kochanka grobie\n\nTatata...\n\nA opodal mniej więcej naprzeciw rozstaju\nWe fraku bezrozumnie skąsanym przez szczura\nNa czele kilku cieni żeńskiego rodzaju\nNieboszczyk Madaleński prowadzi mazura\n\nTatata...\n\nMają zmarli w niedzielę ten pośmiertny kłopot...\nMają zmarli w niedzielę ten pośmiertny kłopot...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-141",
     "title": "Zabierz mnie wielka rzeko",
     "author": "Wykonawca: Atlantyda, Słowa i muzyka: Sławomir Klupś",
     "category": "piosenka",
@@ -945,7 +1269,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-106",
+    "id": "seed-142",
     "title": "Zamieszkamy pod wspólnym dachem",
     "author": "Pod Budą, Andrzej Sikorowski",
     "category": "piosenka",
@@ -954,7 +1278,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-107",
+    "id": "seed-143",
     "title": "Zapiszę śniegiem w kominie",
     "author": "Robert Kasprzycki",
     "category": "piosenka",
@@ -963,7 +1287,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-108",
+    "id": "seed-144",
     "title": "Zawirował świat",
     "author": "K. Myszkowski, SDM",
     "category": "piosenka",
@@ -972,7 +1296,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-109",
+    "id": "seed-145",
     "title": "Zima",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -981,7 +1305,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-110",
+    "id": "seed-146",
     "title": "Złockie  niebo cerkiewne",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -990,7 +1314,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-111",
+    "id": "seed-147",
+    "title": "Znów bijatyka",
+    "author": "EKT Gdynia",
+    "category": "piosenka",
+    "content": "To dwudziesty czwarty był lutego           C\nPoranna zrzedła mgła                       G\nWyszło z niej siedem uzbrojonych kryp      a\nTurecki niosły znak                        a G a\n\nREF:\nNo i znów bijatyka                       C\nNo i znów bijatyka                       C\nBijatyka cały dzień                      C G\nPorąbany dzień, porąbany łeb             a\nRazem bracia - aż po zmierzch            a G a\n(bis)\n\nJuż pierwszy zbliża się do burt\nA zwie się \"Goździk\"\nZ Algieru pasza wysłał go\nŻeby nam upuścił krwi\n\nNastępnie zbliża się do burt\nA zwie się \"Róży pąk\"\nPlunęliśmy ze wszystkich luf\nBardzo prędko szedł na dno\n\nW naszych rękach dwa i dwa na dnie\nCala reszta zwiała gdzieś\nNo a jeden z nich zabraliśmy\nNa starej Anglii brzeg",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-148",
     "title": "Znów wędrujemy",
     "author": "Grzegorz Turnau",
     "category": "piosenka",
@@ -999,7 +1332,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-112",
+    "id": "seed-149",
     "title": "Zwiewność",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -1008,7 +1341,16 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-113",
+    "id": "seed-150",
+    "title": "Żegluj",
+    "author": "Mechanicy Shanty",
+    "category": "piosenka",
+    "content": "     C       e a    F              G\nRef. żegluj, żegluj tam gdzie Nowa Szkocja.\n     C       e a          F      G    C\n     żegluj, żegluj gdzie wstaje nowy dzień.\n\n   a                          G    C\n1. Głos Nowej Szkocji nam przynosi wiatr,\n        F       C      F\n   To zapowiedz nowych dni.\n         d    C      G      a\n   Znowu woła do nas rykiem fal.\n           F       C    G\n   Tam znajdziecie nowy świat.\n   a                       G     C\n   Znów dumny brzeg będzie witał was\n       F      C        F\n   Majestatem groźnych skał.\n         d        C          G    a\n   Każdy dzień tu świtem przywita was,\n         F        C      F\n   Coraz bliższym stanie się,\n         d       G            C\n   Twoim własnym domem stanie się.\n\nRef. żegluj, żegluj...\n\n2. Atlantyk bije falą w stromy brzeg,\n   Wściekle ryczy pośród skał.\n   W górze dzikich ptaków słychać śpiew.\n   Głos ich płynie z wiatrem w dal.\n   Tam bujnej trawy się kołysze łan\n   I strumyków cichy szept.\n   W mej pamięci zawsze będzie trwał,\n   Lecz niedługo powiem wam,\n   Lecz niedługo wszystkim powiem wam:\n\nRef. żegluj, żegluj...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+    },
+  {
+    "id": "seed-151",
     "title": "Życzenia powrotu",
     "author": "Wykonawca: EKT-Gdynia, Słowa: Ireneusz Wójcicki, Muzyka: Jan Wydra",
     "category": "piosenka",
