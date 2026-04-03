@@ -442,7 +442,7 @@ function escapeHtml(value) {
   return $('<div>').text(value || '').html();
 }
 
-function getExcerpt(text, len = 160) {
+function getExcerpt(text, len = 100) {
   const normalized = (text || '').replace(/\n/g, ' ').replace(/\s+/g, ' ').trim();
   return normalized.length > len ? normalized.slice(0, len) + '…' : normalized;
 }

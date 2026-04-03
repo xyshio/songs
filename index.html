@@ -9,7 +9,7 @@
 <body>
   <nav class="navbar">
     <div class="container navbar-inner">
-      <a class="brand" href="javascript:void(0)" id="brandLink">🎵 SongWebBook</a>
+      <a class="brand" href="javascript:void(0)" id="brandLink">🎵 Songs-N-Chords</a>
       <div class="nav-actions" id="navActions"></div>
     </div>
   </nav>
@@ -19,7 +19,6 @@
     <!-- ===== WIDOK: LISTA ===== -->
     <section id="page-list" style="display:none">
       <div class="page-header">
-        <h1>Piosenki i wiersze</h1>
         <p class="subtitle" id="resultsLabel">Ładowanie piosenek...</p>
       </div>
       <div class="toolbar">
@@ -30,7 +29,7 @@
           <button style="display:none" class="btn btn-outline btn-filter active" data-filter="all" type="button">Wszystkie</button>
           <select id="dataSourceSelect" class="per-page-select" title="Źródło danych"></select>
           <select id="perPageSelect" class="per-page-select" title="Liczba na stronie">
-            <option value="5" selected>5</option>
+            <option value="5">5</option>
             <option value="8">8</option>
             <option value="10">10</option>
             <option value="15">15</option>
@@ -135,7 +134,7 @@
     let activeFilter = 'all';
     let pendingFile  = null;
     let currentPage  = 1;
-    let perPage      = 5;
+    let perPage      = 8;
     let currentViewId = null; // id aktualnie oglądanego/edytowanego wpisu
 
     // ===== NAWIGACJA =====
@@ -238,10 +237,10 @@
             <a class="btn btn-secondary card-open-btn"
                style="width:100%;text-align:left!important;justify-content:left;padding:5px 10px;border-radius:12px;border:1px #8b8bb0 solid"
                href="javascript:void(0)" data-id="${item.id}">
-              ${escapeHtml(item.title)}
+              🎵 ${escapeHtml(item.title)}
               <span>👤 ${escapeHtml(item.author || 'Nieznany autor')}</span>
             </a>
-            <div style="position:relative;top:-29px;right:5px;display:inline;float:right">${categoryBadge(item.category)}</div>
+            <div style="position:relative;top:-29px;right:5px;display:none;float:right">${categoryBadge(item.category)}</div>
           </div>
           <p class="card-excerpt">${escapeHtml(getExcerpt(item.content))}</p>
         </article>
@@ -305,11 +304,11 @@
 
       $('#viewRoot').removeClass('loading').html(navBar + `
         <article class="article">
-          <h1>${escapeHtml(item.title)}</h1>
+          <h1 style="font-size:1.1rem">${escapeHtml(item.title)} <span style="font-size:.9rem">👤 ${escapeHtml(item.author || 'Nieznany autor')}</span></h1>
           <div class="article-meta">
-            ${categoryBadge(item.category)}
-            <span>👤 ${escapeHtml(item.author || 'Nieznany autor')}</span>
-            <span>📅 Dodano: ${formatDate(item.createdAt)}</span>
+            
+            
+            <span style="display:none">📅 Dodano: ${formatDate(item.createdAt)}</span>
             ${editedLabel}
           </div>
           <pre class="poem-content">${escapeHtml(item.content)}</pre>
