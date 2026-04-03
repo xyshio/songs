@@ -27,9 +27,8 @@
           <input id="searchInput" class="search-input" type="text" placeholder="Szukaj po tytule lub autorze...">
         </div>
         <div class="toolbar-right filter-group">
-          <button class="btn btn-outline btn-filter active" data-filter="all" type="button">Wszystkie</button>
-          <button class="btn btn-outline btn-filter" data-filter="piosenka" type="button">🎵 Piosenki</button>
-          <button class="btn btn-outline btn-filter" data-filter="wiersz" type="button">📖 Wiersze</button>
+          <button style="display:none" class="btn btn-outline btn-filter active" data-filter="all" type="button">Wszystkie</button>
+          <select id="dataSourceSelect" class="per-page-select" title="Źródło danych"></select>
           <select id="perPageSelect" class="per-page-select" title="Liczba na stronie">
             <option value="5" selected>5</option>
             <option value="8">8</option>
@@ -129,7 +128,7 @@
   <div id="toast"></div>
 
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=5"></script>
   <script>
     // ===== STAN APLIKACJI =====
     let allItems     = [];
@@ -408,6 +407,28 @@
         perPage = $(this).val() === 'all' ? 'all' : parseInt($(this).val());
         currentPage = 1;
         renderList();
+      });
+
+      // Inicjalizacja selecta źródła danych
+      getDataSources().then(function (sources) {
+        sources.forEach(function (f) {
+          const opt = $('<option>').val(f.key).text(f.label);
+          if (f.key === getCurrentSource()) opt.prop('selected', true);
+          $('#dataSourceSelect').append(opt);
+        });
+      });
+      $('#dataSourceSelect').on('change', function () {
+        const key = $(this).val();
+        switchDataSource(
+          key,
+          function () {
+            showToast('Załadowano: ' + key, 'success');
+            refreshData();
+          },
+          function (err) {
+            showToast(err.message || 'Błąd ładowania danych.', 'error');
+          }
+        );
       });
 
       // Modal: usuń wpis

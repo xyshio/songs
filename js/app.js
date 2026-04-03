@@ -5,7 +5,29 @@
  */
 
 const STORAGE_KEY = 'songs_library_data';
-const DATA_FILE_PATH = 'data/songs.json';
+const SOURCE_KEY   = 'songs_library_source';
+
+// =====================================================
+// Lista dostępnych plików danych w katalogu data/.
+// Aby dodać nowe źródło — dopisz wpis do tej tablicy.
+// =====================================================
+const DATA_SOURCES = [
+  { key: 'songs',  label: 'Songs' },
+  { key: 'songs_wojciech_sobieski', label: 'Songs Wojciech Sobieski' },
+  { key: 'songs_all', label: 'Songs All' }
+];
+
+function getDataSources() {
+  return Promise.resolve(DATA_SOURCES);
+}
+
+function getCurrentSource() {
+  return localStorage.getItem(SOURCE_KEY) || 'songs';
+}
+
+function getDataFilePath(key) {
+  return 'data/' + (key || getCurrentSource()) + '.json';
+}
 
 let dataReadyPromise = null;
 
@@ -28,8 +50,8 @@ function storageSave(items) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
 }
 
-function fetchDataFile() {
-  return fetch(DATA_FILE_PATH, { cache: 'no-store' })
+function fetchDataFile(key) {
+  return fetch(getDataFilePath(key), { cache: 'no-store' })
     .then((response) => {
       if (!response.ok) {
         throw new Error('Nie udało się wczytać pliku danych.');
@@ -50,7 +72,7 @@ function ensureDataReady(callback) {
     if (current) {
       dataReadyPromise = Promise.resolve(storageLoad());
     } else {
-      dataReadyPromise = fetchDataFile()
+      dataReadyPromise = fetchDataFile(getCurrentSource())
         .then((items) => {
           storageSave(items);
           return storageLoad();
@@ -77,7 +99,7 @@ function reloadFromDataFile(success, error) {
     return;
   }
   dataReadyPromise = null;
-  fetchDataFile()
+  fetchDataFile(getCurrentSource())
     .then((items) => {
       localStorage.removeItem(STORAGE_KEY); // clear only after successful fetch
       storageSave(items);
@@ -96,6 +118,27 @@ function reloadFromDataFile(success, error) {
 
 function resetToSeed(success, error) {
   reloadFromDataFile(success, error);
+}
+
+function switchDataSource(key, success, error) {
+  if (window.location.protocol === 'file:') {
+    const err = new Error('Fetch nie działa przez protokół file://. Otwórz aplikację przez serwer HTTP.');
+    if (typeof error === 'function') error(err);
+    return;
+  }
+  localStorage.setItem(SOURCE_KEY, key);
+  localStorage.removeItem(STORAGE_KEY);
+  dataReadyPromise = null;
+  fetchDataFile(key)
+    .then((items) => {
+      storageSave(items);
+      dataReadyPromise = Promise.resolve(storageLoad());
+      if (typeof success === 'function') success(items);
+    })
+    .catch((err) => {
+      dataReadyPromise = Promise.resolve(storageLoad());
+      if (typeof error === 'function') error(err);
+    });
 }
 
 function generateId() {
