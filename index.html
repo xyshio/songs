@@ -312,6 +312,8 @@
             ${editedLabel}
           </div>
           <pre class="poem-content">${escapeHtml(item.content)}</pre>
+          <div id="itemUrl" class="no-print">${renderItemUrl(item.url)}</div>
+          ${navBar}
           <div class="article-actions">
             <button class="btn btn-outline" id="backToListFromArticleBtn">← Wszystkie wpisy</button>
             ${adminActions}
@@ -367,6 +369,58 @@
 
     function showFormError(message) { $('#formAlert').text(message).show(); }
     function hideFormError()        { $('#formAlert').hide().text(''); }
+
+    // ===== HELPER: URL / YouTube =====
+    function getYouTubeId(url) {
+      if (!url) return null;
+      const patterns = [
+        /(?:youtube\.com\/watch\?(?:.*&)?v=)([\w-]{11})/,
+        /(?:youtu\.be\/)([\w-]{11})/,
+        /(?:youtube\.com\/embed\/)([\w-]{11})/
+      ];
+      for (const re of patterns) {
+        const m = url.match(re);
+        if (m) return m[1];
+      }
+      return null;
+    }
+
+    // Parsuje parametr t= z URL YouTube do liczby sekund.
+    // Obsługuje formaty: t=1h20m12s, t=20m12s, t=72s, t=1212
+    function parseYouTubeTime(url) {
+      if (!url) return null;
+      const tMatch = url.match(/[?&]t=([^&]+)/);
+      if (!tMatch) return null;
+      const t = tMatch[1];
+      // format: 1h20m12s / 20m12s / 72s / 1212
+      const full = t.match(/^(?:(\d+)h)?(?:(\d+)m)?(?:(\d+)s?)?$/);
+      if (!full) return null;
+      const h = parseInt(full[1] || 0);
+      const m = parseInt(full[2] || 0);
+      const s = parseInt(full[3] || 0);
+      const total = h * 3600 + m * 60 + s;
+      return total > 0 ? total : null;
+    }
+
+    function renderItemUrl(url) {
+      if (!url) return '';
+      const ytId = getYouTubeId(url);
+      if (ytId) {
+        const startSec = parseYouTubeTime(url);
+        const startParam = startSec ? `?start=${startSec}` : '';
+        return `
+          <div class="yt-wrap">
+            <iframe
+              src="https://www.youtube.com/embed/${ytId}${startParam}"
+              title="YouTube"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>`;
+      }
+      return `<a class="ext-link" href="${escapeHtml(url)}" target="_blank" rel="noopener">🔗 ${escapeHtml(url)}</a>`;
+    }
 
     // ===== HELPERS TRYB =====
     function setMode()    { localStorage.setItem('mode', isAdminMode() ? 'user' : 'admin'); location.reload(); }

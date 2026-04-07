@@ -12,9 +12,9 @@ const SOURCE_KEY   = 'songs_library_source';
 // Aby dodać nowe źródło — dopisz wpis do tej tablicy.
 // =====================================================
 const DATA_SOURCES = [
-  { key: 'songs',  label: 'Songs' },
-  { key: 'songs_wojciech_sobieski', label: 'Songs Wojciech Sobieski' },
-  { key: 'songs_all', label: 'Songs All' }
+  { key: 'songs',  label: 'Piosenki Wybrane Krzyska' },
+  { key: 'songs_wojciech_sobieski', label: 'Piosenki Spiewnik Wojciech Sobieski' },
+  { key: 'songs_all', label: 'Wszystkie' }
 ];
 
 function getDataSources() {

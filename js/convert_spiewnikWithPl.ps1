@@ -1,6 +1,6 @@
 Add-Type -AssemblyName System.Web
 
-$path    = 'C:\work\spiewnik\js\spiewnik.txt'
+$path    = 'C:\work\spiewnik\data\spiewnik.txt'
 $outPath = 'C:\work\spiewnik\data\songs.json'
 $sep     = '= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ='
 $lines   = Get-Content -Path $path -Encoding UTF8
@@ -40,7 +40,18 @@ foreach ($rawLine in $lines) {
             # flush current song
             while ($cLines.Count -gt 0 -and $cLines[$cLines.Count-1].TrimEnd() -eq '') { $cLines.RemoveAt($cLines.Count-1) }
             while ($cLines.Count -gt 0 -and $cLines[0].TrimEnd() -eq '') { $cLines.RemoveAt(0) }
-            $songs.Add([PSCustomObject][ordered]@{
+            # wyciągnij URL:: z ostatnich linii contentu
+            $curUrl = ''
+            for ($ui = $cLines.Count - 1; $ui -ge 0; $ui--) {
+                if ($cLines[$ui].TrimEnd() -eq '') { continue }
+                if ($cLines[$ui] -match '^URL::(.+)$') {
+                    $curUrl = $Matches[1].Trim()
+                    $cLines.RemoveAt($ui)
+                    while ($cLines.Count -gt 0 -and $cLines[$cLines.Count-1].TrimEnd() -eq '') { $cLines.RemoveAt($cLines.Count-1) }
+                }
+                break
+            }
+            $obj = [ordered]@{
                 id        = "seed-$idCnt"
                 title     = $curTit
                 author    = $curAut
@@ -48,7 +59,9 @@ foreach ($rawLine in $lines) {
                 content   = ($cLines -join "`n")
                 createdAt = '2026-04-01T08:00:00.000Z'
                 updatedAt = '2026-04-01T08:00:00.000Z'
-            })
+            }
+            if ($curUrl -ne '') { $obj['url'] = $curUrl }
+            $songs.Add([PSCustomObject]$obj)
             $idCnt++
             $state = 1; $curTit = ''; $curAut = ''
             $cLines = [System.Collections.Generic.List[string]]::new()
@@ -70,7 +83,18 @@ foreach ($rawLine in $lines) {
 if ($state -eq 3 -and $cLines.Count -gt 0) {
     while ($cLines.Count -gt 0 -and $cLines[$cLines.Count-1].TrimEnd() -eq '') { $cLines.RemoveAt($cLines.Count-1) }
     while ($cLines.Count -gt 0 -and $cLines[0].TrimEnd() -eq '') { $cLines.RemoveAt(0) }
-    $songs.Add([PSCustomObject][ordered]@{
+    # wyciągnij URL:: z ostatnich linii contentu
+    $curUrl = ''
+    for ($ui = $cLines.Count - 1; $ui -ge 0; $ui--) {
+        if ($cLines[$ui].TrimEnd() -eq '') { continue }
+        if ($cLines[$ui] -match '^URL::(.+)$') {
+            $curUrl = $Matches[1].Trim()
+            $cLines.RemoveAt($ui)
+            while ($cLines.Count -gt 0 -and $cLines[$cLines.Count-1].TrimEnd() -eq '') { $cLines.RemoveAt($cLines.Count-1) }
+        }
+        break
+    }
+    $obj = [ordered]@{
         id        = "seed-$idCnt"
         title     = Transliterate $curTit
         author    = Transliterate $curAut
@@ -78,7 +102,9 @@ if ($state -eq 3 -and $cLines.Count -gt 0) {
         content   = Transliterate ($cLines -join "`n")
         createdAt = '2026-04-01T08:00:00.000Z'
         updatedAt = '2026-04-01T08:00:00.000Z'
-    })
+    }
+    if ($curUrl -ne '') { $obj['url'] = $curUrl }
+    $songs.Add([PSCustomObject]$obj)
 }
 
 $json = $songs | ConvertTo-Json -Depth 10

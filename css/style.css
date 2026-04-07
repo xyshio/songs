@@ -547,3 +547,36 @@ main { padding: 28px 0 48px; }
   .view-nav-btn { min-width: 0; flex: 1; font-size: .9rem; padding: 10px 8px; }
   .view-nav-counter { font-size: .85rem; }
 }
+
+/* ===== YouTube embed ===== */
+.yt-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 560px;
+  aspect-ratio: 16 / 9;
+  margin: 12px auto;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: #000;
+}
+.yt-wrap iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* external link */
+.ext-link {
+  display: inline-block;
+  margin: 10px 0;
+  color: var(--primary);
+  font-size: .85rem;
+  word-break: break-all;
+}
+
+/* ===== No-print: ukryj przy druku (Ctrl+P) ===== */
+@media print {
+  .no-print { display: none !important; }
+}
