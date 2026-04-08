@@ -95,7 +95,7 @@ A      D
 Cały erotyk
 URL::https://www.youtube.com/watch?v=epG9OQFoQJs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: A Ty tańcz - sł. i muz. Roman Fons
+TITLE: A Ty tańcz - sł. i muz. Roman Fons, Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Zawitał czar poezji             /D C 
 Z właścicielem słów i wierszy   /G D
@@ -660,7 +660,7 @@ Po policzku w dół się stoczy
 I to dziwne drżenie rąk
 URL::https://www.youtube.com/watch?v=OJ5pyY0TBho
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Bedzie Lepiej - slowa: W. Kwinto-Koczan, muz. W. Szymański
+TITLE: Bedzie Lepiej - slowa: W. Kwinto-Koczan, muz. W. Szymański, Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Wiosna dzierga na drutach                   C F C
 melanż pól pstrokaty.                       a G C
@@ -1460,7 +1460,7 @@ Iluzja, przepaść, wątła nić
 Ostrożnie stawiaj kroki!
 URL::https://www.youtube.com/watch?v=c4Xz51f-VFk&t=16s
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Czom ty ne pryjszoł - Muzyka Łemkowska - DOZP
+TITLE: Czom ty ne pryjszoł - Muzyka Łemkowska - Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Czom ty ne pryjszoł         a
 Jak misjac zijszoł          a
@@ -1775,7 +1775,7 @@ Jestem drogowskazem. Jestem drogowskazem.
 Jestem drogowskazem. Jestem drogowskazem.
 URL::https://www.youtube.com/watch?v=X_9Db64ll8I
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Dziękuję Ci lesie - sł. Cicha Droga, muz. Wojciech Szymański
+TITLE: Dziękuję Ci lesie - sł. i muz. Wojciech Szymański, Dom o zielonych progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Pozbieraj mnie lesie	/a
 dzisiaj od nowa			/F7+
@@ -1922,7 +1922,7 @@ Kiedy opuszczę go.
 Ref. To wszystko było, minęło...
 URL::https://www.youtube.com/watch?v=uY-ELf-3cn8
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Gór mi mało - sł. Tomasz Borkowski, muz. Wojtek Szymański
+TITLE: Gór mi mało - sł. Tomasz Borkowski, muz. Wojtek Szymański, Dom i Zielonych progach, Na Bani
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 C d G* GA G* | x2
 
@@ -1959,7 +1959,7 @@ Do której żaden szlak by nie trafił
 Gór mi mało i trzeba mi więcej...
 URL::https://www.youtube.com/watch?v=mvBB0mYFVYs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Góry i ludzie - sł. J. Harasymowicz, muz. tradycyjna
+TITLE: Góry i ludzie - sł. J. Harasymowicz, muz. tradycyjna. Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Góry i ludzie z nieba schodzą,          E fis
 Trochanowscy prowadzą basy.         A E
@@ -2285,7 +2285,7 @@ nim nie znajdziemy adresata     /G d
 nim nie znajdziemy adresata     /G d
 URL::https://www.youtube.com/watch?v=WH2fbjUdBeQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Jak okiem sięgnąć - Zgórmysyny
+TITLE: Jak okiem sięgnąć - Zgórmysyny, Tomek Jarmużewski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Los łaskawie zwykł mnie wieść               G
 Drogą małych miejskich szczęść              h
@@ -3205,7 +3205,7 @@ Calkiem, calkiem sporo z tego co dzis mam
 Zawdzieczam Panu, Panie Zimmerman
 URL::https://www.youtube.com/watch?v=x00W1LX7cJs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Łemata (Rozmyślania nad wodospadem) - sł. i muz. Wojtek "Neron" Warchoł
+TITLE: Łemata (Rozmyślania nad wodospadem) - sł. i muz. Wojtek "Neron" Warchoł. Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Pamiętam tylko tabun chmur się rozwinął     A E fis cis
 I cichy wiatr wiejący ku połoninom          D A E D E
@@ -3495,7 +3495,7 @@ C
 9 x-3-2-0-3-3
 URL::https://www.youtube.com/watch?v=8ULdCuj594E
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Modlitwa - Kazimierz Wegrzyn
+TITLE: Modlitwa - Kazimierz Wegrzyn, Dom o zielonych progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 C   F             C
 Boze! Kazdego kamienia
@@ -3648,7 +3648,7 @@ Do oczu komuś zajrzy śmierć
 I wezwie ratowniczą łódź.
 URL::https://www.youtube.com/watch?v=KNfh5Q79gCQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Morskie Opowieści
+TITLE: Morskie Opowieści - Szanty
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Kiedy rum zaszumi w głowie,      G
 A cały świat nabiera treści,     a C
@@ -4011,7 +4011,7 @@ spirytus ci nie zaszkodzi,
 sztorm idzie - wyrzygasz.
 URL::https://www.youtube.com/watch?v=09h6fMMK1lU
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Morze - J Wydra
+TITLE: Morze - J Wydra, EKT Gdynia
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Hej me Bałtyckie Morze	    /a E a
 Wdzięczny ci jestem bardzo	/C G C
@@ -5088,7 +5088,7 @@ Bo śmiały harpunnik
 Uderza weń.
 URL::https://www.youtube.com/watch?v=PewEmV5mEtU
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Piosenka dla Dośki - Majstrowie Gór
+TITLE: Piosenka dla Dośki - Majstrowie Gór, Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Jeszcze noc, jeszcze cienie się chwieją   /G C G C
 Cichym snem oddycha cały dom              /G C e D
@@ -5193,7 +5193,7 @@ A pieśń moja to niknie to wraca                     e7 d7 G7
 I nie wiem co bym zrobił gdybym ją utracił          e7 F7+ d7 G
 URL::https://www.youtube.com/watch?v=5SutbiSD9RU
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Plastelina - sł.: Danuta Wawiłow muz.: Piotr Bachorski
+TITLE: Plastelina - sł.: Danuta Wawiłow muz.: Piotr Bachorski, Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Ulepiłam mamie domek            /C
 z niewidzialnej plasteliny      /G
@@ -6406,7 +6406,7 @@ Głuchy jest los, nadaremnie wzywasz go, bo Twój głos…
 
 URL::https://www.youtube.com/watch?v=_pZ9xrYKt58
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Śni się lasom las - sł. B. Leśmian, muz. Z. Stefański, J.H. Chrząstek
+TITLE: Śni się lasom las - sł. B. Leśmian, muz. Z. Stefański, J.H. Chrząstek, Bez Jacka
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Śni się lasom las,              /F C
 Śnią się deszcze.               /G d
@@ -6500,7 +6500,7 @@ schowałem na wieki wieków: klucze, wytrychy, kłódki,
 co otwierają i zamykają drzwi do lasu i do raju bram.
 URL::https://www.youtube.com/watch?v=FvsVgnS6c78
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Tawerna Pod Pijaną Zgrają
+TITLE: Tawerna Pod Pijaną Zgrają - Szanty
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Kiedy niebo do morza przytula się z płaczem         C E7 a F
 Licho sosny garbate do reszty wykrzywia             C G d7 G
@@ -7222,7 +7222,7 @@ By darzyła was ciepłym latem
 Wokół góry...
 URL::https://www.youtube.com/watch?v=-dm8tO9jpnI
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: W liniach losu zapisane - Michał Langowski, Martin Kac, słowa Wiesława Kwinto Koczan
+TITLE: W liniach losu zapisane - Michał Łangowski, Martin Kac, słowa Wiesława Kwinto Koczan
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 1.
 A                A7+ A9+    A7+           A A7+ A9+    A7+
