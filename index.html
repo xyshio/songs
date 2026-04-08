@@ -23,7 +23,10 @@
       </div>
       <div class="toolbar">
         <div class="toolbar-left search-wrap">
-          <input id="searchInput" class="search-input" type="text" placeholder="Szukaj po tytule lub autorze...">
+          <div class="search-field-wrap">
+            <input id="searchInput" class="search-input" type="text" placeholder="Szukaj po tytule lub autorze...">
+            <button id="searchClearBtn" class="search-clear-btn" type="button" title="Wyczyść" style="display:none">✕</button>
+          </div>
         </div>
         <div class="toolbar-right filter-group">
           <button style="display:none" class="btn btn-outline btn-filter active" data-filter="all" type="button">Wszystkie</button>
@@ -89,6 +92,20 @@
       </div>
     </section>
 
+    <div id="playlistLinker" style="text-align:center;margin:30px 0;font-size:0.9rem;color:#555">
+    </div>
+    
+    <div id="playerForPlaylist">
+      <div class="yt-wrap">
+        <iframe
+          src="https://www.youtube.com/embed/dIm0DGfBhlo?playlist=dIm0DGfBhlo,OwApQmS7GIY,PewEmV5mEtU,FK697msg2oQ,QtTBx70yICE,AT5_tEjTH4o,5SutbiSD9RU"
+          title="YouTube Playlista"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
   </main>
 
   <footer class="footer">
@@ -131,6 +148,7 @@
   <script>
     // ===== STAN APLIKACJI =====
     let allItems     = [];
+    let playlistKeys = ['Śmiałowski','Jarmużewski', 'Wolna Grupa Bukowina', 'Stare Dobre Małżeństwo','Dom o zielonych progach', 'EKT Gdynia', 'Słodki Całus od Buby'];
     let activeFilter = 'all';
     let pendingFile  = null;
     let currentPage  = 1;
@@ -251,7 +269,7 @@
     }
 
     function refreshData() {
-      apiGetAll((items) => { allItems = items; renderList(); });
+      apiGetAll((items) => { allItems = items; renderList(); buildPlaylistLinker(); });
     }
 
     // ===== WIDOK: PODGLĄD =====
@@ -385,6 +403,16 @@
       return null;
     }
 
+    // Wykrywa youtube.com/watch_videos?video_ids=id1,id2,...
+    // Zwraca tablicę id lub null
+    function getYouTubePlaylistIds(url) {
+      if (!url) return null;
+      const m = url.match(/youtube\.com\/watch_videos\?(?:.*&)?video_ids=([\w,_-]+)/);
+      if (!m) return null;
+      const ids = m[1].split(',').map(s => s.trim()).filter(s => s.length >= 11);
+      return ids.length ? ids : null;
+    }
+
     // Parsuje parametr t= z URL YouTube do liczby sekund.
     // Obsługuje formaty: t=1h20m12s, t=20m12s, t=72s, t=1212
     function parseYouTubeTime(url) {
@@ -403,7 +431,32 @@
     }
 
     function renderItemUrl(url) {
-      if (!url) return '';
+      if (!url) { $('#playerForPlaylist').empty(); return ''; }
+
+      // Playlista watch_videos?video_ids=...
+      const playlistIds = getYouTubePlaylistIds(url);
+      if (playlistIds) {
+        const src = `https://www.youtube.com/embed/${playlistIds[0]}?playlist=${playlistIds.join(',')}&loop=1`;
+        $('#playerForPlaylist').html(`
+          <div class="yt-playlist-wrap">
+            <div class="yt-playlist-label">🎵 Playlista · ${playlistIds.length} filmów</div>
+            <div class="yt-wrap">
+              <iframe
+                src="${src}"
+                title="YouTube Playlista"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+              </iframe>
+            </div>
+            <a class="ext-link" href="${escapeHtml(url)}" target="_blank" rel="noopener">🔗 Otwórz playlistę w YouTube</a>
+          </div>
+        `);
+        return ''; // player wyrenderowany w #playerForPlaylist
+      }
+
+      // Pojedynczy film YouTube
+      $('#playerForPlaylist').empty();
       const ytId = getYouTubeId(url);
       if (ytId) {
         const startSec = parseYouTubeTime(url);
@@ -420,6 +473,48 @@
           </div>`;
       }
       return `<a class="ext-link" href="${escapeHtml(url)}" target="_blank" rel="noopener">🔗 ${escapeHtml(url)}</a>`;
+    }
+
+    // ===== PLAYLIST PLAYER =====
+    function loadPlaylist(ids) {
+      const list = ids.split(',').map(s => s.trim()).filter(Boolean);
+      if (!list.length) return;
+      const src = `https://www.youtube.com/embed/${list[0]}?playlist=${list.join(',')}&autoplay=1`;
+      $('#playerForPlaylist').html(`
+        <div class="yt-wrap">
+          <iframe
+            src="${src}"
+            title="YouTube Playlista"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+          </iframe>
+        </div>
+      `);
+      $('html, body').animate({ scrollTop: $('#playerForPlaylist').offset().top - 20 }, 300);
+    }
+
+    // ===== HELPERS TRYB =====
+    function buildPlaylistLinker() {
+      const $linker = $('#playlistLinker').empty();
+      playlistKeys.forEach(function (key, idx) {
+        const q = key.toLowerCase();
+        const ids = allItems
+          .filter(function (item) {
+            const hay = (item.title + ' ' + (item.author || '') + ' ' + (item.content || '')).toLowerCase();
+            return hay.includes(q);
+          })
+          .map(function (item) { return getYouTubeId(item.url); })
+          .filter(Boolean);
+
+        if (!ids.length) return;
+        const $a = $('<a>', {
+          href: 'javascript:void(0)',
+          text: key
+        }).attr('ids', ids.join(','));
+        if (idx > 0) $linker.append(' | ');
+        $linker.append($a);
+      });
     }
 
     // ===== HELPERS TRYB =====
@@ -440,6 +535,11 @@
         showView($(this).data('id'));
       });
 
+      // Playlist links [ids]
+      $(document).on('click', 'a[ids]', function () {
+        loadPlaylist($(this).attr('ids'));
+      });
+
       // Paginacja (delegowana)
       $(document).on('click', '.btn-page:not(:disabled)', function () {
         currentPage = parseInt($(this).data('page'));
@@ -448,7 +548,18 @@
       });
 
       // Filtry i wyszukiwanie
-      $('#searchInput').on('input', function () { currentPage = 1; renderList(); });
+      $('#searchInput').on('input', function () {
+        currentPage = 1;
+        renderList();
+        $('#searchClearBtn').toggle($(this).val().length > 0);
+      });
+      $('#searchClearBtn').on('click', function () {
+        $('#searchInput').val('');
+        $(this).hide();
+        currentPage = 1;
+        renderList();
+        $('#searchInput').focus();
+      });
       $(document).on('click', '.btn-filter', function () {
         $('.btn-filter').removeClass('active');
         $(this).addClass('active');

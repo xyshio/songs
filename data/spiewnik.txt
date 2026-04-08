@@ -62,7 +62,7 @@ Nocka tylko                         h13 C9
 Patrzy                              G
 URL::https://www.youtube.com/watch?v=yiQRhYvBAHs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Akt Miłosny albo życie - SDM
+TITLE: Akt Miłosny albo życie - SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
      D
 Wchodzę w ciebie 
@@ -125,7 +125,7 @@ Motyle ganiają się
 A ty tańcz moja zasłono...
 URL::https://www.youtube.com/watch?v=ggxQ_ExykIY
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Ach, kiedy znowu ruszą dla mnie dni? - SDM, słowa: Edward Stachura
+TITLE: Ach, kiedy znowu ruszą dla mnie dni? - SDM, Stare Dobre Małżeństwo, słowa: Edward Stachura
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
    D              e
 Minęło wiele miesięcy,
@@ -245,7 +245,7 @@ Bo gdy szlakiem na południe ciągną hufce nieskończone,
 Ja podnoszę dumnie głowę i odjeżdżam w drugą stronę.
 URL::https://www.youtube.com/watch?v=tbuWwIz6k8k
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Ballada o Żeglarzu - EKT
+TITLE: Ballada o Żeglarzu - EKT Gdynia
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Taki był od wiatrów stu ogorzały,                   /C a d C
 Tylko z sobą w pokera grał.                         /C
@@ -285,7 +285,7 @@ Tylko z sobą w pokera grał,
 Czekał na wiatr, czekał na wiatr.
 URL::https://www.youtube.com/watch?v=Vt5jFyqSnG0
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Bar w Beskidzie - EKT
+TITLE: Bar w Beskidzie - EKT Gdynia
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Jeśli chcesz z gardła kurz wypłukać G D
 Tu każdy wskaże ci drogę    C D
@@ -779,7 +779,7 @@ Odkłada broń gotową
 Broń gotową
 URL::https://www.youtube.com/watch?v=dLeqoySc90M
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Bieszczadzkie anioły - SDM
+TITLE: Bieszczadzkie anioły - SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Anioły są takie ciche           /a
 zwłaszcza te w Bieszczadach     /G
@@ -901,7 +901,7 @@ Ref:
 Cicho potok...
 URL::https://www.youtube.com/watch?v=JCyiHI1ziyA
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Blues Dla małej - SDM
+TITLE: Blues Dla małej - SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Wystukaj po torach do mnie list      /C G
 Wtedy naprawdę nie wyjedziesz cała   /a G
@@ -1289,7 +1289,7 @@ Take me home, now country roads
 Take me home, now country roads
 URL::https://www.youtube.com/watch?v=IUmnTfsY3hI
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Czarny blues o czwartej nad ranem - SDM
+TITLE: Czarny blues o czwartej nad ranem - SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Ref.
 Czwarta nad ranem   A
@@ -1636,7 +1636,7 @@ Jednak o tym bez przerwy marzy
 Morski, twardy, zawiany łeb!
 URL::https://www.youtube.com/watch?v=JXrOnCnsch0
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Do Domu - EKT
+TITLE: Do Domu - EKT Gdynia
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
          D         A         h               e   
 Nowych wrażeń i przygód nie zatarł jeszcze czas,
@@ -1751,7 +1751,7 @@ Trzeba tylko więcej dawać, mniej zabierać
 Więcej kochać
 URL::https://www.youtube.com/watch?v=mN_tgcEclPY
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Drogowskaz - Jan Rybowicz, Muzyka SDM
+TITLE: Drogowskaz - Jan Rybowicz, Muzyka SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
  D               G     D          G  
 Jestem drogowskazem, który nie może
@@ -1982,7 +1982,7 @@ Jezus na tronie wypoczywa,
 czesany w koki jak Samuraj.
 URL::https://www.youtube.com/watch?v=UAPFboo-Upk
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Gloria - SDM, sł: E.Stachura, muz: K.Myszkowski
+TITLE: Gloria - SDM, Stare Dobre Małżeństwo, sł: E.Stachura, muz: K.Myszkowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 G e G a C D G
 	
@@ -2195,7 +2195,7 @@ Nie będę żyć w parterze ubogim
 Chciałabym wyżej choć o jedno piętro.
 URL::https://www.youtube.com/watch?v=OgwIlKCYsM4
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Jak - SDM, sł. Edward Stachura
+TITLE: Jak - SDM, Stare Dobre Małżeństwo, sł. Edward Stachura
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 D                    A
 Jak po nocnym niebie sunące
@@ -3040,7 +3040,7 @@ And all that I can see, and all that I can see,
 And all that I can see is just a yellow lemon tree.
 URL::https://www.youtube.com/watch?v=wCQfkEkePx8
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Leluchów - SDM, sł. Adam Ziemianin
+TITLE: Leluchów - SDM, Stare Dobre Małżeństwo, sł. Adam Ziemianin
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 a      C            G
 Wyjedź ze mną dziś jeszcze
@@ -3264,7 +3264,7 @@ Szkoda ciszy Maestro Bezdomny
 Szkoda ciszy
 URL::https://www.youtube.com/watch?v=M4lD67Bhe7U
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Majka - SDM
+TITLE: Majka - SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Gdy jestem sam myślami biegnę           /G e C D 
 Do mej najdroższej jak rzeka wiernej    /G e C D 
@@ -3283,7 +3283,7 @@ Oddałbym wszystko bo jesteś inna
 Za jeden uśmiech jedno spojrzenie
 URL::https://www.youtube.com/watch?v=0jVEXqEOkyU
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Matka z aniołem - SDM
+TITLE: Matka z aniołem - SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Na twarzy twej rumieńce     /G C
 Jakbyś był uduchowiony      /D G
@@ -3609,7 +3609,7 @@ Wędrowny grajek ubogi.
 Hej, Panie Boże…
 URL::https://www.youtube.com/watch?v=8TgkOZJebYs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Mona - EKT, Peegy Seeger
+TITLE: Mona - EKT Gdynia, Peegy Seeger
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Ref:
 Był pięćdziesiąty dziewiąty rok.      a G a
@@ -4201,7 +4201,7 @@ Najgoręcej o to proszą dobrze ważąc własne słowa
 Dwa Krakusy Grzegorz T, i Andrzej S.
 URL::https://www.youtube.com/watch?v=vyRrJIL3THs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Nie rozdziobią nas kruki - SDM, sł. Edward Stachura
+TITLE: Nie rozdziobią nas kruki - SDM, Stare Dobre Małżeństwo, sł. Edward Stachura
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Nie rozdziobią nas kruki 	/D G0 h G
 Ni wrony, ani nic! 	        /Fis e A74
@@ -4371,7 +4371,7 @@ Wstanie świt
 
 URL::https://www.youtube.com/watch?v=Yiar-4JVfo4
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Kim właściwie była ta piękna pani? - SDM, sł. Edward Stachura
+TITLE: Kim właściwie była ta piękna pani? - SDM, Stare Dobre Małżeństwo, sł. Edward Stachura
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Nikt nie zna ścieżek gwiazd;	    /a G
 Wybrańcem kto wśród nas?	        /e a
@@ -5284,7 +5284,7 @@ Kiedy z życia można tyle brać.   	        /a D (a D G)
 
 URL::https://www.youtube.com/watch?v=A4-4kRFaEhw
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Pod kątem ostrym - SDM, sł. Adam Ziemianin
+TITLE: Pod kątem ostrym - SDM, Stare Dobre Małżeństwo, sł. Adam Ziemianin
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
  G         C
 Dom mój ostatnio
@@ -7310,7 +7310,7 @@ Wszystkie wiosny kwiaty zakwitną dla Ciebie	    h
 W naszym niebie...	                            A
 URL::https://www.youtube.com/watch?v=eoaOSlGtBZk
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: W zakątku cmentarza - SDM, sł. Bolesław Leśmian
+TITLE: W zakątku cmentarza - SDM, Stare Dobre Małżeństwo, sł. Bolesław Leśmian
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Mają zmarli w niedzielę ten pośmiertny kłopot           /DG.DG.DG.A.
 Że w obczyźnie cmentarza czują się bezdomni             /DG.DG.A.A.
@@ -7445,7 +7445,7 @@ przypomnij te słowa zaśpiewaj od nowa
 bym wiedział że ktoś na mnie czeka
 URL::https://www.youtube.com/watch?v=67ItgpSy5cM
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Zawirował świat - K. Myszkowski, SDM
+TITLE: Zawirował świat - K. Myszkowski, SDM, Stare Dobre Małżeństwo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Chmury skłębione niosą mrozy i śnieg	/C d
 Wiatr gwiżdże w nieszczelnych futrynach	/F C
@@ -7784,7 +7784,7 @@ Ref. żegluj, żegluj...
 Ref. żegluj, żegluj...
 URL::https://www.youtube.com/watch?v=fAYGJ-RerYQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Życzenia powrotu - Wykonawca: EKT-Gdynia, Słowa: Ireneusz Wójcicki, Muzyka: Jan Wydra
+TITLE: Życzenia powrotu - Wykonawca: EKT Gdynia, Słowa: Ireneusz Wójcicki, Muzyka: Jan Wydra
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 1. My staliśmy na brzegu, a on odpływał stąd,         | D D GA D
 Przestrzenie są dla niego, a nam pozostał ląd,        | D D G A
