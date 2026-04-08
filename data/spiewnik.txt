@@ -1089,16 +1089,16 @@ URL::https://www.youtube.com/watch?v=SvmoT_rC8tQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Cicho powiedziane - Krzysztof Gabłoński
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-10 lat to kawał drogi jak stąd do Aachen, może dalej    /G D C
-Co robiłeś do tej pory, opowiadaj, najpierw piwa nalej  /G C D
-Nie chcieli Ci tutaj i nie chcą Cię tam                 /e G
-W złotym domu mieszkasz całkiem sam                     /C D
+10 lat to kawał drogi jak stąd do Aachen, może dalej    /G D C   //C G F a
+Co robiłeś do tej pory, opowiadaj, najpierw piwa nalej  /G C D   //C F G
+Nie chcieli Ci tutaj i nie chcą Cię tam                 /e G     //a C
+W złotym domu mieszkasz całkiem sam                     /C D     //F G
 
 Ref.
-Cicho powiedziane                   /G C G
-W samochodzie gdzieś nad ranem      /D e G D e
-Nie wiem kiedy się spotkamy         /C
-Kiedy znowu będę tu                 /D C D
+Cicho powiedziane                   /G C G        //C G
+W samochodzie gdzieś nad ranem      /D e G D e    //a G 
+Nie wiem kiedy się spotkamy         /C            //F
+Kiedy znowu będę tu                 /D C D        //G F G
 
 W parku ławka ta na lewo, nocą śpiewy, malowane dziewczęta
 Dwie gitary, długie włosy, tak długie jak tylko pamiętam
@@ -1511,6 +1511,40 @@ Dama kier i pikowy król
 Ref.:
 URL::brak
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Deszcz, jesienny deszcz - Czerwone Gitary, sł. Marian Matuszkiewicz, muz: Nieznany
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Deszcz, jesienny deszcz     /G
+Smutne pieśni gra           /C G
+Mokną na nim karabiny       /D7 G
+Hełmy kryje rdza            /D7 G
+
+Ref:
+Nieś po rosie w dal         /C G
+W zapłakany świat           /C G
+Przemoczone pod plecakiem   /D7 G
+Osiemnaście lat             /D7 G
+
+Gdzieś daleko stąd
+Noc zapada znów
+Ciemna główka twej dziewczyny
+Chyli się do snu
+
+Może właśnie dziś
+Patrzy w mroczną mgłę
+I modlitwą prosi Boga
+By zachował cię
+
+Deszcz jesienny deszcz
+Bębni w hełmu stal
+Idziesz młody żołnierzyku
+Gdzieś w nieznaną dał
+
+Może jednak Bóg
+Da że wrócisz znów
+Będziesz tulił ciemna główkę
+Miłej twej do snu
+URL::https://www.youtube.com/watch?v=uURalmsZ1-g
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Do Calais - Banana Boat
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Do Calais, wino i moulé,
@@ -1582,6 +1616,37 @@ Nasiąknęły wspomnieniami herbata, sok i piwo,
 Wędrujemy znów drogami naszych barwnych opowiadań,
 I kolejne rozjazdy, nad br /zegami nocy cień,
 Zaświeciły pierwsze gwiazdy, koniec rajdu - kończy się dzień.
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Dom o zielonych progach - Dom o zielonych progach
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Pagóry idą wokół widnokręgiem           /D e
+W oknie pogody Tatry widzę czasem       /G D
+Stoję w twym domu po kolana w trawie    /D e
+Zrośnięty sercem z przełęczą i lasem    /G D
+
+Ref:
+I dom ten sławię gdzie monstrancję słońca   /C G D
+Dzwony witają w najwyższej godzinie         /C G D
+I gdzie przez grzbiety ciemnym morzem nieba /C G D
+Wielki żaglowiec burej chmury płynie        /C G D
+
+I gdzie Beskidy wciąż zmieniają barwy
+Gdy z mgieł porannych wychodzą doliny
+I gdzie od bieli aż po czerń żałoby
+Zmienia się lasu wizerunek siny
+I dom ten sławię...
+
+Czantoria - Ochodzita - surowość Baraniej
+Strzegą mojego domu w kalinach i głogach
+Tu spotykam codziennie w wielkim cudzie życia |
+Nieśmiertelnego jedynego Boga | x2
+
+Ref:
+I dom ten sławię gdzie monstrancję słońca C G D
+Dzwony witają w najwyższej godzinie
+I gdzie przez grzbiety ciemnym morzem nieba
+Wielki żaglowiec burej chmury płynie
+URL::https://www.youtube.com/watch?v=B0D4kh8RrHU
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Droga przez las - sł. Jerzy Harasymowicz muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -2425,6 +2490,31 @@ Blisko za oknem szczeka pies.
 
 Jaworzyna...
 URL::https://www.youtube.com/watch?v=bBRQliY3agE
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Jesienna zaduma - Elżbieta Adamiak
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Nic nie mam	                        /e
+Zdmuchnęła mnie ta jesień całkiem	/F
+Nawet nie wiem	                    /e
+Jak tam sprawy z lasem	            /F
+Rano wstaję poemat chwalę	        /G Fis h
+Biorę się za słowa, jak za chleb	/a C D H7 e
+
+Ref:
+Rzeczywiście tak jak księżyc	    /e G
+Ludzie znają mnie tylko z jednej	/a e
+Jesiennej strony	                /D a e
+
+Nic nie mam	                                /e
+Tylko z daszkiem nieba zamyślony kaszkiet	/F
+Nie zważam	                                /e
+Na mody byle jakie	                        /F
+Piszę wyłącznie, piszę wyłącznie	        /G Fis h
+Uczuć starym drapakiem	                    /a C D H7 e
+
+Ref:
+Rzeczywiście tak jak księżyc
+URL::https://www.youtube.com/watch?v=7Cf2bKJTNac
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Jesienne wino - Andrzej Koczewski i Zbigniew Bogdański
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -3289,6 +3379,33 @@ rozbitkom wasze skrzydła niosą
 nadzieję na zbawienny ląd
 coda: e9 D C7+ D e9 D C7+ D e e 
 URL::https://www.youtube.com/watch?v=BwF7gesCe1Q
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Miasteczko w Karpatach - Bez zobowiązań, sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Na jednym końcu Jan Chrzciciel chudziutki   /D G
+nie chce łakomstwem zgrzeszyć,              /D C5 G D
+Więc tłuste kury z kaplicy wygania,         /D G
+aż trzepoczą nad miasteczkiem               /D C5 G D
+Naprzeciw Święty Florian pod nosa czerwonym żaglem  /G A G D
+Ma jak półksiężyc złotą łódkę wąsów                 /h7 A
+i od ognia tulipanów jest Odgrodzony płoteczkiem    /C5 G D
+
+Uliczki kot przeskakuje z jednej rynny na drugą
+Maleńkiemu świątkowi ciernie ptaki wyciągają z pięty
+I fura ze zbożem, bez koni, z dyszlem jak laską na ramieniu
+Jak dziad wygląda kudłaty, a obok pies leży w kurzu wyciągnięty
+
+Na szubienicy daszku piekarniczego wozu co jedzie aby aby
+Woźnica schylił głowę powieszony na drzemce
+I ku brązowej kopułce cerkiewki myśląc, że to orzech
+Chmury zachodów rude wiewiórzyce zza jodeł się wychylają poruszone wielce
+
+A gdy nocą burza o byle świerk opiera błyskawic srebrny kaganiec
+Wtedy na ciemne szumiące deszczem góry otwieramy okno
+I śni się nam niedźwiedź, co objąwszy konia białogrzywego za szyję
+Wolno puszczą słoneczną jedzie i jak dziecko śni słodko...
+
+URL::https://www.youtube.com/watch?v=COqZXwcRT2Q
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Miasto - Słodki Całus od Buby
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -4170,6 +4287,51 @@ Myśląc: nic nie straciłem, pewnie tak jest i tam.
 
 Ref. W niebie do wynajęcia...
 URL::https://www.youtube.com/watch?v=e-1vP9xjzRQ
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Nim Wstanie Dzień - Edmund Fetting
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Ze świata czterech stron    /a e a
+Z jarzębinowych dróg        /a e a
+Gdzie las spalony           /a G 
+Wiatr zmęczony              /a C 
+Noc i front                 /D a
+Gdzie niezebrany plon       /a D a
+Gdzie poczerniały głóg      /D a
+Wstaje dzień                /e G a
+
+Słońce przytuli nas do swych rąk    /a G a
+I spójrz, ziemia ciężka od krwi     /a D a
+Znowu urodzi nam zboża łan          /a G a G
+Złoty kurz                          /a
+Przyjmą kobiety nas pod swój dach   /a G a
+I spójrz, będą śmiać się przez łzy  /a D a
+Znowu do tańca ktoś zagra nam       /a G a G
+Może już                            /C
+
+Za dzień, za dwa    /a D   
+Za noc, za trzy     /G C
+Choć nie dziś       /E7 a
+Za noc, za dzień    /a D
+Doczekasz się       /G C
+Wstanie świt        /E7 a
+
+Chleby upieką się w piecach nam
+I spójrz, tam gdzie tylko był dym
+Kwiatem zabliźni się wojny ślad
+Barwą róż
+Dzieci urodzą się nowe nam
+I spójrz, będą śmiać się, że my
+Znów wspominamy ten podły czas
+Porę burz
+
+Za dzień, za dwa
+Za noc, za trzy
+Choć nie dziś
+Za noc, za dzień
+Doczekasz się
+Wstanie świt
+
+URL::https://www.youtube.com/watch?v=Yiar-4JVfo4
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Kim właściwie była ta piękna pani? - SDM, sł. Edward Stachura
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -5585,6 +5747,38 @@ Rollin', rollin', rollin' on the river.
 Rollin', rollin', rollin' on the river.
 URL::https://www.youtube.com/watch?v=5hid10EgMXE
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Przechyły - Paweł Orkisz
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Pierwszy raz przy pełnym takielunku     /e D e
+Biorę ster i trzymam kurs na wiatr      /e D e
+I jest jak przy pierwszym pocałunku-    /a H7 e
+W ustach sól, gorącej wody smak.        /a H7 e
+
+Ref:
+O-ho-ho, przechyły i przechyły,     /a H7 e
+O-ho- ho, za falą fala mknie,       /a H7 e
+O-ho-ho, trzymajcie się dziewczyny, /a H7 e
+Ale wiatr, ósemką chyba dmie!       /a H7 e
+
+Zwrot przez sztag - O.K.- zaraz zrobię.
+Słyszę jak kapitan cicho klnie.
+Gubię wiatr i zamiast w niego dziobem,
+To on mnie od tyłu, kumple w śmiech.
+
+O-ho-ho, przechyły...
+Hej, ty tam, za burtę wychylony,
+Tu naprawdę nie ma się co śmiać.
+Cicho siedź i lepiej proś Neptuna,
+Żeby coś nie spadło ci na kark.
+
+O-ho-ho, przechyły...
+Krople mgły w tęczowym kropel pyle,
+Tańczy jacht, po deskach spływa dzień.
+Jutro znów wypłynę, bo odkryłem
+Morze, wiatr, żeglarską, starą pieśń.
+
+URL::https://www.youtube.com/watch?v=f_C75NzNdxo
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Przytuj mnie proszę - sł. Wuka, muz. G.Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 D C G A
@@ -6085,6 +6279,63 @@ Rolling, rolling to Stavanger – rolling to Stavanger, rolling
 Rolling, rolling to Stavanger – rolling to Stavanger, roll and go
 URL::https://www.youtube.com/watch?v=-8NJkB5LYpQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Szczęśliwej drogi, już czas - Vox
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Los Cię w drogę pchnął          /a
+I ukradkiem, drwiąc się, śmiał  /E
+Bo, nadzieję dając Ci           /F
+Fałszywy klejnot dał            /E
+
+A Ty, idąc w świat              /a
+Patrzysz w klejnot ten co dnia  /E
+Chociaż rozpacz już od lat      /F
+Wyziera z jego dna              /E
+
+(Co dnia…)
+
+Na rozstaju dróg
+Gdzie przydrożny Chrystus stał
+Zapytałeś, dokąd iść —
+Frasobliwą minę miał
+
+Przystanąłeś więc
+Z płaczem brzóz sprzymierzyć się
+I uronić pierwszy raz
+W czerwone wino łzę
+
+(W wino łzę…)
+
+Szczęśliwej drogi już czas  /C
+Mapę życia w sercu masz     /G
+Jesteś jak młody ptak —     /d a
+Wytrwale głuchy jest los,   /a C
+nadaremnie wzywasz go,      /G
+bo Twój głos…               /d
+
+Idziesz wiecznie sam
+I już nic nie zmieni się
+Poza tym, że raz jest za
+Raz przed Tobą Twój cień
+
+Los Cię w drogę pchnął
+I ukradkiem, drwiąc się, śmiał
+Bo, nadzieję dając Ci
+Fałszywy klejnot dał
+
+(Tak chciał…)
+
+Szczęśliwej drogi już czas
+Mapę życia w sercu masz
+Jesteś jak młody ptak —
+Głuchy jest los, nadaremnie wzywasz go, idziesz sam, wiecznie sam
+
+Szczęśliwej drogi już czas
+Mapę życia w sercu masz
+Jesteś jak młody ptak —
+Głuchy jest los, nadaremnie wzywasz go, bo Twój głos…
+
+URL::https://www.youtube.com/watch?v=_pZ9xrYKt58
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Śni się lasom las - sł. B. Leśmian, muz. Z. Stefański, J.H. Chrząstek
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Śni się lasom las,              /F C
@@ -6333,6 +6584,36 @@ W ogromne snów kartoflisko
 A góry rosną tuż obok, a gwiazd gromady
 Podchodzą naprawdę blisko...
 URL::https://www.youtube.com/watch?v=fplGHzJYNz0
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: U studni - Stare Dobre Małżeństwo
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Spotkamy się kiedyś u studni	    E A
+Wkoło będzie zielono	            E
+Nasze żony będą odświętne	        E
+Nawet wódkę wypić pozwolą	        A H
+Spotkamy się kiedyś u studni	    E A
+Takiej zwykłej - z kołowrotem	    E
+Woda w niej będzie chłodna	        E
+W świat uwierzymy z powrotem	    A H
+
+Ref:
+Spotkamy się u studni	            A
+Być może że na drugim świecie	    H E
+Bóg przecież jest łaskawy	        A
+I pewnie da nam tę pociechę	        H E
+
+Spotkamy się kiedyś u studni	    E A
+Z wiecznie żywą wodą	            E
+Bellona też zaprosimy	            E
+On przecież będzie polewał	        A H
+
+Ref:
+Spotkamy się u studni	            A
+I będziemy znów tacy młodzi	        H E
+Nasze żony będą piękne	            A
+Nam wódka nie będzie szkodzić	    H E
+
+URL::https://www.youtube.com/watch?v=wpXyx2Ez_ws
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: We wtorek w schronisku - Wołosatki
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -6859,6 +7140,56 @@ Czas tego nie zatrze,
 Czekałaś od zawsze
 URL::https://www.youtube.com/watch?v=SONpTqGOMlE
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: W naszym niebie - Cisza jak ta, sł i muz: Michał Łangowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Jeszcze śpisz	            h
+Za rzęsami schowana	        D
+Błękit nieba	            G*
+Uwięziony w Twoich oczach	e*
+Ciepły głos	                h
+Jeszcze w ustach uśpiony	D
+W Twoich włosach	        G*
+Jeszcze śpi wiosenny wiatr	e*
+
+Ref:
+Jeśli chcesz	            G
+Wypuść spod powiek wiosnę	D
+Wypuść błękit radosny	    h
+Moje niebo...	            A
+Jeśli chcesz	            G
+Niech motyle Twych słów	    D
+Z ciepłych wyfruną ust	    h
+W moje niebo...	            A
+
+Jeszcze śpię	            h
+W Twoje myśli wsłuchana	    D
+W ciepły oddech	            G*
+I tak znaną melodię	        e*
+Moje serce	                h
+bije przecież tak samo	    D
+Jest tak Twoje	            G*
+Że go sama nie poznaję	    e*
+
+Ref:
+Jeśli chcesz	            G
+Żeby snu nadszedł kres	    D
+Jeśli dzień zbudzić chcesz	h
+W naszym niebie	            A
+Przytul mnie	            G
+Za oknami znów deszcz	    D
+Lecz wiosennie nam jest	    h
+W naszym niebie	            A
+
+Chcę przytulać Ciebie już od rana	            G
+Tulić Twoje włosy jedwabne, kochane	            D
+Patrzeć w piersi Twojej lekkie falowanie	    h
+Zwabić promień słońca w twych oczach nad ranem	A
+Będę tulić Ciebie, skarb najcenniejszy	        G
+W deszczu kroplach za oknem wypatrywać tęczy	D
+Wszystkie wiosny kwiaty zakwitną dla Ciebie	    h
+W naszym niebie...	                            A
+URL::https://www.youtube.com/watch?v=eoaOSlGtBZk
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: W zakątku cmentarza - SDM, sł. Bolesław Leśmian
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Mają zmarli w niedzielę ten pośmiertny kłopot           /DG.DG.DG.A.
@@ -7065,6 +7396,70 @@ Wróci śpiew, wróci taki sam.
 Zgubione marzenia…
 URL::https://www.youtube.com/watch?v=viZon4Y-ZHY
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Zielona miłość - Nieznany
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Zielony pociąg ruszył           h e
+Na zielonych przygód szlak      fis h
+Zielony namiot czeka            h e
+I zielony czeka las             fis h
+Przy ognisku siedzę ja          h e
+I przy ognisku siedzisz ty      fis h
+Już spełnione wszystkie sny,    e
+A w głowie zielona uparta myśl: Fis G Fis
+
+Ref.: 
+Śpiewać całą noc, całą noc do rana      Fis e fis h
+Na polanie cichej rozrzucać śmiech      h e fis h
+Dobre wróżby czytać w płomieni plamach  h e fis h
+Nim konie rżeniem obudzą dzień;         h e fis h
+I tylko z Tobą, z tobą chcę             h e fis h
+
+Zielone lato pachnie,
+Jak zielonej łąki dno
+Zielone serca marzą,
+A zielone ręce drżą
+Na rozłąki długie dni
+Węgielek ognia dajesz mi
+W nim zaklęta wspomnień moc,
+A w głowie zielone pragnienie to:
+
+Zielony plecak czeka
+Na zielone lato znów
+Zielone listy pełne są
+zielonych ciepłych słów
+Mój węgielek w dłoniach grzej
+I już nam czekać będzie lżej
+Gdy przeminą szare dni, pod niebem zielonym zaśpiewam Ci:
+URL::https://www.youtube.com/watch?v=RaQe0HhnD6A
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Zielony dom - Stare Dobre Małżeństwo
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Coraz dalej mi do domu          A D A
+Wszystkie klucze pogubione      fis D A
+Dom za rzeką już się rozmył     D A
+Dom zielony z Ogrodowej         h E A
+
+A przecież tam wszystko zostało fis cis
+Zegarek ojca obrączka po matce  D A
+Srebrna dziesiątka z Piłsudskim h fis
+Po babci Annie złoty naparstek  D E
+
+I te spotkania pod balkonem
+Kiedy wino szło do głowy
+Gdy przychodziłaś taka piękna
+Krokiem z lekka majowym
+
+I odkrywaliśmy mowę piwonii
+Kwiecistą mowę i bujną
+Jan Sopel grał na harmonii
+Znaną melodię upojną
+
+"Ta ostatnia niedziela          fis
+Dzisiaj się rozstaniemy         h7
+Dzisiaj się rozejdziemy         Cis7 
+Na wieczny czas..."             fis
+URL::https://www.youtube.com/watch?v=tX03K95MYIE
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Zima - sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
        E           A2
@@ -7132,6 +7527,24 @@ Któż zatrzyma ich mają buczącą jak trzmiel ziemię
 
 Jest tam i księżyc z bródką chudy jak diasek
 URL::https://www.youtube.com/watch?v=gF1YvlE1tTs
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Znalazłem siebie - Dom o Zielonych Progach
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Znalazłem siebie            D e 
+W tych górach               G 
+W tych drzewach             A 
+Ubranych jesienią 
+W wyszywane rękawy pochodzenia 
+Ja siwy wataha 
+Z gór wyciągnąłem przez Boga pisany los 
+Dlatego Panie dopóki sił 
+Dźwigam ikonę przeznaczenia 
+
+( bo przecież) 
+Piszę w buki coraz dalej... 
+Piszę w buki coraz głośniej... 
+Dopóki głos... G a C D
+URL::https://www.youtube.com/watch?v=XfxJ5wPSNUU
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Znów bijatyka - EKT Gdynia
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
