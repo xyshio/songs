@@ -575,6 +575,44 @@ main { padding: 28px 0 48px; }
   .view-nav-counter { font-size: .85rem; }
 }
 
+/* ===== Playlist linker ===== */
+#playlistLinker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin: 24px 0;
+}
+#playlistLinker a {
+  display: inline-block;
+  padding: 7px 14px;
+  border: 1px solid var(--primary);
+  border-radius: 20px;
+  
+  color: #fff;
+  font-size: .82rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background .15s, color .15s;
+  white-space: nowrap;
+  background: var(--primary);
+}
+#playlistLinker a:hover,
+#playlistLinker a:active {
+  background: var(--primary-hover);
+  color: #ebc1c1;
+}
+@media (max-width: 480px) {
+  #playlistLinker {
+    gap: 6px;
+    margin: 16px 0;
+  }
+  #playlistLinker a {
+    font-size: .88rem;
+    padding: 9px 16px;
+  }
+}
+
 /* ===== Playlist player ===== */
 #playerForPlaylist {
   margin: 0 auto;
