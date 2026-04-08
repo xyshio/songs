@@ -241,6 +241,16 @@
     },
   {
     "id": "seed-25",
+    "title": "Blues Rybaka",
+    "author": "Słodki Całus od Buby",
+    "category": "piosenka",
+    "content": "Chciałbym być rybakiem          /E\nZgubionym pośród mórz           /D\nGdzie od lądu daleko            /fis\nI od gorzkich wspomnień stu     /A\n\nRozstań, miłości\nOdrzucić słodką sieć\nBez ścian dławiących wokół\nW sufit gwiazd zapatrzeć się\n\nRef:\nZe światłem w mej duszy     /E\nI z tobą w ramionach        /D fis E D fis A\n\nChciałbym rozpalonym\nParowozem pędzić w dal\nSunąć poprzez kraj deszczowy\nJak armatni pomknąć strzał\nZ hukiem ognia w palenisku\nPary czuć w maszynie moc\nLicząc znikające miasta\nW tę niesamowitą noc\n\nZe światłem w mej duszy...\n\nWiem, że wkrótce się uwolnię\nZ więzów, co krępują mnie\nI okowy wreszcie spadną\nPrzyjdzie ten wspaniały dzień\nI w tej wyczekanej chwili\nZa rękę wezmę cię\nI pojadę tym pociągiem\nI rybakiem stanę się\n\nZe światłem w mej duszy...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z",
+    "url": "https://www.youtube.com/watch?v=epHeV7xpKX0"
+    },
+  {
+    "id": "seed-26",
     "title": "BRANKA",
     "author": "Ryczące Dwudziestki, Słowa: Andrzej Mendygrał",
     "category": "piosenka",
@@ -250,7 +260,7 @@
     "url": "https://www.youtube.com/watch?v=SL_CflxaT8M"
     },
   {
-    "id": "seed-26",
+    "id": "seed-27",
     "title": "Bukowina I",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -260,7 +270,7 @@
     "url": "https://www.youtube.com/watch?v=3riiouXc-7A"
     },
   {
-    "id": "seed-27",
+    "id": "seed-28",
     "title": "Bukowina II",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -270,7 +280,7 @@
     "url": "https://www.youtube.com/watch?v=a_qgY-lGOGs"
     },
   {
-    "id": "seed-28",
+    "id": "seed-29",
     "title": "Burza",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -280,7 +290,7 @@
     "url": "https://www.youtube.com/watch?v=9UuloKeGsEk"
     },
   {
-    "id": "seed-29",
+    "id": "seed-30",
     "title": "Byle dalej",
     "author": "Andrzej Korycki \u0026 Dominika Żukowska",
     "category": "piosenka",
@@ -290,7 +300,7 @@
     "url": "https://www.youtube.com/watch?v=Yteu2vZYgMs"
     },
   {
-    "id": "seed-30",
+    "id": "seed-31",
     "title": "Chatka II",
     "author": "sł. Bochenek, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -300,7 +310,7 @@
     "url": "https://www.youtube.com/watch?v=SvmoT_rC8tQ"
     },
   {
-    "id": "seed-31",
+    "id": "seed-32",
     "title": "Cicho powiedziane",
     "author": "Krzysztof Gabłoński",
     "category": "piosenka",
@@ -310,7 +320,7 @@
     "url": "https://www.youtube.com/watch?v=nTs-QwIUeKs"
     },
   {
-    "id": "seed-32",
+    "id": "seed-33",
     "title": "Chłopcy z Botany Bay",
     "author": "Mietek Folk",
     "category": "piosenka",
@@ -320,7 +330,7 @@
     "url": "https://www.youtube.com/watch?v=FL4THreoozU"
     },
   {
-    "id": "seed-33",
+    "id": "seed-34",
     "title": "Chory na wyobraźnie",
     "author": "Mariusz Zadura, Tomasz Szczęsny",
     "category": "piosenka",
@@ -330,7 +340,7 @@
     "url": "https://www.youtube.com/watch?v=m_qCL6naSbY"
     },
   {
-    "id": "seed-34",
+    "id": "seed-35",
     "title": "Chudobnom",
     "author": "Dom o Zielonych Progach",
     "category": "piosenka",
@@ -340,7 +350,7 @@
     "url": "https://www.youtube.com/watch?v=LSXi6WGl86k"
     },
   {
-    "id": "seed-35",
+    "id": "seed-36",
     "title": "County Road",
     "author": "John Denver",
     "category": "piosenka",
@@ -350,7 +360,7 @@
     "url": "https://www.youtube.com/watch?v=IUmnTfsY3hI"
     },
   {
-    "id": "seed-36",
+    "id": "seed-37",
     "title": "Czarny blues o czwartej nad ranem",
     "author": "SDM, Stare Dobre Małżeństwo",
     "category": "piosenka",
@@ -360,7 +370,7 @@
     "url": "https://www.youtube.com/watch?v=GibXqTrlg58"
     },
   {
-    "id": "seed-37",
+    "id": "seed-38",
     "title": "Czarny łeb słonecznika",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -370,7 +380,7 @@
     "url": "https://www.youtube.com/watch?v=DNuVEvOZeAkf"
     },
   {
-    "id": "seed-38",
+    "id": "seed-39",
     "title": "CZAR",
     "author": "M. Służała",
     "category": "piosenka",
@@ -380,7 +390,7 @@
     "url": "https://www.youtube.com/watch?v=sTKl7LLtowc\u0026t=10m5s"
     },
   {
-    "id": "seed-39",
+    "id": "seed-40",
     "title": "Czardasz na Połoninie",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -390,7 +400,7 @@
     "url": "https://www.youtube.com/watch?v=bzmgm1WdJ8o"
     },
   {
-    "id": "seed-40",
+    "id": "seed-41",
     "title": "Czas",
     "author": "Maciej Służała - Krążek/Tak czy owak",
     "category": "piosenka",
@@ -400,7 +410,7 @@
     "url": "https://www.youtube.com/watch?v=c4Xz51f-VFk\u0026t=16s"
     },
   {
-    "id": "seed-41",
+    "id": "seed-42",
     "title": "Czom ty ne pryjszoł",
     "author": "Muzyka Łemkowska - Dom o Zielonych Progach",
     "category": "piosenka",
@@ -410,7 +420,7 @@
     "url": "https://www.youtube.com/watch?v=I2X-wzxQj34"
     },
   {
-    "id": "seed-42",
+    "id": "seed-43",
     "title": "Dama kier i pikowy król",
     "author": "sł. Wojtek Bellon, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -420,7 +430,7 @@
     "url": "brak"
     },
   {
-    "id": "seed-43",
+    "id": "seed-44",
     "title": "Deszcz, jesienny deszcz",
     "author": "Czerwone Gitary, sł. Marian Matuszkiewicz, muz: Nieznany",
     "category": "piosenka",
@@ -430,7 +440,7 @@
     "url": "https://www.youtube.com/watch?v=uURalmsZ1-g"
     },
   {
-    "id": "seed-44",
+    "id": "seed-45",
     "title": "Do Calais",
     "author": "Banana Boat",
     "category": "piosenka",
@@ -440,7 +450,7 @@
     "url": "https://www.youtube.com/watch?v=JXrOnCnsch0"
     },
   {
-    "id": "seed-45",
+    "id": "seed-46",
     "title": "Do Domu",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -449,7 +459,7 @@
     "updatedAt": "2026-04-01T08:00:00.000Z"
     },
   {
-    "id": "seed-46",
+    "id": "seed-47",
     "title": "Dom o zielonych progach",
     "author": "Dom o zielonych progach",
     "category": "piosenka",
@@ -459,7 +469,7 @@
     "url": "https://www.youtube.com/watch?v=B0D4kh8RrHU"
     },
   {
-    "id": "seed-47",
+    "id": "seed-48",
     "title": "Droga przez las",
     "author": "sł. Jerzy Harasymowicz muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -469,7 +479,7 @@
     "url": "https://www.youtube.com/watch?v=d7CCNNp9Bz8"
     },
   {
-    "id": "seed-48",
+    "id": "seed-49",
     "title": "Drogi Lesie",
     "author": "Dom o zielonych progach",
     "category": "piosenka",
@@ -479,7 +489,7 @@
     "url": "https://www.youtube.com/watch?v=mN_tgcEclPY"
     },
   {
-    "id": "seed-49",
+    "id": "seed-50",
     "title": "Drogowskaz",
     "author": "Jan Rybowicz, Muzyka SDM, Stare Dobre Małżeństwo",
     "category": "piosenka",
@@ -489,7 +499,7 @@
     "url": "https://www.youtube.com/watch?v=X_9Db64ll8I"
     },
   {
-    "id": "seed-50",
+    "id": "seed-51",
     "title": "Dziękuję Ci lesie",
     "author": "sł. i muz. Wojciech Szymański, Dom o zielonych progach",
     "category": "piosenka",
@@ -499,7 +509,7 @@
     "url": "https://www.youtube.com/watch?v=JlkDAbICEfo"
     },
   {
-    "id": "seed-51",
+    "id": "seed-52",
     "title": "Ech, muzyka, muzyka",
     "author": "A.Drąg",
     "category": "piosenka",
@@ -509,7 +519,7 @@
     "url": "https://www.youtube.com/watch?v=EhJEMq04ZYU"
     },
   {
-    "id": "seed-52",
+    "id": "seed-53",
     "title": "Emeryt",
     "author": "ETK Gdynia",
     "category": "piosenka",
@@ -519,7 +529,7 @@
     "url": "https://www.youtube.com/watch?v=uY-ELf-3cn8"
     },
   {
-    "id": "seed-53",
+    "id": "seed-54",
     "title": "Gór mi mało",
     "author": "sł. Tomasz Borkowski, muz. Wojtek Szymański, Dom i Zielonych progach, Na Bani",
     "category": "piosenka",
@@ -529,7 +539,7 @@
     "url": "https://www.youtube.com/watch?v=mvBB0mYFVYs"
     },
   {
-    "id": "seed-54",
+    "id": "seed-55",
     "title": "Góry i ludzie",
     "author": "sł. J. Harasymowicz, muz. tradycyjna. Dom o Zielonych Progach",
     "category": "piosenka",
@@ -539,7 +549,7 @@
     "url": "https://www.youtube.com/watch?v=UAPFboo-Upk"
     },
   {
-    "id": "seed-55",
+    "id": "seed-56",
     "title": "Gloria",
     "author": "SDM, Stare Dobre Małżeństwo, sł: E.Stachura, muz: K.Myszkowski",
     "category": "piosenka",
@@ -549,7 +559,7 @@
     "url": "https://www.youtube.com/watch?v=Abh_fwfwfSA"
     },
   {
-    "id": "seed-56",
+    "id": "seed-57",
     "title": "Hej, Gronicku Beskidzie",
     "author": "słowa i muzyka: Sylwek Szweda",
     "category": "piosenka",
@@ -559,7 +569,7 @@
     "url": "brak"
     },
   {
-    "id": "seed-57",
+    "id": "seed-58",
     "title": "Hej, przyjaciele, zostańcie ze mną",
     "author": "Paweł Kasperczyk, Babsztyl",
     "category": "piosenka",
@@ -569,7 +579,7 @@
     "url": "https://www.youtube.com/watch?v=J6aXeOh7RTI"
     },
   {
-    "id": "seed-58",
+    "id": "seed-59",
     "title": "Hiszpańskie Dziewczyny",
     "author": "Ryczące Dwudziestki",
     "category": "piosenka",
@@ -579,7 +589,7 @@
     "url": "https://www.youtube.com/watch?v=0Rdg6GUv-wQ"
     },
   {
-    "id": "seed-59",
+    "id": "seed-60",
     "title": "Irlandzki Żeglarz",
     "author": "muz.sł. Sławomir Klupś",
     "category": "piosenka",
@@ -589,7 +599,7 @@
     "url": "https://www.youtube.com/watch?v=elh46xDC7UQ"
     },
   {
-    "id": "seed-60",
+    "id": "seed-61",
     "title": "Jajecznica",
     "author": "Pod Strzechą, muz. i sł. W. Belon",
     "category": "piosenka",
@@ -599,7 +609,7 @@
     "url": "https://www.youtube.com/watch?v=OgwIlKCYsM4"
     },
   {
-    "id": "seed-61",
+    "id": "seed-62",
     "title": "Jak",
     "author": "SDM, Stare Dobre Małżeństwo, sł. Edward Stachura",
     "category": "piosenka",
@@ -609,7 +619,7 @@
     "url": "https://www.youtube.com/watch?v=_DNFXoszxrs"
     },
   {
-    "id": "seed-62",
+    "id": "seed-63",
     "title": "Jak listy",
     "author": "Lubelska Federacja Bardów / Marek Andrzejewski",
     "category": "piosenka",
@@ -619,7 +629,7 @@
     "url": "https://www.youtube.com/watch?v=WH2fbjUdBeQ"
     },
   {
-    "id": "seed-63",
+    "id": "seed-64",
     "title": "Jak okiem sięgnąć",
     "author": "Zgórmysyny, Tomek Jarmużewski",
     "category": "piosenka",
@@ -629,7 +639,7 @@
     "url": "https://www.youtube.com/watch?v=NWoGutIfQlk"
     },
   {
-    "id": "seed-64",
+    "id": "seed-65",
     "title": "Jak wiatr",
     "author": "Tomek Jarmużewski",
     "category": "piosenka",
@@ -639,7 +649,7 @@
     "url": "https://www.youtube.com/watch?v=od99rmAQK7M"
     },
   {
-    "id": "seed-65",
+    "id": "seed-66",
     "title": "Jaka jesteś (Kartka z kalendarza)",
     "author": "Tomasz Lewandowski",
     "category": "piosenka",
@@ -649,7 +659,7 @@
     "url": "https://www.youtube.com/watch?v=U0Wgyq-lgtQ"
     },
   {
-    "id": "seed-66",
+    "id": "seed-67",
     "title": "Jam (Wiosenny)- Dom o Zielonych Progach, sł. i muz. Andrzej Gniady \u0026 Marcin Lewoń",
     "author": "",
     "category": "piosenka",
@@ -659,7 +669,7 @@
     "url": "https://www.youtube.com/watch?v=hchz8fH5XiM"
     },
   {
-    "id": "seed-67",
+    "id": "seed-68",
     "title": "Jaki był ten dzień",
     "author": "Turbo",
     "category": "piosenka",
@@ -669,7 +679,7 @@
     "url": "https://www.youtube.com/watch?v=C_pF6YiAh6Q"
     },
   {
-    "id": "seed-68",
+    "id": "seed-69",
     "title": "Jasnowłosa",
     "author": "B. Kuśka",
     "category": "piosenka",
@@ -679,7 +689,7 @@
     "url": "https://www.youtube.com/watch?v=lbbCcHevotg"
     },
   {
-    "id": "seed-69",
+    "id": "seed-70",
     "title": "Jaworzyna",
     "author": "słowa i muzyka: Jerzy Reiser, (z repertuaru zespołu „Browar Żywiec”)",
     "category": "piosenka",
@@ -689,7 +699,7 @@
     "url": "https://www.youtube.com/watch?v=bBRQliY3agE"
     },
   {
-    "id": "seed-70",
+    "id": "seed-71",
     "title": "Jesienna zaduma",
     "author": "Elżbieta Adamiak",
     "category": "piosenka",
@@ -699,7 +709,7 @@
     "url": "https://www.youtube.com/watch?v=7Cf2bKJTNac"
     },
   {
-    "id": "seed-71",
+    "id": "seed-72",
     "title": "Jesienne wino",
     "author": "Andrzej Koczewski i Zbigniew Bogdański",
     "category": "piosenka",
@@ -709,7 +719,7 @@
     "url": "https://www.youtube.com/watch?v=ZXtfM60eoJw"
     },
   {
-    "id": "seed-72",
+    "id": "seed-73",
     "title": "Jesienne Zwierzenia",
     "author": "Ryszard Muzaj",
     "category": "piosenka",
@@ -719,7 +729,7 @@
     "url": "https://www.youtube.com/watch?v=J_GPhHYUiuA"
     },
   {
-    "id": "seed-73",
+    "id": "seed-74",
     "title": "Jest później niż się zdaje",
     "author": "sł: A. Bacińska, muzyka: M.Łangowski",
     "category": "piosenka",
@@ -729,7 +739,7 @@
     "url": "https://www.youtube.com/watch?v=wOdspONIZbQ"
     },
   {
-    "id": "seed-74",
+    "id": "seed-75",
     "title": "Jeszcze nie czas",
     "author": "słowa i muzyka: Andrzej Koczewski",
     "category": "piosenka",
@@ -739,7 +749,7 @@
     "url": "https://www.youtube.com/watch?v=wWXEi6l7wFA"
     },
   {
-    "id": "seed-75",
+    "id": "seed-76",
     "title": "Karczma",
     "author": "sł. Bolesław Leśmian muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -749,7 +759,7 @@
     "url": "brak"
     },
   {
-    "id": "seed-76",
+    "id": "seed-77",
     "title": "Krajobraz z karczmą",
     "author": "M. Służała",
     "category": "piosenka",
@@ -759,7 +769,7 @@
     "url": "https://www.youtube.com/watch?v=3dXfeKZZkpQ"
     },
   {
-    "id": "seed-77",
+    "id": "seed-78",
     "title": "Kubański Szlak",
     "author": "Autor / Wykonawca: muz. J. Liszewski, sł. G. Waszkiewicz. EKT Gdynia",
     "category": "piosenka",
@@ -769,7 +779,7 @@
     "url": "https://www.youtube.com/watch?v=O-I_IB1Qvkg"
     },
   {
-    "id": "seed-78",
+    "id": "seed-79",
     "title": "Kulawy Kowal",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -779,7 +789,17 @@
     "url": "https://www.youtube.com/watch?v=i6fUWH3omac"
     },
   {
-    "id": "seed-79",
+    "id": "seed-80",
+    "title": "Lato",
+    "author": "Słodki Całus Od Buby",
+    "category": "piosenka",
+    "content": "Gdy cię pierwszy raz ujrzałem /C/C G4/H\nJasno zrozumiałem, że         /a7/A a7/G\nMuszę bronić się przed tobą,  /F\nNa najmniejszy zważać gest.   /F C\nWypalony letnim słońcem\nZniknął wątpliwości ślad:\nZamieniłem ?czy? i ?kiedy?,\nNa pytanie ?gdzie? i ?jak??\n\nRef:\nLato nam umyka po strumykach,   /C/C G4/H a7/A\nPo zielonych stokach wzgórz,    /a7/G C\nO wczoraj się nie pyta-         /C/C G4/H\nNie pamięta już…                /a7/A e\nLato ciemną, pełną szeptów nocą /C/C G4/H a7/A\nKusi, jak                       /a7/G\nNa twoich opalonych plecach     /F\nJasny po ramiączku ślad.        /F C\n\nZapukałem w twoje okno,\nPowiedziałaś ?wejdź?-\nZ gęstej poziomkowej nocy\nJasny świt wynurzył się.\nZapukałem do twojego serca,\nPowiedziałaś ?idź?-\nNa rozgrzaną ścieżkę sierpnia\nUpadł pierwszy żółty liść.\n\nLato nam umyka…\n\nCiepłe noce pod gwiazdami,\nDuszne pod namiotem sny,\nJesień stuka sztalugami,\nŚwiat gruntuje bielą mgły.\nPierwszy świt w koronkach szronu,\nPełna słodkich jagód garść…\nJeśli tylko się przyśniłaś,\nCzemu teraz tak mi żal?\n\nLato nam umyka…",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z",
+    "url": "https://www.youtube.com/watch?v=6TWDXzXHGQA"
+    },
+  {
+    "id": "seed-81",
     "title": "Lato z ptakami odchodzi",
     "author": "Ryszard Krasowski, Rajdowa Piosenka Roku 1971",
     "category": "piosenka",
@@ -789,7 +809,7 @@
     "url": "https://www.youtube.com/watch?v=qfbgYRbMCSc"
     },
   {
-    "id": "seed-80",
+    "id": "seed-82",
     "title": "Leemon tree",
     "author": "Fools Garden",
     "category": "piosenka",
@@ -799,7 +819,7 @@
     "url": "https://www.youtube.com/watch?v=wCQfkEkePx8"
     },
   {
-    "id": "seed-81",
+    "id": "seed-83",
     "title": "Leluchów",
     "author": "SDM, Stare Dobre Małżeństwo, sł. Adam Ziemianin",
     "category": "piosenka",
@@ -809,7 +829,7 @@
     "url": "https://www.youtube.com/watch?v=QoP5d9tc9pY"
     },
   {
-    "id": "seed-82",
+    "id": "seed-84",
     "title": "Linoskoczek",
     "author": "Jan Kanty Pawluskiewicz, Antologia vol.1 - Andrzej Zaucha",
     "category": "piosenka",
@@ -819,7 +839,7 @@
     "url": "https://www.youtube.com/watch?v=HrazWpivOb4"
     },
   {
-    "id": "seed-83",
+    "id": "seed-85",
     "title": "Listy Miłosne",
     "author": "Grupa na Swoim",
     "category": "piosenka",
@@ -829,17 +849,17 @@
     "url": "https://www.youtube.com/watch?v=xLE4kRTrnGs"
     },
   {
-    "id": "seed-84",
-    "title": "Love in Vein (Całkiem sporo)- sl: Slodki Calus od Buby, Org. Bob Dylan",
+    "id": "seed-86",
+    "title": "Love in Vein (Całkiem sporo)- Słodki Całus od Buby, sł: Krzysztof Jurkiel Jurkiewicz, Org. by Bob Dylan",
     "author": "",
     "category": "piosenka",
-    "content": "C     e         a           G\nTyle lat Panie, ile to juz lat\nF                            G              \nIle ksiazek, ile kaset, ile map\nIle Gor, ile drog, ile miast\nIle portow, parkow, ile plaz\n\nF\nTo co mam za soba\nF\nTo co jeszcze czeka\nF                     G\nTo co zawsze w sercu mam..\n\nJedna, Druga, Trzecia, Czwarta twarz\nAni jednej podlej, Dobry Bog tak chcial\nKilku ludzi, ktorych kocham, ktorych znam\nNo i Ciebie, wszystko co Ci moge dac\n\nTo co mam za soba\nTo co jeszcze czeka\nTo co zawsze w sercu mam..\n\nJesien, tesknote, ktora nie zna dna\nButy, plecak i to cos co wciaz gdzies gna...\nI gitare, struny, rece dwie\nI piosenki, ktore spiewam tak jak chce..\n\nTo co mam za soba\nTo co jeszcze czeka\nTo co zawsze w sercu mam..\n\nCalkiem, calkiem sporo z tego co dzis mam\nZawdzieczam Panu, Panie Zimmerman",
+    "content": "C     e         a           G\nTyle lat Panie, ile to już lat\nF                            G              \nIle książek, ile kaset, ile map\nIle Gór, ile dróg, ile miast\nIle portów, parków, ile plaż\n\nF\nTo co mam za sobą\nF\nTo co jeszcze czeka\nF                     G\nTo co zawsze w sercu mam..\n\nJedna, Druga, Trzecia, Czwarta twarz\nAni jednej podłej, Dobry Bog tak chciał\nKilku ludzi, których kocham, których znam\nNo i Ciebie, wszystko co Ci mogę dać\n\nTo co mam za sobą\nTo co jeszcze czeka\nTo co zawsze w sercu mam..\n\nJesień, tesknotę, która nie zna dna\nButy, plecak i to coś co wciąż gdzieś gna...\nI gitarę, struny, ręce dwie\nI piosenki, ktore śpiewam tak jak chce..\n\nTo co mam za sobą\nTo co jeszcze czeka\nTo co zawsze w sercu mam..\n\nCałkiem, całkiem sporo z tego co dziś mam\nZawdzięczam Panu, Panie Zimmerman",
     "createdAt": "2026-04-01T08:00:00.000Z",
     "updatedAt": "2026-04-01T08:00:00.000Z",
     "url": "https://www.youtube.com/watch?v=x00W1LX7cJs"
     },
   {
-    "id": "seed-85",
+    "id": "seed-87",
     "title": "Łemata (Rozmyślania nad wodospadem)",
     "author": "sł. i muz. Wojtek \"Neron\" Warchoł. Dom o Zielonych Progach",
     "category": "piosenka",
@@ -849,7 +869,7 @@
     "url": "https://www.youtube.com/watch?v=gNTEKqAleCk\u0026t=38s"
     },
   {
-    "id": "seed-86",
+    "id": "seed-88",
     "title": "Maestro bezdomny",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -859,7 +879,7 @@
     "url": "https://www.youtube.com/watch?v=M4lD67Bhe7U"
     },
   {
-    "id": "seed-87",
+    "id": "seed-89",
     "title": "Majka",
     "author": "SDM, Stare Dobre Małżeństwo",
     "category": "piosenka",
@@ -869,7 +889,7 @@
     "url": "https://www.youtube.com/watch?v=0jVEXqEOkyU"
     },
   {
-    "id": "seed-88",
+    "id": "seed-90",
     "title": "Matka z aniołem",
     "author": "SDM, Stare Dobre Małżeństwo",
     "category": "piosenka",
@@ -879,7 +899,7 @@
     "url": "https://www.youtube.com/watch?v=VqDdAwKJtxQ"
     },
   {
-    "id": "seed-89",
+    "id": "seed-91",
     "title": "Marzę",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -889,7 +909,7 @@
     "url": "https://www.youtube.com/watch?v=woiH3hsWI8I"
     },
   {
-    "id": "seed-90",
+    "id": "seed-92",
     "title": "Majster Bieda",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -899,7 +919,7 @@
     "url": "https://www.youtube.com/watch?v=xAURdgunTJg"
     },
   {
-    "id": "seed-91",
+    "id": "seed-93",
     "title": "Mewy",
     "author": "Andrzej Korycki",
     "category": "piosenka",
@@ -909,7 +929,7 @@
     "url": "https://www.youtube.com/watch?v=BwF7gesCe1Q"
     },
   {
-    "id": "seed-92",
+    "id": "seed-94",
     "title": "Miasteczko w Karpatach",
     "author": "Bez zobowiązań, sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -919,7 +939,7 @@
     "url": "https://www.youtube.com/watch?v=COqZXwcRT2Q"
     },
   {
-    "id": "seed-93",
+    "id": "seed-95",
     "title": "Miasto",
     "author": "Słodki Całus od Buby",
     "category": "piosenka",
@@ -929,7 +949,7 @@
     "url": "https://www.youtube.com/watch?v=wwtyEQr-AC8"
     },
   {
-    "id": "seed-94",
+    "id": "seed-96",
     "title": "Mimochodem",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -939,7 +959,7 @@
     "url": "https://www.youtube.com/watch?v=8ULdCuj594E"
     },
   {
-    "id": "seed-95",
+    "id": "seed-97",
     "title": "Modlitwa",
     "author": "Kazimierz Wegrzyn, Dom o zielonych progach",
     "category": "piosenka",
@@ -949,7 +969,7 @@
     "url": "https://www.youtube.com/watch?v=6MF0c0HAtmA"
     },
   {
-    "id": "seed-96",
+    "id": "seed-98",
     "title": "Modlitwa mojego wieku",
     "author": "sł. Adam Ziemianin, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -959,7 +979,7 @@
     "url": "https://www.youtube.com/watch?v=yhK1TITV_MA"
     },
   {
-    "id": "seed-97",
+    "id": "seed-99",
     "title": "Modlitwa wędrownego grajka",
     "author": "sł. Jan Kasprowicz (w: Mój świat 1926), muz. Andrzej Mróz, wyk. SETA",
     "category": "piosenka",
@@ -969,7 +989,7 @@
     "url": "https://www.youtube.com/watch?v=8TgkOZJebYs"
     },
   {
-    "id": "seed-98",
+    "id": "seed-100",
     "title": "Mona",
     "author": "EKT Gdynia, Peegy Seeger",
     "category": "piosenka",
@@ -979,7 +999,7 @@
     "url": "https://www.youtube.com/watch?v=KNfh5Q79gCQ"
     },
   {
-    "id": "seed-99",
+    "id": "seed-101",
     "title": "Morskie Opowieści",
     "author": "Szanty",
     "category": "piosenka",
@@ -989,7 +1009,7 @@
     "url": "https://www.youtube.com/watch?v=09h6fMMK1lU"
     },
   {
-    "id": "seed-100",
+    "id": "seed-102",
     "title": "Morze",
     "author": "J Wydra, EKT Gdynia",
     "category": "piosenka",
@@ -999,7 +1019,7 @@
     "url": "https://www.youtube.com/watch?v=rqJz_Sh4ZdY"
     },
   {
-    "id": "seed-101",
+    "id": "seed-103",
     "title": "Na stacji Jerzego z Podebrad",
     "author": "Jaromir Nohavica (Zbigniew Zamachowski)",
     "category": "piosenka",
@@ -1009,7 +1029,7 @@
     "url": "https://www.youtube.com/watch?v=0ky0O3gbBPA"
     },
   {
-    "id": "seed-102",
+    "id": "seed-104",
     "title": "Naprawdę nie dzieję sie nic",
     "author": "Grzegorz Turnau",
     "category": "piosenka",
@@ -1019,7 +1039,7 @@
     "url": "https://www.youtube.com/watch?v=KcthRGCxPaA"
     },
   {
-    "id": "seed-103",
+    "id": "seed-105",
     "title": "Niedokończona jesienna fuga",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -1029,7 +1049,7 @@
     "url": "https://www.youtube.com/watch?v=r2vaWc4woBc"
     },
   {
-    "id": "seed-104",
+    "id": "seed-106",
     "title": "Nie przenoście nam stolicy do Krakowa",
     "author": "Pod Budą",
     "category": "piosenka",
@@ -1039,7 +1059,7 @@
     "url": "https://www.youtube.com/watch?v=vyRrJIL3THs"
     },
   {
-    "id": "seed-105",
+    "id": "seed-107",
     "title": "Nie rozdziobią nas kruki",
     "author": "SDM, Stare Dobre Małżeństwo, sł. Edward Stachura",
     "category": "piosenka",
@@ -1049,7 +1069,7 @@
     "url": "https://www.youtube.com/watch?v=w8q_bi7ldiY"
     },
   {
-    "id": "seed-106",
+    "id": "seed-108",
     "title": "Nie sprzedawajcie swych marzeń",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -1059,7 +1079,7 @@
     "url": "https://www.youtube.com/watch?v=oK-UyhQDtc0"
     },
   {
-    "id": "seed-107",
+    "id": "seed-109",
     "title": "Niebieskooki sen",
     "author": "Słodki Całus od Buby, muz., sł.: K. Jurkiewicz",
     "category": "piosenka",
@@ -1069,7 +1089,7 @@
     "url": "https://www.youtube.com/watch?v=5cAB1oEiF74"
     },
   {
-    "id": "seed-108",
+    "id": "seed-110",
     "title": "Niebo do wynajęcia",
     "author": "Roberty Kasprzycki",
     "category": "piosenka",
@@ -1079,7 +1099,7 @@
     "url": "https://www.youtube.com/watch?v=e-1vP9xjzRQ"
     },
   {
-    "id": "seed-109",
+    "id": "seed-111",
     "title": "Nim Wstanie Dzień",
     "author": "Edmund Fetting",
     "category": "piosenka",
@@ -1089,7 +1109,7 @@
     "url": "https://www.youtube.com/watch?v=Yiar-4JVfo4"
     },
   {
-    "id": "seed-110",
+    "id": "seed-112",
     "title": "Kim właściwie była ta piękna pani?",
     "author": "SDM, Stare Dobre Małżeństwo, sł. Edward Stachura",
     "category": "piosenka",
@@ -1099,7 +1119,7 @@
     "url": "https://www.youtube.com/watch?v=FTiAYAQ9Xp0"
     },
   {
-    "id": "seed-111",
+    "id": "seed-113",
     "title": "North West Passage",
     "author": "Ryczące Dwudziestki",
     "category": "piosenka",
@@ -1109,7 +1129,7 @@
     "url": "https://www.youtube.com/watch?v=XboMbs9QChc"
     },
   {
-    "id": "seed-112",
+    "id": "seed-114",
     "title": "November Rain",
     "author": "Axel Rose, Guns N\u0027Roses",
     "category": "piosenka",
@@ -1119,7 +1139,7 @@
     "url": "https://www.youtube.com/watch?v=fvrogxMHmlg"
     },
   {
-    "id": "seed-113",
+    "id": "seed-115",
     "title": "Nowa",
     "author": "Słodki Całus od Buby",
     "category": "piosenka",
@@ -1129,7 +1149,7 @@
     "url": "https://www.youtube.com/watch?v=9h5tAsB3lqA"
     },
   {
-    "id": "seed-114",
+    "id": "seed-116",
     "title": "Nuta z Ponidzia",
     "author": "Wolna Grupa Bukowina, sł. Wojciech Bellon",
     "category": "piosenka",
@@ -1139,7 +1159,7 @@
     "url": "https://www.youtube.com/watch?v=Xv3-Ud40PyA"
     },
   {
-    "id": "seed-115",
+    "id": "seed-117",
     "title": "Obława",
     "author": "Jacek Kaczmarski",
     "category": "piosenka",
@@ -1149,7 +1169,7 @@
     "url": "https://www.youtube.com/watch?v=v0NAXRuc7Jg"
     },
   {
-    "id": "seed-116",
+    "id": "seed-118",
     "title": "Ocean",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -1159,7 +1179,7 @@
     "url": "https://www.youtube.com/watch?v=fvqxia2JRfM"
     },
   {
-    "id": "seed-117",
+    "id": "seed-119",
     "title": "Oczekiwanie",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -1169,7 +1189,7 @@
     "url": "https://www.youtube.com/watch?v=eskdKPWmkiw"
     },
   {
-    "id": "seed-118",
+    "id": "seed-120",
     "title": "Opadły mgły wstaje nowy dzień",
     "author": "Stare Dobre Małżeństwo, sł: Edward Stachura",
     "category": "piosenka",
@@ -1179,7 +1199,7 @@
     "url": "https://www.youtube.com/watch?v=n1w8DVxxEUo"
     },
   {
-    "id": "seed-119",
+    "id": "seed-121",
     "title": "Paddy West",
     "author": "Ryczące Dwudziestki",
     "category": "piosenka",
@@ -1189,7 +1209,7 @@
     "url": "https://www.youtube.com/watch?v=G8yuuLYvBkI"
     },
   {
-    "id": "seed-120",
+    "id": "seed-122",
     "title": "Październik, Jesień",
     "author": "sł. Andrzej Bursa",
     "category": "piosenka",
@@ -1199,7 +1219,7 @@
     "url": "https://www.youtube.com/watch?v=bJ_X3C4e-1I"
     },
   {
-    "id": "seed-121",
+    "id": "seed-123",
     "title": "Październik",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -1209,7 +1229,7 @@
     "url": "https://www.youtube.com/watch?v=F6p7GMiG48g"
     },
   {
-    "id": "seed-122",
+    "id": "seed-124",
     "title": "Pejzaże Harasymowiczowskie",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -1219,7 +1239,7 @@
     "url": "https://www.youtube.com/watch?v=15Q-Z5u2AnI"
     },
   {
-    "id": "seed-123",
+    "id": "seed-125",
     "title": "Pejzaż Horyzontalny",
     "author": "Andrzej Sikorowski, Grzegorz Turnau",
     "category": "piosenka",
@@ -1229,7 +1249,7 @@
     "url": "https://www.youtube.com/watch?v=dIm0DGfBhlo"
     },
   {
-    "id": "seed-124",
+    "id": "seed-126",
     "title": "Pedziała mi matka",
     "author": "Chwila Nieuwagi",
     "category": "piosenka",
@@ -1239,7 +1259,7 @@
     "url": "https://www.youtube.com/watch?v=al7x5-jRd28"
     },
   {
-    "id": "seed-125",
+    "id": "seed-127",
     "title": "Pieśń XXIX",
     "author": "Dom o Zielonych Progach, sł. Jerzy Harasymowicz, muz. Wojtek Szymański",
     "category": "piosenka",
@@ -1249,7 +1269,7 @@
     "url": "https://www.youtube.com/watch?v=OwApQmS7GIY"
     },
   {
-    "id": "seed-126",
+    "id": "seed-128",
     "title": "Pieśń Wielorybników",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -1259,7 +1279,7 @@
     "url": "https://www.youtube.com/watch?v=PewEmV5mEtU"
     },
   {
-    "id": "seed-127",
+    "id": "seed-129",
     "title": "Piosenka dla Dośki",
     "author": "Majstrowie Gór, Dom o Zielonych Progach",
     "category": "piosenka",
@@ -1269,7 +1289,7 @@
     "url": "https://www.youtube.com/watch?v=FK697msg2oQ"
     },
   {
-    "id": "seed-128",
+    "id": "seed-130",
     "title": "Piosenka dla Wojtka Bellona",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -1279,7 +1299,7 @@
     "url": "https://www.youtube.com/watch?v=QtTBx70yICE"
     },
   {
-    "id": "seed-129",
+    "id": "seed-131",
     "title": "Piosenka Na Nowy Rok",
     "author": "Nasza Basia Kochana, sł. Jacek Cygan",
     "category": "piosenka",
@@ -1289,7 +1309,7 @@
     "url": "https://www.youtube.com/watch?v=AT5_tEjTH4o"
     },
   {
-    "id": "seed-130",
+    "id": "seed-132",
     "title": "Piosenka Wiosenna",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -1299,7 +1319,7 @@
     "url": "https://www.youtube.com/watch?v=5SutbiSD9RU"
     },
   {
-    "id": "seed-131",
+    "id": "seed-133",
     "title": "Plastelina",
     "author": "sł.: Danuta Wawiłow muz.: Piotr Bachorski, Dom o Zielonych Progach",
     "category": "piosenka",
@@ -1309,7 +1329,7 @@
     "url": "https://www.youtube.com/watch?v=JbA7lDg7HOY"
     },
   {
-    "id": "seed-132",
+    "id": "seed-134",
     "title": "Pocztówka z Beskidu",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -1319,7 +1339,7 @@
     "url": "https://www.youtube.com/watch?v=NCdFnqzZX0I"
     },
   {
-    "id": "seed-133",
+    "id": "seed-135",
     "title": "Pod górę",
     "author": "Tomek Jarmużewski",
     "category": "piosenka",
@@ -1329,7 +1349,7 @@
     "url": "https://www.youtube.com/watch?v=A4-4kRFaEhw"
     },
   {
-    "id": "seed-134",
+    "id": "seed-136",
     "title": "Pod kątem ostrym",
     "author": "SDM, Stare Dobre Małżeństwo, sł. Adam Ziemianin",
     "category": "piosenka",
@@ -1339,7 +1359,7 @@
     "url": "https://www.youtube.com/watch?v=kkDsoAKkJh4"
     },
   {
-    "id": "seed-135",
+    "id": "seed-137",
     "title": "Pod słońce",
     "author": "Tomek Jarmużewski",
     "category": "piosenka",
@@ -1349,7 +1369,7 @@
     "url": "https://www.youtube.com/watch?v=IY1QBnY17bA"
     },
   {
-    "id": "seed-136",
+    "id": "seed-138",
     "title": "Polanka",
     "author": "słowa i muzyka: Zbigniew Stefański (z repertuaru zespołu „Bez Jacka”)",
     "category": "piosenka",
@@ -1359,7 +1379,7 @@
     "url": "https://www.youtube.com/watch?v=SGGiF1FTzXQ"
     },
   {
-    "id": "seed-137",
+    "id": "seed-139",
     "title": "Połoniny Niebieskie",
     "author": "Adam Drąg",
     "category": "piosenka",
@@ -1369,7 +1389,7 @@
     "url": "https://www.youtube.com/watch?v=ZSp7OCHkolI"
     },
   {
-    "id": "seed-138",
+    "id": "seed-140",
     "title": "Posiedzimy jeszcze trochę",
     "author": "Piotr Bakal",
     "category": "piosenka",
@@ -1379,7 +1399,7 @@
     "url": "https://www.youtube.com/watch?v=9IXp2Ag6Qkc"
     },
   {
-    "id": "seed-139",
+    "id": "seed-141",
     "title": "Powroty",
     "author": "Słodki Całus od Buby, muz., sł.: K. Jurkiewicz",
     "category": "piosenka",
@@ -1389,7 +1409,7 @@
     "url": "https://www.youtube.com/watch?v=hOamY5zge5s"
     },
   {
-    "id": "seed-140",
+    "id": "seed-142",
     "title": "Powroty",
     "author": "Smugglers",
     "category": "piosenka",
@@ -1399,7 +1419,7 @@
     "url": "https://www.youtube.com/watch?v=xSBokEOShzo"
     },
   {
-    "id": "seed-141",
+    "id": "seed-143",
     "title": "Powrót",
     "author": "Krążek -  sł., muz. Maciej Służała",
     "category": "piosenka",
@@ -1409,7 +1429,7 @@
     "url": "brak"
     },
   {
-    "id": "seed-142",
+    "id": "seed-144",
     "title": "Pożegnalny ton",
     "author": "Autor / Wykonawca: muz.sł.S.Klupś",
     "category": "piosenka",
@@ -1419,7 +1439,7 @@
     "url": "https://www.youtube.com/watch?v=mBGUxtct_v8"
     },
   {
-    "id": "seed-143",
+    "id": "seed-145",
     "title": "Pożegnanie",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -1429,7 +1449,7 @@
     "url": "https://www.youtube.com/watch?v=ldJ42bXTlK8\u0026t=11m10s"
     },
   {
-    "id": "seed-144",
+    "id": "seed-146",
     "title": "Pożegnanie Liverpoolu",
     "author": "Cztery Refy",
     "category": "piosenka",
@@ -1439,7 +1459,7 @@
     "url": "https://www.youtube.com/watch?v=EBxorz5MOxo"
     },
   {
-    "id": "seed-145",
+    "id": "seed-147",
     "title": "Preludiom dla Leonarda",
     "author": "Leonard Luther",
     "category": "piosenka",
@@ -1449,7 +1469,7 @@
     "url": "https://www.youtube.com/watch?v=uaKwDPv1ho4"
     },
   {
-    "id": "seed-146",
+    "id": "seed-148",
     "title": "Proud Mary",
     "author": "Creedence Clearwater Revival",
     "category": "piosenka",
@@ -1459,7 +1479,7 @@
     "url": "https://www.youtube.com/watch?v=5hid10EgMXE"
     },
   {
-    "id": "seed-147",
+    "id": "seed-149",
     "title": "Przechyły",
     "author": "Paweł Orkisz",
     "category": "piosenka",
@@ -1469,7 +1489,7 @@
     "url": "https://www.youtube.com/watch?v=f_C75NzNdxo"
     },
   {
-    "id": "seed-148",
+    "id": "seed-150",
     "title": "Przytuj mnie proszę",
     "author": "sł. Wuka, muz. G.Śmiałowski",
     "category": "piosenka",
@@ -1479,7 +1499,7 @@
     "url": "https://www.youtube.com/watch?v=JLMj4Y_W_PM"
     },
   {
-    "id": "seed-149",
+    "id": "seed-151",
     "title": "Przypowieść",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -1489,7 +1509,7 @@
     "url": "https://www.youtube.com/watch?v=16uc3q-egNQ"
     },
   {
-    "id": "seed-150",
+    "id": "seed-152",
     "title": "Przypowieść II",
     "author": "Maciej Służała, Krążek",
     "category": "piosenka",
@@ -1499,7 +1519,17 @@
     "url": "https://www.youtube.com/watch?v=BzRZpfgPeW8"
     },
   {
-    "id": "seed-151",
+    "id": "seed-153",
+    "title": "Raz do roku",
+    "author": "Słodki Całus od Buby",
+    "category": "piosenka",
+    "content": "Zakochajmy się w sobie-     C\nRaz do roku,                F9\nPostawmy świat na głowie-   C\nRaz do roku,                F9\nBez konsekwencji, bez granic,           /C\nBez odpowiedzi na zasadnicze pytania-   /G\nRaz do roku.                            /F9 C\nJak dla wędrownych ptaków wyspa na bezkresnym oceanie,  /G F C\nJak dla spragnionego pierwszy wody łyk,                 /G F\nTak ty bądź dla mnie,                                   /d7\nBądź dla mnie...                                        /F\nZakochajmy się w sobie...\nTak, jak noc po ciężkim dniu, jak w ogrodzie świerszczy granie,\nJak na serce wonny miód,\nTak ty bądź dla mnie,\nBądź dla mnie...\n\nZakochajmy się w sobie...\nA na co dzień- linia życia ukośna, e F\nA na co dzień- lekkość bytu nieznośna e F\nSzczerzy kły i pajęczą snuje nić. e F d F\nJak dla wędrownych ptaków wyspa na bezkresnym oceanie,\nTak jak noc po ciężkim dniu\nTak ty bądź dla mnie,\nBądź dla mnie... ",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z",
+    "url": "https://www.youtube.com/watch?v=uRXfmeygSHw"
+    },
+  {
+    "id": "seed-154",
     "title": "Requiem dla Majstra Biedy",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -1509,7 +1539,17 @@
     "url": "https://www.youtube.com/watch?v=BzRZpfgPeW8"
     },
   {
-    "id": "seed-152",
+    "id": "seed-155",
+    "title": "Rozmowa (Jano)",
+    "author": "Słodki Całus Od Buby",
+    "category": "piosenka",
+    "content": "Pytasz się mnie, Jano, czy jeszcze śpiewamy,            /G a7 C D\nCzy ciągle jeździmy z pieśnią po kraju...               /G a7 C D\nJa już prawie zapomniałem, Jano, jakie to jest ważne,   /G a7 C D\nŻeby się ludzie nawzajem słuchali.                      /G a7 C D\n\n[Refren]\nOd Beskidu wiosna idzie, już ją czuć,                  /C G e\nChociaż góry otulone w biały puch.                     /G C D\nObudź się, jeszcze wszystko możesz zmienić,            /a7 h e\nGłowę trzymaj wysoko w chmurach, nogi twardo na ziemi  /G C D G\n\nPytasz się mnie, Jano, co tam u chłopaków,\nCzy wszyscy szczęśliwi, czy są kochani...\nCo mam ci powiedzieć, Jano, tak właściwie - nie wiem,\nJakoś nigdy o tym szczerze nie rozmawiamy.\n\n[Refren]\nOd Beskidu wiosna idzie...\n\nTak sobie stoimy, Jano, w biegu rozmawiamy,\nNie mam nawet czasu, żeby cię odwiedzić...\nSzczęście, że zostało, Jano, jeszcze kilka marzeń,\nWierzę, przyjdzie czas, uda się je spełnić...\n\n[Refren]\nOd Beskidu wiosna idzie...",
+    "createdAt": "2026-04-01T08:00:00.000Z",
+    "updatedAt": "2026-04-01T08:00:00.000Z",
+    "url": "https://www.youtube.com/watch?v=j_vJO9NkXhs"
+    },
+  {
+    "id": "seed-156",
     "title": "Rzeka",
     "author": "Wolna Grupa Bukowina",
     "category": "piosenka",
@@ -1519,7 +1559,7 @@
     "url": "https://www.youtube.com/watch?v=wcEki6HxAr0"
     },
   {
-    "id": "seed-153",
+    "id": "seed-157",
     "title": "Samba sikoreczka",
     "author": "Nasza Basia Kochana, Jacek Cygan",
     "category": "piosenka",
@@ -1529,7 +1569,7 @@
     "url": "https://www.youtube.com/watch?v=JyccORF-dLg"
     },
   {
-    "id": "seed-154",
+    "id": "seed-158",
     "title": "Sanctus",
     "author": "SDM. Stare Dobre Małżeństwo. sł: Edward Stachura",
     "category": "piosenka",
@@ -1539,7 +1579,7 @@
     "url": "https://www.youtube.com/watch?v=WRnCl1GA6lc"
     },
   {
-    "id": "seed-155",
+    "id": "seed-159",
     "title": "Sanem",
     "author": "Sł: Roman Zielonka, Muz. Grzegorz Śmiałowski, Bez Zobowiązań",
     "category": "piosenka",
@@ -1549,7 +1589,7 @@
     "url": "https://www.youtube.com/watch?v=7UZqu7YxqUA"
     },
   {
-    "id": "seed-156",
+    "id": "seed-160",
     "title": "Saskia",
     "author": "Bez Jacka, sł. K. I. Gałczyński, muz. J.H. Chrząstek, Z. Stefański",
     "category": "piosenka",
@@ -1559,7 +1599,7 @@
     "url": "https://www.youtube.com/watch?v=h7BwZDevoj8"
     },
   {
-    "id": "seed-157",
+    "id": "seed-161",
     "title": "Scarborough Fair",
     "author": "Chords by Simon \u0026 Garfunkel",
     "category": "piosenka",
@@ -1569,7 +1609,7 @@
     "url": "https://www.youtube.com/watch?v=-Jj4s9I-53g"
     },
   {
-    "id": "seed-158",
+    "id": "seed-162",
     "title": "Scarlett",
     "author": "Leonard Luther",
     "category": "piosenka",
@@ -1579,7 +1619,7 @@
     "url": "https://www.youtube.com/watch?v=_5GuXqky0V4"
     },
   {
-    "id": "seed-159",
+    "id": "seed-163",
     "title": "Sielanka o Domu",
     "author": "Wolna Grupa Bukowina, muz. W. Juszczyszyn; sł. W. Belon",
     "category": "piosenka",
@@ -1589,7 +1629,7 @@
     "url": "https://www.youtube.com/watch?v=tuhTbtTfjdk"
     },
   {
-    "id": "seed-160",
+    "id": "seed-164",
     "title": "Stavanger",
     "author": "Banana Boat",
     "category": "piosenka",
@@ -1599,7 +1639,7 @@
     "url": "https://www.youtube.com/watch?v=-8NJkB5LYpQ"
     },
   {
-    "id": "seed-161",
+    "id": "seed-165",
     "title": "Szczęśliwej drogi, już czas",
     "author": "Vox",
     "category": "piosenka",
@@ -1609,7 +1649,7 @@
     "url": "https://www.youtube.com/watch?v=_pZ9xrYKt58"
     },
   {
-    "id": "seed-162",
+    "id": "seed-166",
     "title": "Śni się lasom las",
     "author": "sł. B. Leśmian, muz. Z. Stefański, J.H. Chrząstek, Bez Jacka",
     "category": "piosenka",
@@ -1619,7 +1659,7 @@
     "url": "https://www.youtube.com/watch?v=TsLcAVmz-B8"
     },
   {
-    "id": "seed-163",
+    "id": "seed-167",
     "title": "Śniegowice",
     "author": "Tomasz Wachnowski",
     "category": "piosenka",
@@ -1629,7 +1669,7 @@
     "url": "https://www.youtube.com/watch?v=rCN9IllCu5E"
     },
   {
-    "id": "seed-164",
+    "id": "seed-168",
     "title": "Taradajka",
     "author": "Wszystkiego Najlepszgo",
     "category": "piosenka",
@@ -1639,7 +1679,7 @@
     "url": "https://www.youtube.com/watch?v=FvsVgnS6c78"
     },
   {
-    "id": "seed-165",
+    "id": "seed-169",
     "title": "Tawerna Pod Pijaną Zgrają",
     "author": "Szanty",
     "category": "piosenka",
@@ -1649,7 +1689,7 @@
     "url": "https://www.youtube.com/watch?v=yuWxTH6Ulj4"
     },
   {
-    "id": "seed-166",
+    "id": "seed-170",
     "title": "Tęskniacz",
     "author": "sł. Adam Andryszczyk, muz. Mariusz Raczyński",
     "category": "piosenka",
@@ -1659,7 +1699,7 @@
     "url": "https://www.youtube.com/watch?v=mYebN9-YcZo"
     },
   {
-    "id": "seed-167",
+    "id": "seed-171",
     "title": "Transatlantyki (Pogodne popołudnie kapitana Białej Floty)",
     "author": "Olek Grotowski, Iza Zwierzchowska",
     "category": "piosenka",
@@ -1669,7 +1709,7 @@
     "url": "https://www.youtube.com/watch?v=k4LjC6iFLzw"
     },
   {
-    "id": "seed-168",
+    "id": "seed-172",
     "title": "Trawa",
     "author": "Dom o zielonych progach, sł/ Julian Tuwim",
     "category": "piosenka",
@@ -1679,7 +1719,7 @@
     "url": "https://www.youtube.com/watch?v=X9u4KdcALlM"
     },
   {
-    "id": "seed-169",
+    "id": "seed-173",
     "title": "U Pana Boga za piecem (Kipiatok)",
     "author": "Słodki Całus od Buby",
     "category": "piosenka",
@@ -1689,7 +1729,7 @@
     "url": "https://www.youtube.com/watch?v=fplGHzJYNz0"
     },
   {
-    "id": "seed-170",
+    "id": "seed-174",
     "title": "U studni",
     "author": "Stare Dobre Małżeństwo",
     "category": "piosenka",
@@ -1699,7 +1739,7 @@
     "url": "https://www.youtube.com/watch?v=wpXyx2Ez_ws"
     },
   {
-    "id": "seed-171",
+    "id": "seed-175",
     "title": "We wtorek w schronisku",
     "author": "Wołosatki",
     "category": "piosenka",
@@ -1709,7 +1749,7 @@
     "url": "https://www.youtube.com/watch?v=EoYbxLNccE0"
     },
   {
-    "id": "seed-172",
+    "id": "seed-176",
     "title": "Wędrowiec",
     "author": "Autor: Jarosław Zajączkowski Wykonawca : Krewni i Znajomi Królika",
     "category": "piosenka",
@@ -1719,7 +1759,7 @@
     "url": "https://www.youtube.com/watch?v=uZpVRvVUOYQ"
     },
   {
-    "id": "seed-173",
+    "id": "seed-177",
     "title": "Wędrują ludzie",
     "author": "Saskia",
     "category": "piosenka",
@@ -1729,7 +1769,7 @@
     "url": "https://www.youtube.com/watch?v=IhrnzC-XJhI"
     },
   {
-    "id": "seed-174",
+    "id": "seed-178",
     "title": "Wędrujemy",
     "author": "Na Bani",
     "category": "piosenka",
@@ -1739,7 +1779,7 @@
     "url": "https://www.youtube.com/watch?v=si1r7UeakqY"
     },
   {
-    "id": "seed-175",
+    "id": "seed-179",
     "title": "Wieczorna Piosenka o domu",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -1749,7 +1789,7 @@
     "url": "https://www.youtube.com/watch?v=0fZD6HdGysE"
     },
   {
-    "id": "seed-176",
+    "id": "seed-180",
     "title": "Wieczór",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -1759,7 +1799,7 @@
     "url": "brak"
     },
   {
-    "id": "seed-177",
+    "id": "seed-181",
     "title": "Wielorybnicy Grenlandzcy",
     "author": "wyk. Ryczące Dwudziestki",
     "category": "piosenka",
@@ -1769,7 +1809,7 @@
     "url": "https://www.youtube.com/watch?v=CbsRtkZRYQE"
     },
   {
-    "id": "seed-178",
+    "id": "seed-182",
     "title": "Wiewiórka",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -1779,7 +1819,7 @@
     "url": "https://www.youtube.com/watch?v=uyx6_vZLBaQ"
     },
   {
-    "id": "seed-179",
+    "id": "seed-183",
     "title": "Wiosna",
     "author": "Maciej Służała",
     "category": "piosenka",
@@ -1789,7 +1829,7 @@
     "url": "https://www.youtube.com/watch?v=dmZzOOXruKk"
     },
   {
-    "id": "seed-180",
+    "id": "seed-184",
     "title": "W drodze do marzeń",
     "author": "Tomek Jarmużewski",
     "category": "piosenka",
@@ -1799,7 +1839,7 @@
     "url": "https://www.youtube.com/watch?v=FtRYQRUSF58"
     },
   {
-    "id": "seed-181",
+    "id": "seed-185",
     "title": "W marcu nad ranem",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -1809,7 +1849,7 @@
     "url": "https://www.youtube.com/watch?v=b9_bZ3sCJ9M"
     },
   {
-    "id": "seed-182",
+    "id": "seed-186",
     "title": "W górach",
     "author": "sł. W. Benkoff-Czarnocki, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -1819,7 +1859,7 @@
     "url": "https://www.youtube.com/watch?v=b9zL_CLbHGg"
     },
   {
-    "id": "seed-183",
+    "id": "seed-187",
     "title": "Wiatr i Strzyga",
     "author": "Krążek. Maciej Służała",
     "category": "piosenka",
@@ -1829,7 +1869,7 @@
     "url": "https://www.youtube.com/watch?v=mLLWPAxr6Nw"
     },
   {
-    "id": "seed-184",
+    "id": "seed-188",
     "title": "Wracanie",
     "author": "Na Bani",
     "category": "piosenka",
@@ -1839,7 +1879,7 @@
     "url": "https://www.youtube.com/watch?v=YY2OOHZiFLc"
     },
   {
-    "id": "seed-185",
+    "id": "seed-189",
     "title": "W lesie listopadowym",
     "author": "sł. Jerzy Harasymowicz, muz. Andrzej Koczewski, Zbigniej Bogdański",
     "category": "piosenka",
@@ -1849,7 +1889,7 @@
     "url": "https://www.youtube.com/watch?v=-dm8tO9jpnI"
     },
   {
-    "id": "seed-186",
+    "id": "seed-190",
     "title": "W liniach losu zapisane",
     "author": "Michał Łangowski, Martin Kac, słowa Wiesława Kwinto Koczan",
     "category": "piosenka",
@@ -1859,7 +1899,7 @@
     "url": "https://www.youtube.com/watch?v=SONpTqGOMlE"
     },
   {
-    "id": "seed-187",
+    "id": "seed-191",
     "title": "W naszym niebie",
     "author": "Cisza jak ta, sł i muz: Michał Łangowski",
     "category": "piosenka",
@@ -1869,7 +1909,7 @@
     "url": "https://www.youtube.com/watch?v=eoaOSlGtBZk"
     },
   {
-    "id": "seed-188",
+    "id": "seed-192",
     "title": "W zakątku cmentarza",
     "author": "SDM, Stare Dobre Małżeństwo, sł. Bolesław Leśmian",
     "category": "piosenka",
@@ -1879,7 +1919,7 @@
     "url": "http://youtube.com/watch?v=gVYl7yXD5rg"
     },
   {
-    "id": "seed-189",
+    "id": "seed-193",
     "title": "Zabierz mnie wielka rzeko",
     "author": "Wykonawca: Atlantyda, Słowa i muzyka: Sławomir Klupś",
     "category": "piosenka",
@@ -1889,7 +1929,7 @@
     "url": "https://www.youtube.com/watch?v=2Jp8ymM3mhw"
     },
   {
-    "id": "seed-190",
+    "id": "seed-194",
     "title": "Zamieszkamy pod wspólnym dachem",
     "author": "Pod Budą, Andrzej Sikorowski",
     "category": "piosenka",
@@ -1899,7 +1939,7 @@
     "url": "https://www.youtube.com/watch?v=fZjtF_ftxHU"
     },
   {
-    "id": "seed-191",
+    "id": "seed-195",
     "title": "Zapiszę śniegiem w kominie",
     "author": "Robert Kasprzycki",
     "category": "piosenka",
@@ -1909,7 +1949,7 @@
     "url": "https://www.youtube.com/watch?v=67ItgpSy5cM"
     },
   {
-    "id": "seed-192",
+    "id": "seed-196",
     "title": "Zawirował świat",
     "author": "K. Myszkowski, SDM, Stare Dobre Małżeństwo",
     "category": "piosenka",
@@ -1919,7 +1959,7 @@
     "url": "https://www.youtube.com/watch?v=zRlNAtUOO_8"
     },
   {
-    "id": "seed-193",
+    "id": "seed-197",
     "title": "Zgubione marzenia",
     "author": "sł. Elżbieta Żołnierz, muz. Wojciech Jarociński",
     "category": "piosenka",
@@ -1929,7 +1969,7 @@
     "url": "https://www.youtube.com/watch?v=viZon4Y-ZHY"
     },
   {
-    "id": "seed-194",
+    "id": "seed-198",
     "title": "Zielona miłość",
     "author": "Nieznany",
     "category": "piosenka",
@@ -1939,7 +1979,7 @@
     "url": "https://www.youtube.com/watch?v=RaQe0HhnD6A"
     },
   {
-    "id": "seed-195",
+    "id": "seed-199",
     "title": "Zielony dom",
     "author": "Stare Dobre Małżeństwo",
     "category": "piosenka",
@@ -1949,7 +1989,7 @@
     "url": "https://www.youtube.com/watch?v=tX03K95MYIE"
     },
   {
-    "id": "seed-196",
+    "id": "seed-200",
     "title": "Zima",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -1959,7 +1999,7 @@
     "url": "https://www.youtube.com/watch?v=vJeaEQhab4A"
     },
   {
-    "id": "seed-197",
+    "id": "seed-201",
     "title": "Złockie  niebo cerkiewne",
     "author": "sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski",
     "category": "piosenka",
@@ -1969,7 +2009,7 @@
     "url": "https://www.youtube.com/watch?v=gF1YvlE1tTs"
     },
   {
-    "id": "seed-198",
+    "id": "seed-202",
     "title": "Znalazłem siebie",
     "author": "Dom o Zielonych Progach",
     "category": "piosenka",
@@ -1979,7 +2019,7 @@
     "url": "https://www.youtube.com/watch?v=XfxJ5wPSNUU"
     },
   {
-    "id": "seed-199",
+    "id": "seed-203",
     "title": "Znów bijatyka",
     "author": "EKT Gdynia",
     "category": "piosenka",
@@ -1989,7 +2029,7 @@
     "url": "https://www.youtube.com/watch?v=5ORpNPSe9q4"
     },
   {
-    "id": "seed-200",
+    "id": "seed-204",
     "title": "Znów wędrujemy",
     "author": "Grzegorz Turnau",
     "category": "piosenka",
@@ -1999,7 +2039,7 @@
     "url": "https://www.youtube.com/watch?v=bf8hm3GixuA"
     },
   {
-    "id": "seed-201",
+    "id": "seed-205",
     "title": "Zwiewność",
     "author": "Bez Jacka",
     "category": "piosenka",
@@ -2009,7 +2049,7 @@
     "url": "https://www.youtube.com/watch?v=DqGgRIYWPws"
     },
   {
-    "id": "seed-202",
+    "id": "seed-206",
     "title": "Żegluj",
     "author": "Mechanicy Shanty",
     "category": "piosenka",
@@ -2019,7 +2059,7 @@
     "url": "https://www.youtube.com/watch?v=fAYGJ-RerYQ"
     },
   {
-    "id": "seed-203",
+    "id": "seed-207",
     "title": "Życzenia powrotu",
     "author": "Wykonawca: EKT Gdynia, Słowa: Ireneusz Wójcicki, Muzyka: Jan Wydra",
     "category": "piosenka",
