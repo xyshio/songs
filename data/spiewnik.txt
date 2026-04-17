@@ -3694,6 +3694,56 @@ Wędrowny grajek ubogi.
 Hej, Panie Boże…
 URL::https://www.youtube.com/watch?v=8TgkOZJebYs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Modrzewie - sł. Robert Marcinkowski 99 / muz.Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+4/4
+A / G D / A / C D* / A / G D / C* G / A G A
+A / G D / A / C D* 
+Nad przełęczą, gdzie czas się zatrzymał,
+A / G D / A / C* G
+pory roku splecione wędrują.
+E fis / D A
+Z lewej wiosna, uparcie niejasna,
+E fis / D / C* E
+E
+jak w domyśle – we mgłach
+we mgłach i modrzewiach.
+
+A / G D / A / C D* / A / G D / A / C* G // A / G D / A / G D
+A / G D / A / C D* 
+Z prawej zima: oszronione biele
+A / G D / A / C* G
+w czerni lasu i cień lodowaty.
+E fis 
+Wewnątrz jesień.
+D A
+Czas z Nią się pogodzić...
+E fis / D / C* E
+E
+Ach, rudo prześwietlone –
+rude modrzewie!
+
+A / G D / A / C D* / A / G D / A / C* G // A / G D / A / G D
+A / G D / A / C D* 
+Znad przełęczy widzę całe życie
+A / G D / A / C* G
+jak na dłoni – wśród łagodnych stoków.
+E fis 
+W resztkach wzruszeń *
+D A
+i w trawach nagrzanych,
+E fis / D / C* E
+E
+wbrew logice tańczy moje –
+tańczy moje lato.
+A / G D / A / C D* / A / G D / A / C* G
+bis od *
+A / G D / A / C D* / A / G D /
+C* G x3 A G A
+C*: pochód basowy c, h, a, gD*: 030450
+
+URL::https://youtu.be/O-_Kgfx1EDA
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Mona - EKT Gdynia, Peegy Seeger
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Ref:
@@ -5937,7 +5987,7 @@ Niech gdzieś zabłądzą w sinej mgle
 i wrócić nie potrafią.
 My w przytuleniu trwajmy tak
 jak ramka z fotografią.
-URL::https://www.youtube.com/watch?v=JLMj4Y_W_PM
+URL::https://www.youtube.com/watch?v=puV6AXREmDE
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Przypowieść - Maciej Służała, Krążek
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -7030,13 +7080,13 @@ Do chmury lecącej modły         /h7 A G A G A D
 
 I świerszcz stuka w parapet
 Rogu zielonym patykiem
-Pod Twe chorągwie Modrzewia
+Pod Twe chorągwie modre
 Ja podłozyłem muzykę            /D G C5 G //2x
 
 Ref:
 Wierzba - dom mój strzyżony         /e G
 Tu słuchać tylko świerszcza trzeba  /D A
-Do góry nogai czytam                /e fis7
+Do góry nogami czytam               /e fis7
 Wielką gazetę nieba                 /h7 A G A G A D
                                     /G h7 A D G h7 A G    
 
@@ -7065,11 +7115,11 @@ Wypalone zbiera gromy
 Ref:
 Wierzba - dom mój strzyżony         /e G
 Tu słuchać tylko świerszcza trzeba  /D A
-Do góry nogai czytam                /e fis7
+Do góry nogami czytam               /e fis7
 Wielką gazetę nieba                 /h7 A G A G AD
                                     /G h7 A D G h7 A G    
 
-URL::brak
+URL::https://www.youtube.com/watch?v=DfROIfAitts
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Wielorybnicy Grenlandzcy - wyk. Ryczące Dwudziestki
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -7615,6 +7665,42 @@ Każde z nas ma dziś tylko dla siebie
 Tysiąc listów strawił pieca żar
 W tym dwieście pięćdziesiąt od ciebie
 URL::https://www.youtube.com/watch?v=zRlNAtUOO_8
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Zawrócić - słowa: Wiesława Kwinto - Koczan, muzyka: Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+cis         H7           A7
+Za cugle trzeba złapać czas,
+    cis      H7       A7
+do tyłu mu wykręcić głowę.
+cis        H        A7      E
+Zawrócić, żeby jeszcze raz
+fis                       Gis
+do szczęścia znaleźć swą podkowę.
+
+cis         H7           A7
+Spieniony w biegu czasu pysk
+    cis      H7       A7
+zanurzyć w chłodną wodę,
+cis        H        A7      E
+iskier spod kopyt złoty błysk
+       fis gis  A  H7         cis H7 A7...
+niech wróżbą będzie na pogodę.
+
+A7         E             A7           E
+Popasów kilka wstecz, zakrętów losu kilka,
+A7         E               fis        Gis7
+poprawić każdą rzecz, wystarczy tylko chwilka.
+
+Popasów kilka...
+
+Rozwianą grzywę chwycić w dłonie
+i choć się spadło już nie raz,
+spróbować - jak spłoszone konie,
+zatrzymać ten pędzący czas.
+
+Popasów kilka...
+
+URL::https://www.youtube.com/watch?v=zqqQrYqkEQk
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Zgubione marzenia - sł. Elżbieta Żołnierz, muz. Wojciech Jarociński
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =

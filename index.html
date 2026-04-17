@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <title>SongWebBook</title>
+  <title>Śpiewnik Pozbierane Piosenki</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <nav class="navbar">
     <div class="container navbar-inner">
-      <a class="brand" href="javascript:void(0)" id="brandLink">🎵 pozbierane</a>
+      <a class="brand" href="javascript:void(0)" id="brandLink" onclick="setClear()">🎵 pozbierane</a>
       <div class="nav-actions" id="navActions"></div>
     </div>
   </nav>
@@ -98,7 +98,7 @@
     <div id="playerForPlaylist">
       <div class="yt-wrap">
         <iframe
-          src="https://www.youtube.com/embed/dIm0DGfBhlo?playlist=dIm0DGfBhlo,OwApQmS7GIY,PewEmV5mEtU,FK697msg2oQ,QtTBx70yICE,AT5_tEjTH4o,5SutbiSD9RU"
+          src="https://www.youtube.com/embed/dIm0DGfBhlo?playlist=PewEmV5mEtU,FK697msg2oQ,QtTBx70yICE,AT5_tEjTH4o,5SutbiSD9RU"
           title="YouTube Playlista"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -110,7 +110,7 @@
 
   <footer class="footer">
     <div class="container">
-      <a href="javascript:void(0)" onclick="setClear()" style="text-decoration:none">song</a>-<a href="javascript:void(0)" onclick="setMode()" style="text-decoration:none">web</a>-<a href="javascript:void(0)" onclick="setModeOff()" style="text-decoration:none">book</a>
+      <a href="javascript:void(0)" onclick="setClear()" style="text-decoration:none">pozbierane</a>-<a href="javascript:void(0)" onclick="setMode()" style="text-decoration:none">piosenki</a>-<a href="javascript:void(0)" onclick="setModeOff()" style="text-decoration:none">book</a>
     </div>
   </footer>
 
@@ -154,6 +154,8 @@
     let currentPage  = 1;
     let perPage      = 8;
     let currentViewId = null; // id aktualnie oglądanego/edytowanego wpisu
+
+    
 
     // ===== NAWIGACJA =====
     function showPage(name) {
@@ -204,7 +206,29 @@
     function showList() {
       showPage('list');
       refreshData();
-      document.title = 'SongWebBook';
+      document.title = 'Śpiewnik Pozbierane Piosenki';
+    }
+
+    function loadPlaylistToBottomPlayer() {
+      const playlistItem = allItems.map(item => item.url && getUrMovieId(item.url));
+      const playlistItemValids = playlistItem.filter(item => item !== undefined);
+      // Fisher-Yates shuffle – random order each time
+      for (let i = playlistItemValids.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [playlistItemValids[i], playlistItemValids[j]] = [playlistItemValids[j], playlistItemValids[i]];
+      }
+        console.log(`result (shuffled): `, playlistItemValids)
+      
+      if (playlistItemValids.length) {
+        const ids = playlistItemValids.join(',');
+        loadPlaylist(ids);
+      } else {
+        $('#playerForPlaylist').empty();
+      }
+    }
+
+    function getUrMovieId(movieUrl) {
+      return movieUrl.split('watch?v=')[1];
     }
 
     function renderPagination(totalPages, totalItems, start, end) {
@@ -269,7 +293,7 @@
     }
 
     function refreshData() {
-      apiGetAll((items) => { allItems = items; renderList(); buildPlaylistLinker(); });
+      apiGetAll((items) => { allItems = items; renderList(); buildPlaylistLinker(); loadPlaylistToBottomPlayer(); });
     }
 
     // ===== WIDOK: PODGLĄD =====
@@ -526,7 +550,7 @@
     // ===== INIT =====
     $(function () {
       // Nawigacja globalna
-      $('#brandLink').on('click', showList);
+      //$('#brandLink').on('click', showList);
       $('#backToListBtn').on('click', showList);
       $('#backFromFormBtn').on('click', function () { currentViewId ? showView(currentViewId) : showList(); });
       $('#cancelFormBtn').on('click',   function () { currentViewId ? showView(currentViewId) : showList(); });
@@ -677,6 +701,7 @@
       // Start — załaduj dane i pokaż listę
       ensureDataReady(function () {
         showList();
+        
       });
     });
   </script>
