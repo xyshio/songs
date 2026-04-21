@@ -9,7 +9,7 @@
 <body>
   <nav class="navbar">
     <div class="container navbar-inner">
-      <a class="brand" href="javascript:void(0)" id="brandLink" onclick="setClear()">🎵 pozbierane</a>
+      <a class="brand" href="javascript:void(0)" id="brandLink">🎵 pozbierane</a>
       <div class="nav-actions" id="navActions"></div>
     </div>
   </nav>
@@ -551,7 +551,14 @@
     // ===== INIT =====
     $(function () {
       // Nawigacja globalna
-      //$('#brandLink').on('click', showList);
+      $('#brandLink').on('click', function () {
+        const key = $('#dataSourceSelect').val() || getCurrentSource();
+        switchDataSource(
+          key,
+          function () { showToast('Dane odświeżone.', 'success'); showList(); },
+          function (err) { showToast(err.message || 'Błąd ładowania danych.', 'error'); }
+        );
+      });
       $('#backToListBtn').on('click', showList);
       $('#backFromFormBtn').on('click', function () { currentViewId ? showView(currentViewId) : showList(); });
       $('#cancelFormBtn').on('click',   function () { currentViewId ? showView(currentViewId) : showList(); });

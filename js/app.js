@@ -12,9 +12,11 @@ const SOURCE_KEY   = 'songs_library_source';
 // Aby dodać nowe źródło — dopisz wpis do tej tablicy.
 // =====================================================
 const DATA_SOURCES = [
-  { key: 'songs',  label: 'Piosenki Wybrane' },
-  { key: 'songs_wojciech_sobieski', label: 'Piosenki Spiewnik Wojciech Sobieski' },
-  { key: 'songs_all', label: 'Wszystkie' }
+  { key: 'spiewnik_txt', label: 'Piosenki Wybrane', type: 'txt', file: 'data/spiewnik.txt' },
+  //{ key: 'songs',  label: 'Piosenki Wybrane' },
+  { key: 'songs_wojciech_sobieski', label: 'Piosenki Spiewnik Wojciech Sobieski' }
+  //{ key: 'songs_all', label: 'Wszystkie' },
+  
 ];
 
 function getDataSources() {
@@ -50,7 +52,82 @@ function storageSave(items) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
 }
 
+function parseTxtToItems(text) {
+  const SEP = '= = = =';
+  const lines = text.split('\n');
+  const items = [];
+  let i = 0;
+  let id = 1;
+
+  function isSep(line) { return line.includes(SEP); }
+  function decode(s) {
+    const ta = document.createElement('textarea');
+    ta.innerHTML = s || '';
+    return ta.value;
+  }
+
+  while (i < lines.length) {
+    if (!isSep(lines[i])) { i++; continue; }
+
+    const titleLine = (lines[i + 1] || '').trim();
+    if (titleLine.startsWith('END::')) break;
+
+    let title = '', author = '';
+    if (titleLine.startsWith('TITLE:')) {
+      const val = titleLine.replace('TITLE:', '').trim();
+      const dashIdx = val.indexOf(' - ');
+      if (dashIdx !== -1) {
+        title  = val.slice(0, dashIdx).trim();
+        author = val.slice(dashIdx + 3).trim();
+      } else {
+        title = val;
+      }
+    }
+
+    i += 2;
+    while (i < lines.length && !isSep(lines[i])) i++;
+    i++;
+
+    const contentLines = [];
+    let url = '';
+    while (i < lines.length && !isSep(lines[i])) {
+      const line = decode(lines[i]).trimEnd();
+      if (line.startsWith('URL::')) {
+        url = line.replace('URL::', '').trim();
+      } else {
+        contentLines.push(line);
+      }
+      i++;
+    }
+
+    while (contentLines.length && contentLines[0].trim() === '') contentLines.shift();
+    while (contentLines.length && contentLines[contentLines.length - 1].trim() === '') contentLines.pop();
+
+    if (title) {
+      items.push({
+        id: 'txt-' + (id++),
+        title,
+        author,
+        category: 'piosenka',
+        content: contentLines.join('\n'),
+        ...(url ? { url } : {})
+      });
+    }
+  }
+
+  return items;
+}
+
 function fetchDataFile(key) {
+  const source = DATA_SOURCES.find(s => s.key === key);
+  if (source && source.type === 'txt') {
+    return fetch(source.file, { cache: 'no-store' })
+      .then((response) => {
+        if (!response.ok) throw new Error('Nie udało się wczytać pliku TXT.');
+        return response.text();
+      })
+      .then((text) => parseTxtToItems(text));
+  }
   return fetch(getDataFilePath(key), { cache: 'no-store' })
     .then((response) => {
       if (!response.ok) {

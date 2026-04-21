@@ -5430,6 +5430,30 @@ W purpurowej filiżance czekam wiosny.
 Nic do marzeń...
 URL::https://www.youtube.com/watch?v=AT5_tEjTH4o
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Piosenka Wieczorem - Bez Zobowiązań. sł. Robert Marcinkowski, muz: Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+a G F G
+a        G                 F            G
+Gdy nad dachami szukasz gwiazdy spadającej
+a            G            F               G
+Krótszą od Twojej drogą spada gwiazda każda
+F           G            C                F
+Czy życie swe wyszepczesz zanim wzejdzie słońce
+d                      E                  a G F G
+W dół po policzku sunie spadająca gwiazda 
+
+Gdy nad dachami szukasz w słońcu złotej ciszy
+Milczenie złotem staje się niepostrzeżenie
+Choć samą prawdę milczysz, w dole Cię nie słyszą
+Samotne złoto bywa ciężkie jak milczenie
+
+Na zachmurzonym niebie jak w spojrzeniu drżącym
+Maleńka gwiazda błyszczy jak ukłucie prawdy
+Dzień mija szepczesz słowa, wstają nowe słońca
+W dół po policzku sunie spadająca gwiazda 
+
+URL::https://www.youtube.com/watch?v=W8C3KZKAz4M
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Piosenka Wiosenna - Wolna Grupa Bukowina
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Zagram dla ciebie na każdej gitarze świata          a e F G
@@ -6075,6 +6099,38 @@ Jutro znów wypłynę, bo odkryłem
 Morze, wiatr, żeglarską, starą pieśń.
 
 URL::https://www.youtube.com/watch?v=f_C75NzNdxo
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Przetłumacz mi na dzwięki - Bez Zobowiązań. sł. Wuka, muz. G.Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Przetłumacz mi na dzwięki
+Przedwieczorną ciszę
+Co w czerwieni zachodu
+W powietrzu zastygły
+Najmniejszym źdźbłem trawy 
+Nawet nie kołysze
+
+Przetłumacz mi na dzwięki
+Cieszę przedświtania
+Co zza ścian ciemności
+I sennych omamów
+Krztałty drzew i horyzont
+Powoli wyłania
+
+Przetłumacz mi na dzwięki
+Tę zimową ciszę
+Co pod białym całunem
+Na zmarznietej ziemi 
+I na szybach okien
+Swe ikony pisze
+
+Przetłumacz mi na dzwięki
+Tę zimową ciszę
+Co pod białym całunem
+Na zmarznietej ziemi 
+I na szybach okien
+Swe ikony pisze
+
+URL::https://www.youtube.com/watch?v=osh5pCQiBdQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Przytuj mnie proszę - sł. Wuka, muz. G.Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -7302,7 +7358,7 @@ I jak dawniej dawać będziesz radość ludziom
 Co uciekną się pod twą obronę
 URL::https://www.youtube.com/watch?v=0fZD6HdGysE
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Wieczór - sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
+TITLE: Wieczór - Bez Zobowiązań. sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Na rozstaju dom się zasiał      /D G
 Tu zielone deski rosły          /h7 A
@@ -8081,7 +8137,7 @@ I niech nasz pocałunek zimo
 Gilem w lasy uleci
 URL::https://www.youtube.com/watch?v=0UZytWF6-Q0
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Złockie  niebo cerkiewne - sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
+TITLE: Złockie niebo cerkiewne - Bez Zobowiązań. sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 D         C5      G  D G     fis7     h    A7    
 W dziupli ikon drzemią bezrobotni prorocy
@@ -8109,7 +8165,7 @@ Któż zatrzyma w jego jastrzębim locie słońce Łemków
 Któż zatrzyma ich mają buczącą jak trzmiel ziemię
 
 Jest tam i księżyc z bródką chudy jak diasek
-URL::https://www.youtube.com/watch?v=gF1YvlE1tTs
+URL::https://www.youtube.com/watch?v=_aMM5i4GaX4
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Znalazłem siebie - Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -8271,6 +8327,8 @@ I w tawernianym dymie opowieść będzie snuł,
 A potem znów wypłynie, my zostaniemy tu.
 URL::https://www.youtube.com/watch?v=_We1fGCj9N8
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+END::
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 TODO::
 [DONE] Szałasolot
@@ -8280,6 +8338,10 @@ TODO::
 [DONE] Chatka [Lepsza wersja]
 [DONE] Prawda [Lepsza wersja]
 [DONE] Zima [Lepsza wersja]
+[DONE] 01.Złockie niebo cerkiewne [Lepsza wersja]
+[DONE] 04.Przetłumacz mi na dzwięki przedwieczorną ciszę
+[DONE] 07.Piosenka Wieczorem
+[DONE] 11.Czekaj mnie - Bez zobowiązań, sł. Simonow Konstantin, muz. Grzegorz Śmiałowski
 
 Zgasłej
 kocham Cie zimo
@@ -8293,20 +8355,13 @@ O powrocie pociągiem
 Barwy zimy
 Idzie Idzi
 
-= = = = = = = = = = = = = = = = = = = = = = = = 
-I wciąż bez.
-= = = = = = = = = = = = = = = = = = = = = = = = 
-01.Złockie niebo cerkiewne [Lepsza wersja]
 02.Niewiele drogi
 03.Sanem [Lepsza wersja]
-04.Przetłumacz mi na dzwięki przedwieczorną ciszę
 05.Steskniłem się
 06.Renety
-07.Piosenka Wieczorem
 08.Hiszpańska Dusza
 09.List
 10.Wieczorna Chandra
-[DONE] 11.Czekaj mnie - Bez zobowiązań, sł. Simonow Konstantin, muz. Grzegorz Śmiałowski
 12.Złote Banie
 13.Ballada o stole
 14.Góry jak dom
