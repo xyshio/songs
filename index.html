@@ -523,7 +523,7 @@
       const $linker = $('#playlistLinker').empty();
       playlistKeys.forEach(function (key, idx) {
         const q = key.toLowerCase();
-        const ids = allItems
+        let ids = allItems
           .filter(function (item) {
             const hay = (item.title + ' ' + (item.author || '') + ' ' + (item.content || '')).toLowerCase();
             return hay.includes(q);
@@ -532,6 +532,7 @@
           .filter(Boolean);
 
         if (!ids.length) return;
+        ids = ids.slice().sort(function () { return Math.random() - 0.5; });
         const $a = $('<a>', {
           href: 'javascript:void(0)',
           text: key

@@ -1138,7 +1138,7 @@ Może miną świat mych smutków.  /a7 G
 Móc nie słuchać cudzych rad... /G
 URL::https://www.youtube.com/watch?v=Yteu2vZYgMs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Chatka II - sł. Bochenek, muz. Grzegorz Śmiałowski
+TITLE: Chatka - Bez Zobowiązań. sł. Bochenek, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 A2                          h
 Będę odchodził i na pewno wrócę
@@ -1163,7 +1163,7 @@ Będę odchodził i wrócę niebawem
 Do was przyjaciół w tej starej chacie
 Powiemy sobie, co z dawna dawien
 Spisali ludzie w poufny pacierz
-URL::https://www.youtube.com/watch?v=SvmoT_rC8tQ
+URL::https://www.youtube.com/watch?v=xG_DuEFHKUw
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Cicho powiedziane - Krzysztof Gabłoński
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -1187,7 +1187,7 @@ Tutaj chleb smakuje tak jak nigdzie, tak jakoś inaczej
 Nie mów stary ja to wiem, nie potrzeba mi żadnych tłumaczeń
 Żona, dzieci, samochód, tak to bywa
 10 lat, nie ważne nalej piwa
-URL::https://www.youtube.com/watch?v=nTs-QwIUeKs
+URL::https://www.youtube.com/watch?v=tck62vRWsVs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Chłopcy z Botany Bay - Mietek Folk
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -1500,6 +1500,40 @@ Iluzja, przepaść, wątła nić
 Ostrożnie stawiaj kroki!
 URL::https://www.youtube.com/watch?v=c4Xz51f-VFk&t=16s
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Czekaj mnie - Bez Zobowiązań, sł. Simonow Konstantin, muz. Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+E        A2 h7 A         E   A2            h7 A
+Czekaj mnie, a wrócę zdrów, tylko czekaj mnie 
+E        A2 h7 A         E   A2            h7 A
+Gdy przekwitną kiście bzów, gdy naprószy śnieg 
+
+fis            A          cis               H7
+Czekaj, gdy kominek zgasł, żar w popiele znikł. 
+fis            A          cis               H7
+Czekaj, gdy nikogo z nas, Już nie czeka nikt, 
+fis            A               cis               H7
+Czekaj, gdy po przejściu burz, nie nadchodzi wieść, 
+fis           A           C      D      E    
+Czekaj, gdy czekania już, niepodobna znieść. 
+
+Czekaj mnie, a wrócę zdrów, i nie pytaj gwiazd 
+I nie słuchaj trzeźwych słów, Że zapomnieć czas 
+
+Niech opłaczą matka, syn, Gdy zaginie słuch 
+Gorzkie wino w domu mym, niech rozleje druh 
+Za mój cichy wieczny sen, kielich pójdzie w krąg 
+Czekaj- i po kielich ten, nie wyciągaj rąk. 
+
+Czekaj mnie a wrócę zdrów, Śmierci mej na złość. 
+Ten zaklaszcze, tamten znów, krzyknie - co za gość
+
+Jak doprawdy pojąć im, Że we krwawej mgle 
+Ty czekaniem cichym swym, ocaliłaś mnie. 
+Ot i sekret, ot i znak, co w sekrecie tkwi 
+Że umiałaś czekać tak, jak nie czekał nikt. 
+
+URL::https://www.youtube.com/watch?v=24SPdQrlUmw
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Czom ty ne pryjszoł - Muzyka Łemkowska - Dom o Zielonych Progach
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Czom ty ne pryjszoł         a
@@ -1587,7 +1621,7 @@ F              G      C
 Dama kier i pikowy król
 
 Ref.:
-URL::brak
+URL::https://www.youtube.com/watch?v=SBX48T0-7zM
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Deszcz, jesienny deszcz - Czerwone Gitary, sł. Marian Matuszkiewicz, muz: Nieznany
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -3742,7 +3776,7 @@ A / G D / A / C D* / A / G D /
 C* G x3 A G A
 C*: pochód basowy c, h, a, gD*: 030450
 
-URL::https://youtu.be/O-_Kgfx1EDA
+URL::https://www.youtube.com/watch?v=o9jdHZA9PXY
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Mona - EKT Gdynia, Peegy Seeger
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -4975,6 +5009,96 @@ i wtedy brachu tak możesz rzec że zejman z ciebie i chwat
 trzykrotnie już okrążyłeś Horn i pływasz od wielu lat.
 URL::https://www.youtube.com/watch?v=G8yuuLYvBkI
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Pani J. - Bez Zobowiązań, sł. Robert Marcinkowski '86, muz. Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+D G x3 D 4
+D G x3 A G
+D     G  D         G          D
+Jeśli na nic już więcej nie liczysz,
+        e6 h7        e6 h7         A G A 
+jeśli wiesz, że już wszystko skończone,
+       D     G x3            A G G
+jeśli uciec chcesz pustą ulicą
+         e6 h7                        G A 
+od swej własnej tęsknoty za domem
+D G D C5 / D G D4 – 
+
+    Fis7     h7               G        A  A
+to wpadnij kiedyś, przecież trzeba pogadać
+D7+           
+przy herbacie. 
+Fis7         h7 
+Przyrzekam, nie powiem
+G7 A7
+ani słówka ironii o babach
+       B7  A7
+i trwałości babskich postanowień.
+D G D C5 / D G D 4
+D G x3 A G G
+Gdy ci na nic spełnienia i pełnie,
+e6 h7 e6 h7 A G A 
+gdy ci wszystko nie w smak i nie w porę,
+D G x3 A G
+G
+gdy tak trzeba – ruszajmy oddzielnie.
+e6 h7 G A 
+Wybór twój jest i moim wyborem.
+Ref:
+Jednak - wpadnij kiedyś, przecież trzeba pogadać...
+
+D G x3 A G
+G
+Gdy nie zniesiesz pustelniczej skorupy
+e6 h7 e6 h7 A G A 
+i zwariujesz i głosem Kasandry
+D G x3 A G
+G
+krzykniesz: Zginę i wieki nie wrócę! –
+e6 h7 G A 
+i gdy minie już wieczność i chandra –
+
+Ref: wpadnij kiedyś, przecież trzeba pogadać...
+
+URL::https://www.youtube.com/watch?v=AtzAJe9mHhY
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Pastorałka z królami - Bez Zobowiązań, sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Przyjechali trzej królowie jutra                            /G C5 D
+Przyjechali turyści w bobrowych futrach                     /C5 D
+Kamizele w rajskie kwiaty / Każdy był i był bogaty          /C5 D
+Powiali cylindrami / Zakurzyli Wartburgami                  /G C5 D
+Zakurzyli Wartburgami                                       /G C5 D
+
+Chcieli nabyć Narodzenie                                    /G C5 D
+Zapytali w jakiej cenie                                     /C5 D
+Razem z górami z gwiazdą / z wszystkim szałas kupić chcieli /C5 D
+Niedźwiedziowie się zaśmieli                                /G C5 D
+Niedźwiedziowie się zaśmieli                                /G C5 D
+
+Poszli z nimi na przechadzkę / Szli jedlami ciemnym laskiem /a C a C 
+Zapytali niedźwiedziowie / Jak Wam nie wstyd świat kupować? /G C5 D C5 D
+Las leluje / las leluje
+
+A królowie że dziś takie są zwyczaje                        /e D
+Że niewielkie kraiki kupuje się jak kramiki                 /e D
+Razem z chorągiewką / I świętojańskim chlebem               /C D
+I świętojańskim chlebem                                     /G C5 D
+
+A miśki się zbuntowały / Króle trochę spopychały
+Pozbierali ich potem / I wysłali za zwrotem
+I wysłali za zwrotem
+
+A za ten dukatowy / papir złoty porzucony
+Maria futra se kupiła / Święty Józef pantalony
+Zbudowali w górach pensjonat Pod Gwiazdą
+Mieli kadilak kremowy / I wylęgarnię aniołów własną
+I wylęgarnię aniołów własną
+
+A niedźwiedzie spały i spały do wiosny
+A niedźwiedzie spały do wiosny
+
+URL::https://www.youtube.com/watch?v=SenseLiTppA
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Październik, Jesień - sł. Andrzej Bursa
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 //Przez złoty park mój pies kosmaty goni
@@ -6179,6 +6303,39 @@ Od Beskidu wiosna idzie...
 
 URL::https://www.youtube.com/watch?v=j_vJO9NkXhs
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Róże na tapecie - sł. Wojciech Jarociński, muz: Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Co robić powiedz Pan
+Znów nam nie wyszła gra
+Jak ukoić ból, 
+Złamał serce Król Dzwonkowy
+Nie dał mi żadnych szans
+Czerdziesty siódmy As
+Z sercem co na pół
+Ruszam w drogę z bólem głowy
+
+Ref:
+Wielki Król małych ról
+W kawiarnianych śmieciach
+W głowie zwariowany jazz
+Stały ląd, krem do rąk
+Róże na tapecie
+Sezonowy zycia stress
+
+Co robić powiedz sam
+Sypie się marzeń kram
+W sercu ostry nóż
+Kłody zwiędłych róż pod nogi
+Na nic mi gorzkie łzy
+Nie zmienię metod gry
+Wszystko mówi że, 
+Czas szykować się do drogi
+
+Ref:
+Wielki Król małych ról
+
+URL::https://www.youtube.com/watch?v=M3BEF9FQuQ8
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Rzeka - Wolna Grupa Bukowina
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Wsłuchany w twą cichą piosenkę 			C F7+ C F7+
@@ -6323,7 +6480,7 @@ Sanem niosąc mgły dolinie       /a e D C
 Sanem czas mój życia płynie     /G D C //h7...
 
 Sanem Twym zauroczeniem
-Olszy w chłodzie, benia mgnieniu
+Olszy w chłodzie, tlena mgnieniu
 Samem moim zasłuchaniem
 W szumie plusku, wodobrzmieniu
 
@@ -6544,6 +6701,27 @@ Rolling, rolling to Stavanger – rolling to Stavanger, roll and go
 Rolling, rolling to Stavanger – rolling to Stavanger, rolling
 Rolling, rolling to Stavanger – rolling to Stavanger, roll and go
 URL::https://www.youtube.com/watch?v=-8NJkB5LYpQ
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Szałasolot - Bez Zobowiązań, sł. Robert Marcinkowski, muz. Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+G D C9 G    Przed zaklęsłą stromizną urwiska
+e D C9 D    s z a ł a s o l o t ulatuje w nieznane.
+G D C9 G    Skrzydłem dachu zagarnia krajobraz,
+e D C9 D    płyną przezeń śródleśne przestrzenie.
+a h C9 G    Leśna mądrość obdarzyła go ciszą,
+e D C9 D    chore drzewo w daremnej podróży.
+a h C9 G    Brakło ognia, aby spełnił się żywot
+e D C9 D    pustych piersi, pełnych wciąż wietrznych marzeń.
+
+G D C9 G    Przed zaklęsłą stromizną urwiska
+e D C9D     s z a ł a s o l o t, wystrzępione lotki gontów
+G D C9 G    rozpościera – szykując się w ciszy
+e D C9D     do niemożliwej, podniebnej żeglugi.
+a h C9 G    Leśna mądrość obdarzyła go ciszą,
+e D C9 D    chore drzewo w daremnej podróży.
+a h C9 G    Brakło ognia, aby spełnił się żywot
+e D C9 D    pustych piersi, pełnych wciąż wietrznych marzeń
+URL::https://www.youtube.com/watch?v=mgc15ngihxw
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Szczęśliwej drogi, już czas - Vox
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -6881,6 +7059,59 @@ Nam wódka nie będzie szkodzić	    H E
 
 URL::https://www.youtube.com/watch?v=wpXyx2Ez_ws
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Uwielbiam przełęcze - Bez Zobowiązań, sł. Robert Marcinkowski, muz. Grzegorz Śmiałowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+D 4 a7
+Łagodnie wklęsłe.
+G D 4 C9 G
+Dumnie wypukłe.
+D 4 a7
+Dwukrzywiznowe.
+G D 4 C9 G
+Bezboleśnie wszechstronne.
+
+C9 D 4
+Pośród stoków – oazy płaskości.
+C9 G 
+Nad krajobraz – i nad podziw stabilne
+D 4 C9
+odloty moje osiodłane!
+G pauza
+D 4 C9 G / D 4 C9 G / D 4
+
+e G 
+Gdy na szczytach zagraża samotność,
+h A 
+Gdy dolinami płyną mroczne myśli,
+e G 
+Gdy na stokach drogi ludzkich przemian
+h A C9 
+Wiodą przez porzucenie i wysiłek –
+G pauza 1 takt muz
+e G D 4
+– uwielbiam przełęcze!
+C9 G D 4
+Uwielbiam przełęcze!
+
+e G
+Gdy na szczytach zagraża samotność –
+D C9 G D 4 
+Uwielbiam przełęcze,
+e G 
+Gdy dolinami płyną mroczne myśli –
+D C9 G D 4 
+Uwielbiam przełęcze,
+e G
+gdy na stokach drogi ludzkich przemian –
+D C9 G D 4
+uwielbiam przełęcze!
+e G D 4
+Uwielbiam przełęcze!
+C9 G D 4
+Uwielbiam przełęcze!bis
+
+URL::https://www.youtube.com/watch?v=6n4jeU7W9qs
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: We wtorek w schronisku - Wołosatki
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 1.Złotym kobiercem wymoszczone góry          C F C
@@ -7119,7 +7350,7 @@ Do góry nogami czytam               /e fis7
 Wielką gazetę nieba                 /h7 A G A G AD
                                     /G h7 A D G h7 A G    
 
-URL::https://www.youtube.com/watch?v=DfROIfAitts
+URL::https://www.youtube.com/watch?v=jSjQ0mx6r3E
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Wielorybnicy Grenlandzcy - wyk. Ryczące Dwudziestki
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -7273,7 +7504,7 @@ a e C G
 D e C G
 URL::https://www.youtube.com/watch?v=b9_bZ3sCJ9M
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: W górach - sł. W. Benkoff-Czarnocki, muz. Grzegorz Śmiałowski
+TITLE: W górach - Bez Zobowiązań. sł. W. Benkoff-Czarnocki, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 D              G
 Prawda
@@ -7296,7 +7527,7 @@ Noc zmiennie, zmiennie od wieków się brata
 I co dzień może być najcichsza
                              D
 Najświętsza niedziela
-URL::https://www.youtube.com/watch?v=b9zL_CLbHGg
+URL::https://www.youtube.com/watch?v=oFxd-4nmF0I
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Wiatr i Strzyga - Krążek. Maciej Służała
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -7812,7 +8043,7 @@ Dzisiaj się rozejdziemy         Cis7
 Na wieczny czas..."             fis
 URL::https://www.youtube.com/watch?v=tX03K95MYIE
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Zima - sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
+TITLE: Zima - Bez Zobowiązań. sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
        E           A2
 Świat cały leży schowany
@@ -7848,7 +8079,7 @@ Popatrzeć jak twój diadem świeci
 I niech nasz pocałunek zimo
  C95 D2        E   A2 / E A2
 Gilem w lasy uleci
-URL::https://www.youtube.com/watch?v=vJeaEQhab4A
+URL::https://www.youtube.com/watch?v=0UZytWF6-Q0
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Złockie  niebo cerkiewne - sł. Jerzy Harasymowicz, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -8041,10 +8272,45 @@ A potem znów wypłynie, my zostaniemy tu.
 URL::https://www.youtube.com/watch?v=_We1fGCj9N8
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
-PL-1. https://www.youtube.com/watch_videos?video_ids=ggxQ_ExykIY,epG9OQFoQJs,1PaDk9qDj-M,SCaFvOtVQ5s,tbuWwIz6k8k,Vt5jFyqSnG0,lz3EO7JhMb8,mdroVVA0EQY,VALirEjPyM0,QPTEWxPhCTA,sTKl7LLtowc,oQBEFetu2HE,DZv2k5fLGC0,je8p6qw_U5U,OJ5pyY0TBho,n0XSG-PvsSU,nso6Vhg0p9k,dLeqoySc90M,IC-dgTYMgis,JCyiHI1ziyA,2zLkLodAMOY,SL_CflxaT8M,3riiouXc-7A,a_qgY-lGOGs,9UuloKeGsEk,Yteu2vZYgMs,SvmoT_rC8tQ,FL4THreoozU,m_qCL6naSbY,LSXi6WGl86k,IUmnTfsY3hI,GibXqTrlg58,DNuVEvOZeAkf,sTKl7LLtowc,bzmgm1WdJ8o,c4Xz51f-VFk,I2X-wzxQj34,JXrOnCnsch0,d7CCNNp9Bz8,X_9Db64ll8I,JlkDAbICEfo,EhJEMq04ZYU,uY-ELf-3cn8,mvBB0mYFVYs,UAPFboo-Upk,Abh_fwfwfSA,J6aXeOh7RTI,0Rdg6GUv-wQ,elh46xDC7UQ
-PL-2. https://www.youtube.com/watch_videos?video_ids=OgwIlKCYsM4,_DNFXoszxrs,U0Wgyq-lgtQ,hchz8fH5XiM,C_pF6YiAh6Q,lbbCcHevotg,bBRQliY3agE,ZXtfM60eoJw,J_GPhHYUiuA,wWXEi6l7wFA,3dXfeKZZkpQ,O-I_IB1Qvkg,i6fUWH3omac,wCQfkEkePx8,QoP5d9tc9pY,HrazWpivOb4,xLE4kRTrnGs,x00W1LX7cJs,gNTEKqAleCk,0jVEXqEOkyU,woiH3hsWI8I,xAURdgunTJg,BwF7gesCe1Q,8ULdCuj594E,6MF0c0HAtmA,yhK1TITV_MA,8TgkOZJebYs,KNfh5Q79gCQ,09h6fMMK1lU,rqJz_Sh4ZdY,0ky0O3gbBPA,KcthRGCxPaA,vyRrJIL3THs,w8q_bi7ldiY,oK-UyhQDtc0,5cAB1oEiF74,e-1vP9xjzRQ,FTiAYAQ9Xp0,XboMbs9QChc,fvrogxMHmlg,Xv3-Ud40PyA,v0NAXRuc7Jg,fvqxia2JRfM,eskdKPWmkiw,n1w8DVxxEUo,G8yuuLYvBkI,bJ_X3C4e-1I,F6p7GMiG48g,15Q-Z5u2AnI
-[https://www.youtube.com/watch?v=OgwIlKCYsM4&list=TLGGt1JgxshvTqwwNDA0MjAyNg]
-PL-3. https://www.youtube.com/watch_videos?video_ids=dIm0DGfBhlo,OwApQmS7GIY,PewEmV5mEtU,FK697msg2oQ,QtTBx70yICE,AT5_tEjTH4o,5SutbiSD9RU,NCdFnqzZX0I,kkDsoAKkJh4,SGGiF1FTzXQ,ZSp7OCHkolI,9IXp2Ag6Qkc,hOamY5zge5s,xSBokEOShzo,mBGUxtct_v8,ldJ42bXTlK8,EBxorz5MOxo,uaKwDPv1ho4,5hid10EgMXE,JLMj4Y_W_PM,16uc3q-egNQ,BzRZpfgPeW8,BzRZpfgPeW8,wcEki6HxAr0,JyccORF-dLg,WRnCl1GA6lc,h7BwZDevoj8,-Jj4s9I-53g,_5GuXqky0V4,tuhTbtTfjdk,-8NJkB5LYpQ,rCN9IllCu5E,FvsVgnS6c78,yuWxTH6Ulj4,mYebN9-YcZo,k4LjC6iFLzw,X9u4KdcALlM,fplGHzJYNz0,EoYbxLNccE0,uZpVRvVUOYQ,IhrnzC-XJhI,si1r7UeakqY,0fZD6HdGysE,CbsRtkZRYQE,uyx6_vZLBaQ,dmZzOOXruKk,b9_bZ3sCJ9M,b9zL_CLbHGg,mLLWPAxr6Nw
-[https://www.youtube.com/watch?v=dIm0DGfBhlo&list=TLGGBXRGY8pP4WEwNDA0MjAyNg]
-PL-4. https://www.youtube.com/watch_videos?video_ids=YY2OOHZiFLc,-dm8tO9jpnI,SONpTqGOMlE,gVYl7yXD5rg,2Jp8ymM3mhw,fZjtF_ftxHU,67ItgpSy5cM,zRlNAtUOO_8,viZon4Y-ZHY,vJeaEQhab4A,gF1YvlE1tTs,5ORpNPSe9q4,bf8hm3GixuA,DqGgRIYWPws,fAYGJ-RerYQ,_We1fGCj9N8
-[https://www.youtube.com/watch?v=SONpTqGOMlE&list=TLGGQ4fs7tB_atgwNDA0MjAyNg]
+TODO::
+[DONE] Szałasolot
+[DONE] Uwielbiam przełęcze
+[DONE] Pastorałka z królami
+[DONE] Pani J
+[DONE] Chatka [Lepsza wersja]
+[DONE] Prawda [Lepsza wersja]
+[DONE] Zima [Lepsza wersja]
+
+Zgasłej
+kocham Cie zimo
+Modlitwa mojego wieku [Lepsza wersja]
+Zostali w górach święci
+Dzień póki nie minie
+Druga piosenka Bieszczad
+Lawendowa serenada
+Rozmowa z nieznajomą
+O powrocie pociągiem
+Barwy zimy
+Idzie Idzi
+
+= = = = = = = = = = = = = = = = = = = = = = = = 
+I wciąż bez.
+= = = = = = = = = = = = = = = = = = = = = = = = 
+01.Złockie niebo cerkiewne [Lepsza wersja]
+02.Niewiele drogi
+03.Sanem [Lepsza wersja]
+04.Przetłumacz mi na dzwięki przedwieczorną ciszę
+05.Steskniłem się
+06.Renety
+07.Piosenka Wieczorem
+08.Hiszpańska Dusza
+09.List
+10.Wieczorna Chandra
+[DONE] 11.Czekaj mnie - Bez zobowiązań, sł. Simonow Konstantin, muz. Grzegorz Śmiałowski
+12.Złote Banie
+13.Ballada o stole
+14.Góry jak dom
+
+= = = = 
+Na Ryterskiej stacji
+Dzień znowu kończy się śpiewem... Posiedzimy jeszcze troche
