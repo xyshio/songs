@@ -295,10 +295,10 @@ main { padding: 28px 0 48px; }
   white-space: pre-wrap;
   word-break: break-word;
   overflow-x: auto;
-  font-family: verdana;
+  font-family: 'Courier New', Courier, monospace;
   line-height: 1.7;
   font-size: .96rem;
-  font-weight: 600;
+  font-weight: 800;
 }
 .article-actions {
   margin-top: 18px;
