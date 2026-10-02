@@ -2223,24 +2223,97 @@ Wy pójdziecie inną drogą, zostawicie mnie
 Zamazanych drogowskazów nie odczytam już
 URL::https://www.youtube.com/watch?v=J6aXeOh7RTI
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Heres A Health To The Company - The Longest John
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+[Verse 1]
+     Em             Bm            D          Em      /d a C d
+Kind friends and companions, come join me in rhyme   
+     G       Bm   Em                    D            /F ad d C
+Come lift up your voices in chorus with mine;         
+     G       Bm   Em                    D            /F ad d C
+Come lift up your voices all grief to refrain        
+       Em           Bm        D          Em          /d a C d 
+For we may or might never all meet here again
+ 
+[Chorus]
+         Em            Bm          D         Em
+Here's a health to the company and one to my lass
+       G         Bm Em                   D
+Let us drink and be merry all out of one glass;
+       G         Bm Em                   D
+Let us drink and be merry all grief to refrain
+       Em           Bm        D          Em
+For we may or might never all meet here again
+ 
+[Verse 2]
+         Em            Bm             D         Em
+Here's a health to the dear lass that I love so well
+        G         Bm  Em                      D
+For her style and her beauty, sure none can excel
+          G        Bm  Em                            D
+There's a smile on her countenance as she sits on my knee
+           Em          Bm            D        Em
+There's no man in this wide world as happy as me
+ 
+[Chorus]
+         Em            Bm          D         Em
+Here's a health to the company and one to my lass
+       G         Bm Em                   D
+Let us drink and be merry all out of one glass;
+       G         Bm Em                   D
+Let us drink and be merry all grief to refrain
+       Em           Bm        D          Em
+For we may or might never all meet here again
+ 
+[Verse 3]
+    Em           Bm            D        Em
+Our ship lies at anchor, she's ready to dock
+  G        Bm   Em                   D
+I wish her safe landing, without any shock
+   G    Bm       Em                     D
+If ever I should meet you by land or by sea
+       Em       D           A/C#        C   D
+I will always remember your kindness to me
+ 
+[Chorus]
+         Em            Bm          D         Em
+Here's a health to the company and one to my lass
+       G         Bm Em                   D
+Let us drink and be merry all out of one glass;
+       G         Bm Em                   D
+Let us drink and be merry all grief to refrain
+       Em           Bm        D          Em
+For we may or might never all meet here again
+ 
+         Em            Bm          D         Em
+Here's a health to the company and one to my lass
+       G         Bm Em                   D
+Let us drink and be merry all out of one glass;
+       G         Bm Em                   D
+Let us drink and be merry all grief to refrain
+       Em           Bm        D          Em
+For we may or might never all meet here again
+
+URL::https://www.youtube.com/watch?v=6ENmmkar0QQ
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Hiszpańskia Dusza - Bez Zobowiązań, Sł. Kazimierz Wierzyński, Muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-e D G D e
+e D e D G D e                               | cis H cis H E A E
 
-e              D     e   D       G C G
-Znów miejsca znaleźć żadnego nie mogę
-I tylko iść mi się chce wprost przed siebie,
-Nogami deptać byle jaką drogę
-I potem nocą kłaść się spać na niebie.
+e              D     e   D       G C G      | 
+Znów miejsca znaleźć żadnego nie mogę       | cis H cis H E A E 
+I tylko iść mi się chce wprost przed siebie,| cis H cis H E A E
+Nogami deptać byle jaką drogę               | cis H cis H E A E
+I potem nocą kłaść się spać na niebie.      | cis H cis H E A E
 
-a         e                   D    C5+
-Więc idę, idę – i wącham powietrze
+a         e                   D    C5+      
+Więc idę, idę – i wącham powietrze          | fis cis H A5+
 G           D                 C5+   /D       
-I tak mi dobrze jest bez kapelusza,
+I tak mi dobrze jest bez kapelusza,         | E H A5+ /H
 a         e                 D       C
-Że włosy stają mi dęba na wietrze
+Że włosy stają mi dęba na wietrze           | fis cis H A5+
 G          D                     C5+ /D
-I po hiszpańsku gwiżdże we mnie dusza.
+I po hiszpańsku gwiżdże we mnie dusza.      | E H A5+ /H    / cis H cis H /2x
  
 Słońce do głowy mi strzela i bije,
 Psy nawet cudze liżą mię, przybłędę…
@@ -2471,7 +2544,7 @@ Jak okiem sięgnąć – dom         C-G-a D
 Bo tutaj w górach jest mój dom...
 URL::https://www.youtube.com/watch?v=NWoGutIfQlk
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-TITLE: Jak wiatr - Tomek Jarmużewski
+TITLE: Jak wiatr - sł. Tomek Jarmużewski muz. Bartosz "Pelton" Zalewski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Rozhulanych liści pora, sinych traw skulony łan        /G D
 Niebem burych chmur kołtuny, po horyzont strat i skarg /G D
@@ -2675,6 +2748,80 @@ Blisko za oknem szczeka pies.
 
 Jaworzyna...
 URL::https://www.youtube.com/watch?v=bBRQliY3agE
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Jedyne takie miejsce - Sł, muz i wyk. Siudma Góra
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Dla "Toma z Sopotu" - Tomasza Borkowskiego
+(G D a7* h7* - a7*) x (G)
+1. 
+G      D
+Siadaj ze mną
+a7*       h7*   -  a7*
+przy zadymionym stole
+   G      D
+Postawie piwa dwa
+a7*     h7*   -  a7*
+zapalę-póki mogę
+G                 D
+Z rozmowy zrobię wiersz
+a7*     h7*   -  a7*
+na blacie go położę
+G          D
+Pewnie że warto żyć
+a7*               h7*- a7* (G)
+Przeczytasz go i powiesz:
+
+Ref.:
+G                D
+Zostało Ci tych parę lat
+      e            C   
+Tych parę lat być może
+G                D 
+I jeszcze kilka górskich szczytów
+     e                     C
+I dziecka śmiech, płacz kobiet
+G                 C
+I ważnych rozmów kilka
+e               C
+Skropionych alkoholem
+    e*
+I Twojej pieśni dziwny ton
+h                   C (G D C G D e C a7*-h*)
+Tęskniący wciąż za domem
+
+2. 
+A jaki dom to miałby być?
+Z pustaka czy bukowy?
+I rozważaniem tym
+Pokonasz mnie dziś znowu
+Aż w Twoim wierszu stanie
+Zielenią porośnięty
+ósmy tej nocy dom
+Na kuflach udźwignięty
+
+Ref.:
+Zostało Ci tych parę lat...
+
+3. I znów zaproszę Cię
+nad stoły zadymione
+W kolejna taką noc
+wyrwiesz z nieba stronę
+Być może powstał dom
+Jedyny na tej ziemi
+Dla Ciebie tak w sam raz
+Gdzie nic się już nie zmieni
+
+Ref.:
+Zabrakło nam tych paru lat
+Tych paru lat być może
+I jeszcze kilku górskich szczytów
+Śmiechu dziecka, płaczu kobiet
+I ważnych kilku rozmów
+Skropionych alkoholem
+I Twojej pieśni dziwnej
+Tęskniącej wciąż za domem
+
+URL::https://www.youtube.com/watch?v=21O8JRj_ztk
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Jesienna zaduma - Elżbieta Adamiak
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -3765,7 +3912,7 @@ Boze! Zycia i smierci
 Panie wszelkiej nadziei
 Pochyl sie znow nad nami
 W godzinie slepej zawiei x3
-URL::https://www.youtube.com/watch?v=6MF0c0HAtmA
+URL::https://www.youtube.com/watch?v=KNKFkK5HJ2A
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Modlitwa mojego wieku - sł. Adam Ziemianin, muz. Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -4703,6 +4850,64 @@ Wstanie świt
 
 URL::https://www.youtube.com/watch?v=Yiar-4JVfo4
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Kiedy Góral Umiera - Wyk. Harlem
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Kiedy góral umiera           E
+To góry w żalu sine           E7
+Pochylają nad nim głowy           A
+Jak nad swoim synem           E
+
+Las w oddali szumi mu           fis
+Odwieczną pieśń bukową          A E
+A on długo sposobi się           fis
+Przed najdalszą drogą           A E
+
+Kiedy góral umiera
+To nikt nad nim nie płacze
+Siedzi, czeka, aż Kostucha
+W okno zakołacze
+
+Oczy jeszcze raz podniesie
+Wysoko, do nieba
+By pożegnać góry swoje
+By im coś zaśpiewać
+
+Ref.: Góry moje, wierchy moje           E
+Otwórzcie swe ramiona           fis
+Niech na miękkim z mchu posłaniu A
+Cichuteńko skonam           E
+Ojcze mój, Halny Wietrze           E
+Powiej ku północy           fis
+Ciepłą, drżącą swoją ręką           A
+Zamknij zgasłe oczy           E
+
+Bym mógł w ziemię wrosnąć fis
+Strzelić potem do słońca smreczyną A E
+I na zawsze szumieć już           fis
+Nad swoją dziedziną           A E
+
+Kiedy góral umiera
+To dzwony mu nie grają
+Cicho wspina się pod bramy
+Góralskiego Raju
+
+Tylko strumień na kamieniach
+Żałobną nutę składa
+Tylko nocka chmurnooka
+Górom opowiada
+
+A gdy góral już umrze
+To nikt nie układa baśni
+Tylko w niebie roziskrzonym
+Mała gwiazdka gaśnie
+
+Ziemie twardą, szorstką ręką
+Tuli go do siebie
+By na zawsze już mógł zostać
+Pod góralskim niebem
+
+URL::https://www.youtube.com/watch?v=xrI6BzVFCRs
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Kim właściwie była ta piękna pani? - SDM, Stare Dobre Małżeństwo, sł. Edward Stachura
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Nikt nie zna ścieżek gwiazd;	    /a G
@@ -4976,6 +5181,39 @@ Nida w łąkach roziskrzona               /h7 E
 Na Ponidziu wiosna trwa x2              /a G6 F7+ G
 Na Ponidziu                             /a G F a
 URL::https://www.youtube.com/watch?v=Xv3-Ud40PyA
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: O Życiu - Sł: J Kochanowski, muz: B. Zalewski (Pelton). Dom o Zielonych Progach
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Gdy kamień zrodził wodę,				D
+I zaczął się twój czas           		G D
+Otworzył świat przed tobą drzwi			e G
+I pukać już nie trzeba…					A
+A drogą ktoś wysypał złotem				D
+Karminem zdobiąc brzask					G D
+By jawą były twoje sny					e G
+I kamień zaczął śpiewać					A
+
+	Nie oglądaj się na wczoraj					h
+	Woda też nie płynie wstecz					G D
+	Nie odnajdziesz prawdy w dniach minionych	e G
+	Jutro skrzętnie będzie jej strzec.			G A D
+	Nie przystawaj na rozstajach,				h
+	Twoje karty znaczył ktoś.					G D
+	Nie jest ważne, którą drogą pójdziesz,		e G
+	Każdą drogę zna los.						G A D
+
+I znowu noc, i znowu dzień
+Przecieka czas przez palce
+Maluje los treść twoich szans
+W szarości pełnej gamie…
+I odszedł już natrętny cień
+I bal się kończy walcem
+To jest nadziei twojej tan
+A na niej dom twój stanie…
+
+	Nie oglądaj się na wczoraj...
+
+URL::https://www.youtube.com/watch?v=Ay1cyzSZAqw
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Obława - Jacek Kaczmarski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -5533,6 +5771,47 @@ Wszak we dwoje jesień nie jest porą złą
 
 To będzie dobry dzień...
 URL::https://www.youtube.com/watch?v=FK697msg2oQ
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Piosenka dla przyjaciela - sł. Andrzej Pacuła, muz. Tomasz Fojgt, wyk. Enigma
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Przeczekamy jeszcze jedną zimę
+Żeby znów móc się spotkać, (mój przyjacielu)
+Opowiedzieć co dobrego
+I zapomnieć o złych chwilach, (mój przyjacielu)
+A gdy wiosną wyschną drogi
+Dogonimy bardzo szybko tych co przeszli obok.
+
+Przeczekamy cisze między nami
+Płoche słowa i rozmowy nieskończone
+Chleba nigdy nam nie zbrakło
+Popatrz znowu kwitnie jabłoń
+Przyjacielu gwiazda spadła
+
+Przeczekamy jeszcze jedno lato
+Wciąż nie wierząc że na karku mamy jesień,
+(mój przyjacielu)
+A dziewczynom co odeszły
+Odeślemy listy z deszczu, (mój przyjacielu)
+Żeby życia zbyt nie trudzić
+To epilog dopiszemy garścią złudzeń
+capodaster III
+D
+G D (F7+ a7 D4 D)
+G A
+D G (F7+ a7 D4 D)
+h fis
+G fis e A A4 A
+
+D G e A
+C G D A
+D G e A
+C G D
+C G D
+
+(przygrywka)
+(F7+ a7 D D4 D)
+
+URL::https://www.youtube.com/watch?v=ehHGQGUDNFg
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Piosenka dla Wojtka Bellona - Wolna Grupa Bukowina
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -6304,39 +6583,52 @@ URL::https://www.youtube.com/watch?v=osh5pCQiBdQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Przytuj mnie proszę - sł. Wuka, muz. G.Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-D C G A
+D h5+ A/F# G6
+D h5+ A/F# G6
+D h5+ A/F# G6
+e G A7
+
 Ref:
-    D          C7    G         A7 
+    D          h5+    A/F#        G6
 Przytul mnie, proszę, jeszcze raz
     D        C7      G A
 i jeszcze raz, i jeszcze…
-   D         C7      G    A
+   D          h5+   A/F#  G6
 niech się przetoczy obok czas,
- e                  G A7
+ e                  G A7       / e G A7
 a łzy niech spłyną z deszczem.
 
 h            A         G     D
 Przytul mnie, proszę, jeszcze raz
-C          G       D    A
+C9         G       D    A
 jak w tańcu na parkiecie.
-h            A         G     D
+h        A     G     D
 Zaszumi nam muzyką las,
-C          G       D    
+C9         G       D    /2x
 co z wiatrem gra w duecie.
+
+D h5+ A/F# G6
+         D          h5+    A/F#        G6
+Ref: Przytul mnie, proszę, jeszcze raz ...
 
 h            A         G     D
 Tak najzwyczajniej przytul mnie
-C          G       D    A
+C9         G       D    A7
 na jedną małą chwilę.
 h            A         G     D
 Niech znikną z oczu myśli złe,
 C          G       D 
 odfruną jak motyle. /2x
 
+D h5+ A/F# G6
+         D          h5+    A/F#        G6
+Ref: Przytul mnie, proszę, jeszcze raz ...
+
 Niech gdzieś zabłądzą w sinej mgle
 i wrócić nie potrafią.
 My w przytuleniu trwajmy tak
 jak ramka z fotografią.
+
 URL::https://www.youtube.com/watch?v=puV6AXREmDE
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Przypowieść - Maciej Służała, Krążek
@@ -6687,26 +6979,26 @@ URL::https://www.youtube.com/watch?v=WRnCl1GA6lc
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Sanem -  Sł: Roman Zielonka, Muz. Grzegorz Śmiałowski, Bez Zobowiązań
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-Sanem snem twój niedośniony /e D e D
-Płomiejącym gór dogmatem    /a h a h
-Sanem szlakiem wyznaczonym  /e D e D
-Dni, Miesięcy, Lat schematem /a h C D
+Sanem snem twój niedośniony /e D e D   | a G a G
+Płomiejącym gór dogmatem    /a h a h   | d e d e
+Sanem szlakiem wyznaczonym  /e D e D   | a G a G
+Dni, Miesięcy, Lat schematem /a h C D  | d e F G
 
 Sanem z wiosny brudną pianą
 Krą kalecząc, wścibskie łozy
 Sanem porą wszechpijaną
-Przez wieczornych ziół narkozy  /a h C D /A
+Przez wieczornych ziół narkozy  /a h C D /A   | d e F G  /D
 
-a e D C G D C
+a e D C G D C                                 | d a G F C G F  
 
 Ref:
-Sanem popod buków cieniem       /a e D C
-Sanem tocząc trosk kamienie     /G D a C
-Sanem niosąc mgły dolinie       /a e D C
-Sanem czas mój życia płynie     /G D C //h7...
+Sanem popod buków cieniem       /a e D C       | d a G F
+Sanem tocząc trosk kamienie     /G D a C       | C G d F
+Sanem niosąc mgły dolinie       /a e D C       | d a G F
+Sanem czas mój życia płynie     /G D C //h7... | C G F  //e7
 
 Sanem Twym zauroczeniem
-Olszy w chłodzie, tlena mgnieniu
+W olszy chłodzie, klenia mgnieniu
 Samem moim zasłuchaniem
 W szumie plusku, wodobrzmieniu
 
@@ -7075,6 +7367,65 @@ Zamrożone tak, a już nie koniec świata,
 Zapominam - widzę tylko, co chcę widzieć
 I pamiętam koniec zimy w środku lata.
 URL::https://www.youtube.com/watch?v=rCN9IllCu5E
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Świat bez tła - Na Bani, sł. Tom Borkowski
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+C            G         a          G 
+Za ostatnim gościem zasnuło się niebo
+C            G          a G  C         D    
+Okna zaszły mgłą, śnimy poza światem
+    C          G          a        G
+Po którym znów jakaś się burza przelewa
+C             G           a    G  C       D
+Lecz my zostawiamy ją za drzwiami chaty
+
+C                  G        a          G
+Świerkom-stróżom skrzydła anielskie opadły
+C             G      a G      C      D
+Już z nie zdołają szarugi pokonać
+C          G            a       G 
+I dziwnie maleje świat nagle pobladły
+C          G           a G      C     D e
+Pochyły horyzont przybliża się do nas
+
+Ref:
+G                  a
+Rozmyty krajobraz zamazała mgła
+F                              C          G
+Świat kurczy się do rzeczy najbliższych
+a                            F
+Coraz bliższy nam jest ten świat bez tła
+         e                   D
+Powoli staje się dla nas wszystkim
+
+C                G     a       G 
+Deszcz rozpiął sieci pomiędzy górami
+C          G         a   G      C      D
+Lecz my niejedną przetrwaliśmy powódź
+C          G            a    G  
+Między Ochodzitej wyspą i Baraniej
+C           G            a   G     C        D
+Chatką jak arką w chmur żeglując morzu
+
+C               G      a        G
+Zegar zamiast stanąć zawisł w domyśle
+C             G       a   G       C         D
+Czasem nawet czas się kryje przed deszczem
+C          G             a        G
+Może woda bez nas wciąż upływa w Wiśle
+C                       G        a  G       C        D e
+Lecz nasz świat w tych paru się ścianach pomieścił
+
+G                  a
+Rozmyty krajobraz zamazała mgła
+F                             C         G
+Świat kurczy się do rzeczy najbliższych
+a                            F
+Coraz bliższy nam jest ten świat bez tła
+       e                 D
+Powoli staje się dla nas wszystkim
+
+URL::https://www.youtube.com/watch?v=vzS84IUOyYY
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Taradajka - Wszystkiego Najlepszgo
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
@@ -8009,6 +8360,105 @@ Mają zmarli w niedzielę ten pośmiertny kłopot...
 Mają zmarli w niedzielę ten pośmiertny kłopot...
 URL::http://youtube.com/watch?v=gVYl7yXD5rg
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: Your song - Elton John
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+ 
+A capo on the 1st fret puts it in the Original Key of Eb
+ 
+Chords used:
+D     = xx0232
+G     = 320033
+A     = x02220
+F#m   = 244222 (fis)
+Bm    = x24432 (h)
+Em7   = 022033
+Bm/A  = x04430
+Bm/G# = 4x4430
+A/C#  = x42220
+ 
+[Intro]
+D   G/D   A/D  G/D
+ 
+[Verse 1]
+D                 Gmaj7  A/C#             F#m
+It's a little bit funny,   this feeling inside
+Bm             Bm/A       Bm/G#      Gmaj7
+I'm not one of those who can easily hide
+D                  A        F#         Bm
+I don't have much money, but boy, if I did
+D             Em7        G               A
+I'd buy a big house where we both could live
+ 
+D             Gmaj7  A/C#              F#m
+If I was a sculptor,   but then again, no
+     Bm            Bm/A       Bm/G#         G
+Or a man who makes potions in a travelling show
+   D             A                 F#        Bm
+I know it's not much but it's the best I can do
+D              Em7     G                D
+My gift is my song, and this one's for you
+ 
+ 
+[Chorus]
+A/C#              Bm      Em7            Gmaj7
+And you can tell everybody this is your song
+A/C#       Bm            Em               G
+It may be quite simple but now that it's done
+Bm                    Bm/A
+I hope you don't mind, I hope you don't mind
+Bm/G#                G6
+That I put down in words,
+      D/F#    Em            G             A
+How wonderful life is while you're in the world
+ 
+ 
+[Interlude]
+D   G/D   A/D   G/D
+ 
+ 
+[Verse 2]
+D            Gmaj7  A/C#                 F#m
+I sat on the roof     and kicked off the moss
+        Bm          Bm/A              Bm/G#           Gmaj7
+Well a few of the verses, well they've got me quite cross
+D                    A        F#                   Bm
+But the sun's been quite kind, while I wrote this song
+D                    Em7     G                A
+It's for people like you that keep it turned on
+ 
+D               Gmaj7    A/C#                F#m
+So excuse me forgetting,   but these things I do
+Bm               Bm/A              Bm/G#             Gmaj7
+You see I've forgotten if they're green or they're blue
+D                  A                 F#     Bm
+Anyway, the thing is, what I really mean
+D               Em7        G              D
+Yours are the sweetest eyes I've ever seen
+ 
+ 
+[Chorus]
+A/C#              Bm      Em7            G
+And you can tell everybody this is your song
+A/C#       Bm            Em               G
+It may be quite simple but now that it's done
+Bm                    Bm/A
+I hope you don't mind, I hope you don't mind
+Bm/G#                G6
+That I put down in words,
+      D        Em            G              A
+How wonderful life is while you're in the world
+ 
+Bm                   Bm/A
+I hope you don't mind, I hope you don't mind
+Bm/G#                G6
+That I put down in words,
+     D/F#     Em            G             D       G/D   A/D   G/D   D
+How wonderful life is while you're in the world
+
+
+
+URL::http://youtube.com/watch?v=BnQ_NihUrZU
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Zabierz mnie wielka rzeko - Wykonawca: Atlantyda, Słowa i muzyka: Sławomir Klupś
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 C          G  a        F
@@ -8496,6 +8946,456 @@ Nie zabraknie nam nadziei, że znów ujrzymy go,
 I w tawernianym dymie opowieść będzie snuł,
 A potem znów wypłynie, my zostaniemy tu.
 URL::https://www.youtube.com/watch?v=_We1fGCj9N8
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+TITLE: ZZZ-Chwyty - Found Somewhere
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+C       = x32010
+Cm      = x35543
+C7      = x32310
+Cm7     = x35343
+Cmaj7   = x32000
+Csus2   = x30010
+Csus4   = x33011
+
+C#      = x46664
+C#m     = x46654
+C#7     = x46464
+C#m7    = x46454
+
+D       = xx0232
+Dm      = xx0231
+D7      = xx0212
+Dm7     = xx0211
+Dmaj7   = xx0222
+Dsus2   = xx0230
+Dsus4   = xx0233
+
+Eb      = x65343
+Ebm     = x68876
+Eb7     = x65646
+Ebm7    = x68676
+
+E       = 022100
+Em      = 022000
+E7      = 020100
+Em7     = 022030
+Emaj7   = 021100
+Esus2   = 024400
+Esus4   = 022200
+
+F       = 133211
+Fm      = 133111
+F7      = 131211
+Fm7     = 131111
+Fmaj7   = xx3210
+Fsus2   = 133011
+Fsus4   = 133311
+
+F#      = 244322
+F#m     = 244222
+F#7     = 242322
+F#m7    = 242222
+
+G       = 320003
+Gm      = 355333
+G7      = 320001
+Gm7     = 353333
+Gmaj7   = 320002
+Gsus2   = 300233
+Gsus4   = 330013
+
+Ab      = 466544
+Abm     = 466444
+Ab7     = 464544
+Abm7    = 464444
+
+A       = x02220
+Am      = x02210
+A7      = x02020
+Am7     = x02010
+Amaj7   = x02120
+Asus2   = x02200
+Asus4   = x02230
+
+Bb      = x13331
+Bbm     = x13321
+Bb7     = x13131
+Bbm7    = x13121
+
+B       = x24442
+Bm      = x24432
+B7      = x21202
+Bm7     = x24232
+Bmaj7   = x24342
+Bsus2   = x24422
+Bsus4   = x24452
+
+Rozszerzona lista chwytów gitarowych (~360 pozycji nazw)
+
+Notacja: E A D G B e
+
+Dla pozycji oznaczonych BARRE należy zastosować odpowiedni kształt barre dla danego akordu.
+
+    C         = x32010
+    Cm        = x35543
+    C7        = x32310
+    Cm7       = x35343
+    Cmaj7     = x32000
+    C6        = BARRE6
+    Cm6       = BARREm6
+    C9        = BARRE9
+    Cadd9     = BARREadd9
+    Csus2     = BARREsus2
+    Csus4     = BARREsus4
+    Cdim      = BARREdim
+    Caug      = BARREaug
+    C5        = BARRE5
+    C7sus4    = BARRE7sus4
+    Cm7b5     = BARREm7b5
+    Cdim7     = BARREdim7
+    C11       = BARRE11
+    C13       = BARRE13
+    Cmaj9     = BARREmaj9
+    Cm9       = BARREm9
+    C7b9      = BARRE7b9
+    C7#9      = BARRE7#9
+    Cadd11    = BARREadd11
+    Cadd4     = BARREadd4
+    C69       = BARRE69
+    Cmaj6     = BARREmaj6
+    C7#5      = BARRE7#5
+    C7b5      = BARRE7b5
+    CmMaj7    = BARREmMaj7
+    C#        = BARRE
+    C#m       = BARREm
+    C#7       = BARRE7
+    C#m7      = BARREm7
+    C#maj7    = BARREmaj7
+    C#6       = BARRE6
+    C#m6      = BARREm6
+    C#9       = BARRE9
+    C#add9    = BARREadd9
+    C#sus2    = BARREsus2
+    C#sus4    = BARREsus4
+    C#dim     = BARREdim
+    C#aug     = BARREaug
+    C#5       = BARRE5
+    C#7sus4   = BARRE7sus4
+    C#m7b5    = BARREm7b5
+    C#dim7    = BARREdim7
+    C#11      = BARRE11
+    C#13      = BARRE13
+    C#maj9    = BARREmaj9
+    C#m9      = BARREm9
+    C#7b9     = BARRE7b9
+    C#7#9     = BARRE7#9
+    C#add11   = BARREadd11
+    C#add4    = BARREadd4
+    C#69      = BARRE69
+    C#maj6    = BARREmaj6
+    C#7#5     = BARRE7#5
+    C#7b5     = BARRE7b5
+    C#mMaj7   = BARREmMaj7
+    D         = xx0232
+    Dm        = xx0231
+    D7        = xx0212
+    Dm7       = xx0211
+    Dmaj7     = xx0222
+    D6        = BARRE6
+    Dm6       = BARREm6
+    D9        = BARRE9
+    Dadd9     = BARREadd9
+    Dsus2     = BARREsus2
+    Dsus4     = BARREsus4
+    Ddim      = BARREdim
+    Daug      = BARREaug
+    D5        = BARRE5
+    D7sus4    = BARRE7sus4
+    Dm7b5     = BARREm7b5
+    Ddim7     = BARREdim7
+    D11       = BARRE11
+    D13       = BARRE13
+    Dmaj9     = BARREmaj9
+    Dm9       = BARREm9
+    D7b9      = BARRE7b9
+    D7#9      = BARRE7#9
+    Dadd11    = BARREadd11
+    Dadd4     = BARREadd4
+    D69       = BARRE69
+    Dmaj6     = BARREmaj6
+    D7#5      = BARRE7#5
+    D7b5      = BARRE7b5
+    DmMaj7    = BARREmMaj7
+    Eb        = BARRE
+    Ebm       = BARREm
+    Eb7       = BARRE7
+    Ebm7      = BARREm7
+    Ebmaj7    = BARREmaj7
+    Eb6       = BARRE6
+    Ebm6      = BARREm6
+    Eb9       = BARRE9
+    Ebadd9    = BARREadd9
+    Ebsus2    = BARREsus2
+    Ebsus4    = BARREsus4
+    Ebdim     = BARREdim
+    Ebaug     = BARREaug
+    Eb5       = BARRE5
+    Eb7sus4   = BARRE7sus4
+    Ebm7b5    = BARREm7b5
+    Ebdim7    = BARREdim7
+    Eb11      = BARRE11
+    Eb13      = BARRE13
+    Ebmaj9    = BARREmaj9
+    Ebm9      = BARREm9
+    Eb7b9     = BARRE7b9
+    Eb7#9     = BARRE7#9
+    Ebadd11   = BARREadd11
+    Ebadd4    = BARREadd4
+    Eb69      = BARRE69
+    Ebmaj6    = BARREmaj6
+    Eb7#5     = BARRE7#5
+    Eb7b5     = BARRE7b5
+    EbmMaj7   = BARREmMaj7
+    E         = 022100
+    Em        = 022000
+    E7        = 020100
+    Em7       = 022030
+    Emaj7     = 021100
+    E6        = BARRE6
+    Em6       = BARREm6
+    E9        = BARRE9
+    Eadd9     = BARREadd9
+    Esus2     = BARREsus2
+    Esus4     = BARREsus4
+    Edim      = BARREdim
+    Eaug      = BARREaug
+    E5        = BARRE5
+    E7sus4    = BARRE7sus4
+    Em7b5     = BARREm7b5
+    Edim7     = BARREdim7
+    E11       = BARRE11
+    E13       = BARRE13
+    Emaj9     = BARREmaj9
+    Em9       = BARREm9
+    E7b9      = BARRE7b9
+    E7#9      = BARRE7#9
+    Eadd11    = BARREadd11
+    Eadd4     = BARREadd4
+    E69       = BARRE69
+    Emaj6     = BARREmaj6
+    E7#5      = BARRE7#5
+    E7b5      = BARRE7b5
+    EmMaj7    = BARREmMaj7
+    F         = 133211
+    Fm        = 133111
+    F7        = 131211
+    Fm7       = 131111
+    Fmaj7     = 133210
+    F6        = BARRE6
+    Fm6       = BARREm6
+    F9        = BARRE9
+    Fadd9     = BARREadd9
+    Fsus2     = BARREsus2
+    Fsus4     = BARREsus4
+    Fdim      = BARREdim
+    Faug      = BARREaug
+    F5        = BARRE5
+    F7sus4    = BARRE7sus4
+    Fm7b5     = BARREm7b5
+    Fdim7     = BARREdim7
+    F11       = BARRE11
+    F13       = BARRE13
+    Fmaj9     = BARREmaj9
+    Fm9       = BARREm9
+    F7b9      = BARRE7b9
+    F7#9      = BARRE7#9
+    Fadd11    = BARREadd11
+    Fadd4     = BARREadd4
+    F69       = BARRE69
+    Fmaj6     = BARREmaj6
+    F7#5      = BARRE7#5
+    F7b5      = BARRE7b5
+    FmMaj7    = BARREmMaj7
+    F#        = BARRE
+    F#m       = BARREm
+    F#7       = BARRE7
+    F#m7      = BARREm7
+    F#maj7    = BARREmaj7
+    F#6       = BARRE6
+    F#m6      = BARREm6
+    F#9       = BARRE9
+    F#add9    = BARREadd9
+    F#sus2    = BARREsus2
+    F#sus4    = BARREsus4
+    F#dim     = BARREdim
+    F#aug     = BARREaug
+    F#5       = BARRE5
+    F#7sus4   = BARRE7sus4
+    F#m7b5    = BARREm7b5
+    F#dim7    = BARREdim7
+    F#11      = BARRE11
+    F#13      = BARRE13
+    F#maj9    = BARREmaj9
+    F#m9      = BARREm9
+    F#7b9     = BARRE7b9
+    F#7#9     = BARRE7#9
+    F#add11   = BARREadd11
+    F#add4    = BARREadd4
+    F#69      = BARRE69
+    F#maj6    = BARREmaj6
+    F#7#5     = BARRE7#5
+    F#7b5     = BARRE7b5
+    F#mMaj7   = BARREmMaj7
+    G         = 320003
+    Gm        = 355333
+    G7        = 320001
+    Gm7       = 353333
+    Gmaj7     = 320002
+    G6        = BARRE6
+    Gm6       = BARREm6
+    G9        = BARRE9
+    Gadd9     = BARREadd9
+    Gsus2     = BARREsus2
+    Gsus4     = BARREsus4
+    Gdim      = BARREdim
+    Gaug      = BARREaug
+    G5        = BARRE5
+    G7sus4    = BARRE7sus4
+    Gm7b5     = BARREm7b5
+    Gdim7     = BARREdim7
+    G11       = BARRE11
+    G13       = BARRE13
+    Gmaj9     = BARREmaj9
+    Gm9       = BARREm9
+    G7b9      = BARRE7b9
+    G7#9      = BARRE7#9
+    Gadd11    = BARREadd11
+    Gadd4     = BARREadd4
+    G69       = BARRE69
+    Gmaj6     = BARREmaj6
+    G7#5      = BARRE7#5
+    G7b5      = BARRE7b5
+    GmMaj7    = BARREmMaj7
+    Ab        = BARRE
+    Abm       = BARREm
+    Ab7       = BARRE7
+    Abm7      = BARREm7
+    Abmaj7    = BARREmaj7
+    Ab6       = BARRE6
+    Abm6      = BARREm6
+    Ab9       = BARRE9
+    Abadd9    = BARREadd9
+    Absus2    = BARREsus2
+    Absus4    = BARREsus4
+    Abdim     = BARREdim
+    Abaug     = BARREaug
+    Ab5       = BARRE5
+    Ab7sus4   = BARRE7sus4
+    Abm7b5    = BARREm7b5
+    Abdim7    = BARREdim7
+    Ab11      = BARRE11
+    Ab13      = BARRE13
+    Abmaj9    = BARREmaj9
+    Abm9      = BARREm9
+    Ab7b9     = BARRE7b9
+    Ab7#9     = BARRE7#9
+    Abadd11   = BARREadd11
+    Abadd4    = BARREadd4
+    Ab69      = BARRE69
+    Abmaj6    = BARREmaj6
+    Ab7#5     = BARRE7#5
+    Ab7b5     = BARRE7b5
+    AbmMaj7   = BARREmMaj7
+    A         = x02220
+    Am        = x02210
+    A7        = x02020
+    Am7       = x02010
+    Amaj7     = x02120
+    A6        = BARRE6
+    Am6       = BARREm6
+    A9        = BARRE9
+    Aadd9     = BARREadd9
+    Asus2     = BARREsus2
+    Asus4     = BARREsus4
+    Adim      = BARREdim
+    Aaug      = BARREaug
+    A5        = BARRE5
+    A7sus4    = BARRE7sus4
+    Am7b5     = BARREm7b5
+    Adim7     = BARREdim7
+    A11       = BARRE11
+    A13       = BARRE13
+    Amaj9     = BARREmaj9
+    Am9       = BARREm9
+    A7b9      = BARRE7b9
+    A7#9      = BARRE7#9
+    Aadd11    = BARREadd11
+    Aadd4     = BARREadd4
+    A69       = BARRE69
+    Amaj6     = BARREmaj6
+    A7#5      = BARRE7#5
+    A7b5      = BARRE7b5
+    AmMaj7    = BARREmMaj7
+    Bb        = BARRE
+    Bbm       = BARREm
+    Bb7       = BARRE7
+    Bbm7      = BARREm7
+    Bbmaj7    = BARREmaj7
+    Bb6       = BARRE6
+    Bbm6      = BARREm6
+    Bb9       = BARRE9
+    Bbadd9    = BARREadd9
+    Bbsus2    = BARREsus2
+    Bbsus4    = BARREsus4
+    Bbdim     = BARREdim
+    Bbaug     = BARREaug
+    Bb5       = BARRE5
+    Bb7sus4   = BARRE7sus4
+    Bbm7b5    = BARREm7b5
+    Bbdim7    = BARREdim7
+    Bb11      = BARRE11
+    Bb13      = BARRE13
+    Bbmaj9    = BARREmaj9
+    Bbm9      = BARREm9
+    Bb7b9     = BARRE7b9
+    Bb7#9     = BARRE7#9
+    Bbadd11   = BARREadd11
+    Bbadd4    = BARREadd4
+    Bb69      = BARRE69
+    Bbmaj6    = BARREmaj6
+    Bb7#5     = BARRE7#5
+    Bb7b5     = BARRE7b5
+    BbmMaj7   = BARREmMaj7
+    B         = x24442
+    Bm        = x24432
+    B7        = x21202
+    Bm7       = x24232
+    Bmaj7     = x24342
+    B6        = BARRE6
+    Bm6       = BARREm6
+    B9        = BARRE9
+    Badd9     = BARREadd9
+    Bsus2     = BARREsus2
+    Bsus4     = BARREsus4
+    Bdim      = BARREdim
+    Baug      = BARREaug
+    B5        = BARRE5
+    B7sus4    = BARRE7sus4
+    Bm7b5     = BARREm7b5
+    Bdim7     = BARREdim7
+    B11       = BARRE11
+    B13       = BARRE13
+    Bmaj9     = BARREmaj9
+    Bm9       = BARREm9
+    B7b9      = BARRE7b9
+    B7#9      = BARRE7#9
+    Badd11    = BARREadd11
+    Badd4     = BARREadd4
+    B69       = BARRE69
+    Bmaj6     = BARREmaj6
+    B7#5      = BARRE7#5
+    B7b5      = BARRE7b5
+    BmMaj7    = BARREmMaj7
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 END::
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
