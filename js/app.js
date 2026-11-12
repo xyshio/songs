@@ -436,13 +436,13 @@ function exportAllToPdf(items) {
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>SongWebBook PDF</title>
+        <title>Pozbierane Piosenki</title>
         <style>${printStyles}</style>
       </head>
       <body>
         <div class="page">
           <header class="print-header">
-            <h1>SongWebBook</h1>
+            <h1>Pozbierane Piosenki</h1>
             <p>Eksport wpisów • ${escapeHtml(new Date().toLocaleString('pl-PL'))}</p>
           </header>
           ${entriesHtml}
