@@ -2165,46 +2165,85 @@ URL::https://www.youtube.com/watch?v=UAPFboo-Upk
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 TITLE: Góry jak dom - muz: Grzegorz Śmiałowski
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+a                     e              D
 Zbieraja się gwiazdy, jak wędrowne ptaki
+d                C   a             G
 Co w innych kluczyły niebach niewidocznych
+   d          F       G       F  G    A
 By gniazda odnaleźć swe... z minionym latem
-
+A                 a     e7         D
 Gdy wreszcie zza morza powróciły stadem
+d             C    a            G  
 Po mlecznej drodze jesienną forpocztą
+     d7    F     G     F     G     A
 W taborze wozów stu ... znów jadą plejady
 
+ d          d7    F     G
 Jesień spuściła firany liści
+ d                     F       G
 Nim deszczem widok na góry zasłonił
+d7           F         G
 Rozpościera dywan wzorzysty
+d7                          F             G
 I wciąż jest mi w górach, w górach jak w domu
 
+D             A    fis             E
 Nad górskim stawem, mym oknem na niebo
+h             fis    D              E 
 Którego bym przecież nie sięgnął inaczej
+D             A    fis                E
 W koszuli z wiatru na grzbiecie jak strachu
+h           fis       D     E 
 Z dala spoglądam na ulice świata
 
+A7                 e7               D
 Wiatr niby ten sam lecz kierunek zmienia
+d          C              a           G        
 I z samych gór spycha przemożnie nad morze
+d           F      G      F     G        A      
 Przyjdzie odejść więc ... uciec przed jesienią
 
+A                 e             D
 Gdy na bukowe pnie się pnie ta jesien
+d            C         a       G
 Raz jeszcze się na chmmurze położe
+d7        F     G        F    G       A
 Jeszcze mnie kawałek ... ta droga zaniesie
-
+d                   a              G             
 Nad górskim stawem, mym oknem na niebo
+d7                   F              G      
 Którego bym przecież nie sięgnął inaczej
+d7                 a                   G      
 W koszuli z wiatru na grzbiecie jak strachu
+d7                     F      G 
 Z dala spoglądam na ulice świata
 
+D         A    fis      E  
 Jesień spuściła firany liści
+h           fis    D          E       
 Nim deszczem widok na góry zasłonił
+D       A   fis     E
 Rozpościera dywan wzorzysty
+h                 fis        D            E
 I wciąż jest mi w górach, w górach jak w domu
 
+D         A    fis      E  
 Jesień spuściła firany liści
+h           fis    D          E       
 Nim deszczem widok na góry zasłonił
+D       A   fis     E
 Rozpościera dywan wzorzysty
-I wciąż jest mi w górach, w górach jak w domu /3x
+h                 fis
+I wciąż jest mi w górach, 
+D         E
+I wciąż jest mi w górach, 
+h                 fis   D  E
+I wciąż jest mi w górach, 
+                A
+w górach jak w domu /3x
+
+A e7 D d7 C a7 G
+A e7 D d7 C a7 G
 
 URL::https://www.youtube.com/watch?v=o3dUFjthwJQ
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
